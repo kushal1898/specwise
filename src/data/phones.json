@@ -1,0 +1,3445 @@
+[
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "price_inr": 134900,
+    "price_usd": 999,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IPhone_15_Pro_Vector.svg/960px-IPhone_15_Pro_Vector.svg.png",
+    "score": 94,
+    "processor": "Apple A17 Pro",
+    "camera_mp": 48,
+    "battery_mah": 3274,
+    "display_inches": 6.1,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=JwAfHEHQKto",
+    "verdict": "The best iPhone yet with pro-level camera capabilities, titanium design, and action button.",
+    "pros": [
+      "Excellent cameras",
+      "A17 Pro chip",
+      "Titanium build",
+      "USB-C"
+    ],
+    "cons": [
+      "Expensive",
+      "Battery could be bigger",
+      "No charger in box"
+    ],
+    "resale_value_6m": 699,
+    "resale_value_1y": 549,
+    "reviewer": "Mrwhosetheboss"
+  },
+  {
+    "id": "samsung-galaxy-s24-ultra",
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "price_inr": 129999,
+    "price_usd": 1299,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/960px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG",
+    "score": 93,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 200,
+    "battery_mah": 5000,
+    "display_inches": 6.8,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=HvoBci_GC8A",
+    "verdict": "Samsung's most capable smartphone with AI features, S Pen, and incredible camera zoom.",
+    "pros": [
+      "200MP camera",
+      "S Pen included",
+      "AI features",
+      "Titanium frame"
+    ],
+    "cons": [
+      "Very expensive",
+      "Large and heavy",
+      "Slow charging"
+    ],
+    "resale_value_6m": 909,
+    "resale_value_1y": 714,
+    "reviewer": "Mrwhosetheboss"
+  },
+  {
+    "id": "oneplus-12",
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "price_inr": 64999,
+    "price_usd": 799,
+    "category": [
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/OnePlus_logo.svg/800px-OnePlus_logo.svg.png",
+    "score": 90,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 50,
+    "battery_mah": 5400,
+    "display_inches": 6.82,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=J9-9fP_pcEc",
+    "verdict": "A flagship killer with excellent display, fast charging, and premium features at a competitive price.",
+    "pros": [
+      "100W fast charging",
+      "Great display",
+      "Value for money",
+      "Hasselblad cameras"
+    ],
+    "cons": [
+      "No IP68",
+      "Curved display",
+      "Limited carrier support"
+    ],
+    "resale_value_6m": 559,
+    "resale_value_1y": 439,
+    "reviewer": "Mrwhosetheboss"
+  },
+  {
+    "id": "google-pixel-8a",
+    "name": "Google Pixel 8a",
+    "brand": "Google",
+    "price_inr": 52999,
+    "price_usd": 499,
+    "category": [
+      "camera",
+      "5g",
+      "compact"
+    ],
+    "image": "/images/phones/google-pixel-8a.jpg",
+    "score": 86,
+    "processor": "Google Tensor G3",
+    "camera_mp": 64,
+    "battery_mah": 4492,
+    "display_inches": 6.1,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=B3szaVzQx0o",
+    "verdict": "The best mid-range phone with flagship camera processing and 7 years of software updates.",
+    "pros": [
+      "Excellent camera software",
+      "7 years updates",
+      "Clean Android",
+      "Great value"
+    ],
+    "cons": [
+      "Average battery",
+      "Slow charging",
+      "No telephoto"
+    ],
+    "resale_value_6m": 349,
+    "resale_value_1y": 274,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "nothing-phone-2",
+    "name": "Nothing Phone (2)",
+    "brand": "Nothing",
+    "price_inr": 44999,
+    "price_usd": 599,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nothing_phone_%282%29_%28Booredatwork.com%29_013.png/960px-Nothing_phone_%282%29_%28Booredatwork.com%29_013.png",
+    "score": 82,
+    "processor": "Snapdragon 8+ Gen 1",
+    "camera_mp": 50,
+    "battery_mah": 4700,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=lRUtHtqfCGA",
+    "verdict": "A unique smartphone with Glyph interface and clean software that stands out from the crowd.",
+    "pros": [
+      "Unique Glyph design",
+      "Clean software",
+      "Wireless charging",
+      "Great display"
+    ],
+    "cons": [
+      "Older processor",
+      "Average cameras",
+      "Glyph is gimmicky"
+    ],
+    "resale_value_6m": 419,
+    "resale_value_1y": 329,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "xiaomi-14",
+    "name": "Xiaomi 14",
+    "brand": "Xiaomi",
+    "price_inr": 69999,
+    "price_usd": 899,
+    "category": [
+      "flagship",
+      "camera",
+      "compact",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
+    "score": 88,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 50,
+    "battery_mah": 4610,
+    "display_inches": 6.36,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=YeKBdpRC9Uc",
+    "verdict": "A compact flagship with Leica cameras and premium features packed into a smaller form factor.",
+    "pros": [
+      "Compact size",
+      "Leica cameras",
+      "90W charging",
+      "Flat display"
+    ],
+    "cons": [
+      "MIUI bloatware",
+      "No headphone jack",
+      "Limited availability"
+    ],
+    "resale_value_6m": 629,
+    "resale_value_1y": 494,
+    "reviewer": "TechWiser"
+  },
+  {
+    "id": "realme-gt-5-pro",
+    "name": "Realme GT 5 Pro",
+    "brand": "Realme",
+    "price_inr": 54999,
+    "price_usd": 649,
+    "category": [
+      "gaming",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Realme_logo.svg/800px-Realme_logo.svg.png",
+    "score": 85,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 50,
+    "battery_mah": 5400,
+    "display_inches": 6.78,
+    "display_hz": 144,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=4zkL3l6974s",
+    "verdict": "A gaming powerhouse with flagship specs at a mid-range price point.",
+    "pros": [
+      "144Hz display",
+      "Fast performance",
+      "100W charging",
+      "Great value"
+    ],
+    "cons": [
+      "Plastic frame",
+      "Bloatware",
+      "Average cameras"
+    ],
+    "resale_value_6m": 454,
+    "resale_value_1y": 357,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "samsung-galaxy-a55",
+    "name": "Samsung Galaxy A55",
+    "brand": "Samsung",
+    "price_inr": 39999,
+    "price_usd": 449,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Samsung_Galaxy_A55_5G_2024.jpg/960px-Samsung_Galaxy_A55_5G_2024.jpg",
+    "score": 78,
+    "processor": "Exynos 1480",
+    "camera_mp": 50,
+    "battery_mah": 5000,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=tw7Oc-0f3Wo",
+    "verdict": "Samsung's best mid-range phone with excellent display, good cameras, and long software support.",
+    "pros": [
+      "Great display",
+      "IP67 rating",
+      "4 years updates",
+      "Good cameras"
+    ],
+    "cons": [
+      "Slow charging",
+      "Exynos chip",
+      "No telephoto"
+    ],
+    "resale_value_6m": 314,
+    "resale_value_1y": 247,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "iphone-16-pro-max",
+    "name": "iPhone 16 Pro Max",
+    "brand": "Apple",
+    "price_inr": 94703,
+    "price_usd": 1141,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/IPhone_16_Pro_Vector.svg/960px-IPhone_16_Pro_Vector.svg.png",
+    "score": 86,
+    "processor": "Google Tensor G4",
+    "camera_mp": 193,
+    "battery_mah": 5603,
+    "display_inches": 6.2,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=xQwfnYh2dmY",
+    "verdict": "A premium Apple flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Excellent cameras",
+      "Dolby Atmos speakers",
+      "LTPO display"
+    ],
+    "cons": [
+      "No expandable storage",
+      "Slow charging",
+      "Old processor"
+    ],
+    "resale_value_6m": 856,
+    "resale_value_1y": 685,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "iphone-16-pro",
+    "name": "iPhone 16 Pro",
+    "brand": "Apple",
+    "price_inr": 82336,
+    "price_usd": 992,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/IPhone_16_Pro_Vector.svg/960px-IPhone_16_Pro_Vector.svg.png",
+    "score": 88,
+    "processor": "Google Tensor G4",
+    "camera_mp": 149,
+    "battery_mah": 5827,
+    "display_inches": 6.8,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=yLSv2uVbd8w",
+    "verdict": "A premium Apple flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Compact size",
+      "Stereo speakers",
+      "Fast fingerprint sensor",
+      "LTPO display"
+    ],
+    "cons": [
+      "No charger in box",
+      "Bloatware",
+      "No 5G"
+    ],
+    "resale_value_6m": 744,
+    "resale_value_1y": 595,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "iphone-16-plus",
+    "name": "iPhone 16 Plus",
+    "brand": "Apple",
+    "price_inr": 15604,
+    "price_usd": 188,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/IPhone_16_Vector.svg/960px-IPhone_16_Vector.svg.png",
+    "score": 71,
+    "processor": "Snapdragon 695",
+    "camera_mp": 51,
+    "battery_mah": 5196,
+    "display_inches": 6.4,
+    "display_hz": 90,
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Tp5CeSkP9SU",
+    "verdict": "An affordable Apple device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Stereo speakers",
+      "IP68 water resistance",
+      "AI features",
+      "Satellite connectivity"
+    ],
+    "cons": [
+      "Plastic build",
+      "Small battery"
+    ],
+    "resale_value_6m": 103,
+    "resale_value_1y": 75,
+    "reviewer": "Technolobe"
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "brand": "Apple",
+    "price_inr": 24817,
+    "price_usd": 299,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/IPhone_16_Vector.svg/960px-IPhone_16_Vector.svg.png",
+    "score": 80,
+    "processor": "Snapdragon 6 Gen 1",
+    "camera_mp": 52,
+    "battery_mah": 5208,
+    "display_inches": 6.4,
+    "display_hz": 90,
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=MRtg6A1f2Ko",
+    "verdict": "An affordable Apple device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Excellent cameras",
+      "Great battery life",
+      "Dolby Atmos speakers",
+      "AI features"
+    ],
+    "cons": [
+      "Slow charging",
+      "No headphone jack"
+    ],
+    "resale_value_6m": 164,
+    "resale_value_1y": 120,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "iphone-15-pro-max",
+    "name": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "price_inr": 104829,
+    "price_usd": 1263,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IPhone_15_Pro_Vector.svg/960px-IPhone_15_Pro_Vector.svg.png",
+    "score": 88,
+    "processor": "Dimensity 9400",
+    "camera_mp": 94,
+    "battery_mah": 5522,
+    "display_inches": 6.3,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=cVpcl7KGly0",
+    "verdict": "A premium Apple flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Expandable storage",
+      "Stunning display",
+      "120Hz AMOLED"
+    ],
+    "cons": [
+      "No IP rating",
+      "Plastic build"
+    ],
+    "resale_value_6m": 947,
+    "resale_value_1y": 758,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "iphone-15",
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "price_inr": 16185,
+    "price_usd": 195,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/IPhone_15_Vector.svg/960px-IPhone_15_Vector.svg.png",
+    "score": 69,
+    "processor": "Snapdragon 695",
+    "camera_mp": 50,
+    "battery_mah": 5849,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=s1XVb4mdELc",
+    "verdict": "An affordable Apple device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "S Pen support",
+      "Expandable storage",
+      "Great battery life"
+    ],
+    "cons": [
+      "Small battery",
+      "Old processor",
+      "No 5G"
+    ],
+    "resale_value_6m": 107,
+    "resale_value_1y": 78,
+    "reviewer": "Mrwhosetheboss"
+  },
+  {
+    "id": "iphone-15-plus",
+    "name": "iPhone 15 Plus",
+    "brand": "Apple",
+    "price_inr": 20999,
+    "price_usd": 253,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/IPhone_15_Vector.svg/960px-IPhone_15_Vector.svg.png",
+    "score": 78,
+    "processor": "Exynos 1480",
+    "camera_mp": 62,
+    "battery_mah": 5300,
+    "display_inches": 6.4,
+    "display_hz": 90,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=s1XVb4mdELc",
+    "verdict": "An affordable Apple device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Stereo speakers",
+      "Great battery life",
+      "Compact size"
+    ],
+    "cons": [
+      "Weak haptics",
+      "Heavy"
+    ],
+    "resale_value_6m": 139,
+    "resale_value_1y": 101,
+    "reviewer": "Mrwhosetheboss"
+  },
+  {
+    "id": "iphone-se-4",
+    "name": "iPhone SE 4",
+    "brand": "Apple",
+    "price_inr": 27722,
+    "price_usd": 334,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IPhone_16e_Vector.svg/960px-IPhone_16e_Vector.svg.png",
+    "score": 68,
+    "processor": "Snapdragon 695",
+    "camera_mp": 60,
+    "battery_mah": 5586,
+    "display_inches": 6.5,
+    "display_hz": 90,
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=qF4vZxbSmjo",
+    "verdict": "An affordable Apple device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Premium build quality",
+      "Under-display camera",
+      "Great haptics"
+    ],
+    "cons": [
+      "No stereo speakers",
+      "Small battery",
+      "Curved display"
+    ],
+    "resale_value_6m": 184,
+    "resale_value_1y": 134,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14",
+    "brand": "Apple",
+    "price_inr": 18758,
+    "price_usd": 226,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/IPhone_14_vector.svg/960px-IPhone_14_vector.svg.png",
+    "score": 72,
+    "processor": "Exynos 1480",
+    "camera_mp": 48,
+    "battery_mah": 5184,
+    "display_inches": 6.7,
+    "display_hz": 90,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=v94jRN2FhGo",
+    "verdict": "An affordable Apple device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Fast charging",
+      "Fast fingerprint sensor",
+      "Great selfie camera",
+      "Great battery life"
+    ],
+    "cons": [
+      "Expensive",
+      "Plastic build"
+    ],
+    "resale_value_6m": 124,
+    "resale_value_1y": 90,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "iphone-14-plus",
+    "name": "iPhone 14 Plus",
+    "brand": "Apple",
+    "price_inr": 13695,
+    "price_usd": 165,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/IPhone_14_vector.svg/960px-IPhone_14_vector.svg.png",
+    "score": 73,
+    "processor": "Helio G99 Ultra",
+    "camera_mp": 52,
+    "battery_mah": 5408,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 6,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=HDkd_nO1tvA",
+    "verdict": "An affordable Apple device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Long software updates",
+      "Titanium frame",
+      "Great battery life",
+      "Under-display camera"
+    ],
+    "cons": [
+      "Plastic build",
+      "Small battery"
+    ],
+    "resale_value_6m": 91,
+    "resale_value_1y": 66,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "galaxy-s25-ultra",
+    "name": "Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "price_inr": 66068,
+    "price_usd": 796,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%E7%AC%AC%E4%B8%80%E6%89%8B%EF%BC%81Samsung_Galaxy_S25%E7%B3%BB%E5%88%97%E6%8B%BF%E5%88%B0%E4%BA%86%EF%BC%9A5%E4%B8%AA%E5%8D%87%E7%BA%A7%EF%BC%81S_Pen%E4%B8%8D%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E4%BA%86%EF%BC%9F_%282160p_50fps_VP9-96kbit_AAC%29-00.00.07.100.png/960px-%E7%AC%AC%E4%B8%80%E6%89%8B%EF%BC%81Samsung_Galaxy_S25%E7%B3%BB%E5%88%97%E6%8B%BF%E5%88%B0%E4%BA%86%EF%BC%9A5%E4%B8%AA%E5%8D%87%E7%BA%A7%EF%BC%81S_Pen%E4%B8%8D%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E4%BA%86%EF%BC%9F_%282160p_50fps_VP9-96kbit_AAC%29-00.00.07.100.png",
+    "score": 91,
+    "processor": "Apple A18",
+    "camera_mp": 184,
+    "battery_mah": 5151,
+    "display_inches": 6.1,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=MdXzCCWfp_o",
+    "verdict": "A premium Samsung flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Good value",
+      "IP68 water resistance",
+      "Titanium frame",
+      "3.5mm headphone jack"
+    ],
+    "cons": [
+      "Bloatware",
+      "Expensive",
+      "No wireless charging"
+    ],
+    "resale_value_6m": 597,
+    "resale_value_1y": 478,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "galaxy-s25",
+    "name": "Galaxy S25+",
+    "brand": "Samsung",
+    "price_inr": 19837,
+    "price_usd": 239,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/%E7%AC%AC%E4%B8%80%E6%89%8B%EF%BC%81Samsung_Galaxy_S25%E7%B3%BB%E5%88%97%E6%8B%BF%E5%88%B0%E4%BA%86%EF%BC%9A5%E4%B8%AA%E5%8D%87%E7%BA%A7%EF%BC%81S_Pen%E4%B8%8D%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E4%BA%86%EF%BC%9F_%282160p_50fps_VP9-96kbit_AAC%29-00.00.07.100.png/960px-%E7%AC%AC%E4%B8%80%E6%89%8B%EF%BC%81Samsung_Galaxy_S25%E7%B3%BB%E5%88%97%E6%8B%BF%E5%88%B0%E4%BA%86%EF%BC%9A5%E4%B8%AA%E5%8D%87%E7%BA%A7%EF%BC%81S_Pen%E4%B8%8D%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E4%BA%86%EF%BC%9F_%282160p_50fps_VP9-96kbit_AAC%29-00.00.07.100.png",
+    "score": 77,
+    "processor": "Dimensity 7300",
+    "camera_mp": 61,
+    "battery_mah": 5782,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=kTuf_pRSnZY",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Premium build quality",
+      "120Hz AMOLED",
+      "Titanium frame"
+    ],
+    "cons": [
+      "No charger in box",
+      "Average battery"
+    ],
+    "resale_value_6m": 131,
+    "resale_value_1y": 96,
+    "reviewer": "Just Josh"
+  },
+  {
+    "id": "galaxy-s24-fe",
+    "name": "Galaxy S24 FE",
+    "brand": "Samsung",
+    "price_inr": 20833,
+    "price_usd": 251,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG/960px-Samsung_Galaxy_S24%2C_Sperrbildschirm.JPG",
+    "score": 70,
+    "processor": "Dimensity 7300",
+    "camera_mp": 52,
+    "battery_mah": 5733,
+    "display_inches": 6.5,
+    "display_hz": 90,
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=pMGczfgaM9A",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "5G connectivity",
+      "Under-display camera",
+      "Fast charging"
+    ],
+    "cons": [
+      "Expensive",
+      "No charger in box"
+    ],
+    "resale_value_6m": 138,
+    "resale_value_1y": 100,
+    "reviewer": "Tech SuperStar"
+  },
+  {
+    "id": "galaxy-z-fold-6",
+    "name": "Galaxy Z Fold 6",
+    "brand": "Samsung",
+    "price_inr": 104082,
+    "price_usd": 1254,
+    "category": [
+      "foldable",
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Samsung_Galaxy_Z_Fold6.png",
+    "score": 92,
+    "processor": "Apple A18",
+    "camera_mp": 82,
+    "battery_mah": 4242,
+    "display_inches": 7.7,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=rF3YXjrgJ_U",
+    "verdict": "Samsung's innovative foldable device that combines cutting-edge design with powerful internals.",
+    "pros": [
+      "IP68 water resistance",
+      "Wireless charging",
+      "Good value"
+    ],
+    "cons": [
+      "Low resolution display",
+      "No 5G",
+      "No stereo speakers"
+    ],
+    "resale_value_6m": 941,
+    "resale_value_1y": 752,
+    "reviewer": "Shane Symonds"
+  },
+  {
+    "id": "galaxy-z-flip-6",
+    "name": "Galaxy Z Flip 6",
+    "brand": "Samsung",
+    "price_inr": 145416,
+    "price_usd": 1752,
+    "category": [
+      "foldable",
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/%E4%B8%89%E6%98%9FGalaxy_Z_Flip6.png",
+    "score": 87,
+    "processor": "Google Tensor G4",
+    "camera_mp": 129,
+    "battery_mah": 4186,
+    "display_inches": 7.3,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=5t1okmz8Pyw",
+    "verdict": "Samsung's innovative foldable device that combines cutting-edge design with powerful internals.",
+    "pros": [
+      "Hasselblad cameras",
+      "IP68 water resistance",
+      "Long software updates",
+      "Great selfie camera"
+    ],
+    "cons": [
+      "Expensive",
+      "No charger in box"
+    ],
+    "resale_value_6m": 964,
+    "resale_value_1y": 701,
+    "reviewer": "Mrwhosetheboss"
+  },
+  {
+    "id": "galaxy-a54",
+    "name": "Galaxy A54",
+    "brand": "Samsung",
+    "price_inr": 19588,
+    "price_usd": 236,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Back_of_the_Samsung_Galaxy_A54_5G.jpg/960px-Back_of_the_Samsung_Galaxy_A54_5G.jpg",
+    "score": 71,
+    "processor": "Snapdragon 6 Gen 1",
+    "camera_mp": 60,
+    "battery_mah": 5371,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=cTxJ5oLuxkM",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Long software updates",
+      "3.5mm headphone jack",
+      "Leica optics"
+    ],
+    "cons": [
+      "Gets warm",
+      "Bloatware",
+      "Large and bulky"
+    ],
+    "resale_value_6m": 130,
+    "resale_value_1y": 94,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "galaxy-a35",
+    "name": "Galaxy A35",
+    "brand": "Samsung",
+    "price_inr": 17928,
+    "price_usd": 216,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Samsung_Galaxy_A35_5G_2024_%281%29.jpg/960px-Samsung_Galaxy_A35_5G_2024_%281%29.jpg",
+    "score": 74,
+    "processor": "Snapdragon 6 Gen 1",
+    "camera_mp": 54,
+    "battery_mah": 5816,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=7WjN21umnlQ",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Fast fingerprint sensor",
+      "Dolby Atmos speakers",
+      "Excellent cameras"
+    ],
+    "cons": [
+      "Plastic build",
+      "Slow charging"
+    ],
+    "resale_value_6m": 119,
+    "resale_value_1y": 86,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "galaxy-a25",
+    "name": "Galaxy A25",
+    "brand": "Samsung",
+    "price_inr": 22493,
+    "price_usd": 271,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Samsung_Galaxy_A25_5G_2024.jpg/960px-Samsung_Galaxy_A25_5G_2024.jpg",
+    "score": 80,
+    "processor": "Snapdragon 695",
+    "camera_mp": 54,
+    "battery_mah": 5724,
+    "display_inches": 6.7,
+    "display_hz": 90,
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Tx7er53LJoQ",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Smooth performance",
+      "Premium build quality",
+      "Fast charging",
+      "Large screen"
+    ],
+    "cons": [
+      "No expandable storage",
+      "Heavy",
+      "Short update support"
+    ],
+    "resale_value_6m": 149,
+    "resale_value_1y": 108,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "galaxy-a15",
+    "name": "Galaxy A15",
+    "brand": "Samsung",
+    "price_inr": 25730,
+    "price_usd": 310,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Samsung_Galaxy_A15.png",
+    "score": 71,
+    "processor": "Snapdragon 6 Gen 1",
+    "camera_mp": 60,
+    "battery_mah": 5595,
+    "display_inches": 6.6,
+    "display_hz": 90,
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=6KaUzjZ3-Sg",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "LTPO display",
+      "Compact size",
+      "Excellent cameras"
+    ],
+    "cons": [
+      "Weak haptics",
+      "No 5G",
+      "Heavy"
+    ],
+    "resale_value_6m": 171,
+    "resale_value_1y": 124,
+    "reviewer": "Valor Reviews"
+  },
+  {
+    "id": "galaxy-m55",
+    "name": "Galaxy M55",
+    "brand": "Samsung",
+    "price_inr": 14525,
+    "price_usd": 175,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/960px-Samsung_headquarters.jpg",
+    "score": 72,
+    "processor": "Exynos 1480",
+    "camera_mp": 51,
+    "battery_mah": 5434,
+    "display_inches": 6.6,
+    "display_hz": 90,
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=K_Kl-v5ltpQ",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Hasselblad cameras",
+      "Stunning display",
+      "S Pen support",
+      "Good value"
+    ],
+    "cons": [
+      "Average battery",
+      "Plastic build",
+      "No 5G"
+    ],
+    "resale_value_6m": 96,
+    "resale_value_1y": 70,
+    "reviewer": "mobiscrub"
+  },
+  {
+    "id": "galaxy-f55",
+    "name": "Galaxy F55",
+    "brand": "Samsung",
+    "price_inr": 24070,
+    "price_usd": 290,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Samsung_headquarters.jpg/960px-Samsung_headquarters.jpg",
+    "score": 72,
+    "processor": "Helio G99 Ultra",
+    "camera_mp": 48,
+    "battery_mah": 5610,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=rpQUdiBYCLk",
+    "verdict": "An affordable Samsung device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Dolby Atmos speakers",
+      "Clean software",
+      "Good value"
+    ],
+    "cons": [
+      "Small battery",
+      "No headphone jack",
+      "Short update support"
+    ],
+    "resale_value_6m": 160,
+    "resale_value_1y": 116,
+    "reviewer": "Sillycorns"
+  },
+  {
+    "id": "pixel-9-pro-xl",
+    "name": "Pixel 9 Pro XL",
+    "brand": "Google",
+    "price_inr": 101675,
+    "price_usd": 1225,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Google_Pixel_9_Pro_XL_%28Porcelain%29.png/512px-Google_Pixel_9_Pro_XL_%28Porcelain%29.png",
+    "score": 94,
+    "processor": "Snapdragon 8 Elite",
+    "camera_mp": 80,
+    "battery_mah": 4878,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Q7eMN6G-YG4",
+    "verdict": "A premium Google flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Hasselblad cameras",
+      "Titanium frame",
+      "Smooth performance"
+    ],
+    "cons": [
+      "Small battery",
+      "Heavy",
+      "Average battery"
+    ],
+    "resale_value_6m": 919,
+    "resale_value_1y": 735,
+    "reviewer": "6 Months Later"
+  },
+  {
+    "id": "pixel-9-pro",
+    "name": "Pixel 9 Pro",
+    "brand": "Google",
+    "price_inr": 100845,
+    "price_usd": 1215,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Google_Pixel_9_Pro_%28Hazel%29.png/512px-Google_Pixel_9_Pro_%28Hazel%29.png",
+    "score": 95,
+    "processor": "Exynos 2400",
+    "camera_mp": 184,
+    "battery_mah": 5062,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=EGkGRs6YhoM",
+    "verdict": "A premium Google flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Leica optics",
+      "Smooth performance",
+      "AI features"
+    ],
+    "cons": [
+      "Average cameras",
+      "No charger in box",
+      "Large and bulky"
+    ],
+    "resale_value_6m": 911,
+    "resale_value_1y": 729,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "pixel-9",
+    "name": "Pixel 9",
+    "brand": "Google",
+    "price_inr": 28054,
+    "price_usd": 338,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Google_Pixel_9_%28Peony%29.png/512px-Google_Pixel_9_%28Peony%29.png",
+    "score": 73,
+    "processor": "Snapdragon 695",
+    "camera_mp": 62,
+    "battery_mah": 5046,
+    "display_inches": 6.7,
+    "display_hz": 90,
+    "ram_gb": 6,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=EGkGRs6YhoM",
+    "verdict": "An affordable Google device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Hasselblad cameras",
+      "LTPO display",
+      "Stunning display"
+    ],
+    "cons": [
+      "Short update support",
+      "No 5G",
+      "Average cameras"
+    ],
+    "resale_value_6m": 186,
+    "resale_value_1y": 135,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "pixel-9a",
+    "name": "Pixel 9a",
+    "brand": "Google",
+    "price_inr": 22991,
+    "price_usd": 277,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "/images/phones/pixel-9a.jpg",
+    "score": 72,
+    "processor": "Helio G99 Ultra",
+    "camera_mp": 62,
+    "battery_mah": 5268,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=SUeQvl7IOV4",
+    "verdict": "An affordable Google device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Zeiss optics",
+      "Stunning display",
+      "S Pen support",
+      "Excellent cameras"
+    ],
+    "cons": [
+      "No headphone jack",
+      "Bloatware"
+    ],
+    "resale_value_6m": 152,
+    "resale_value_1y": 111,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "pixel-8-pro",
+    "name": "Pixel 8 Pro",
+    "brand": "Google",
+    "price_inr": 109228,
+    "price_usd": 1316,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "/images/phones/pixel-8-pro.jpg",
+    "score": 88,
+    "processor": "Snapdragon 8 Elite",
+    "camera_mp": 149,
+    "battery_mah": 5676,
+    "display_inches": 6.9,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=BS8x2TicxQ8",
+    "verdict": "A premium Google flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Versatile cameras",
+      "Long software updates",
+      "Satellite connectivity",
+      "Leica optics"
+    ],
+    "cons": [
+      "Low resolution display",
+      "Bloatware",
+      "Ads in UI"
+    ],
+    "resale_value_6m": 987,
+    "resale_value_1y": 790,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "pixel-8",
+    "name": "Pixel 8",
+    "brand": "Google",
+    "price_inr": 22078,
+    "price_usd": 266,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "/images/phones/pixel-8.jpg",
+    "score": 78,
+    "processor": "Snapdragon 695",
+    "camera_mp": 60,
+    "battery_mah": 5728,
+    "display_inches": 6.7,
+    "display_hz": 90,
+    "ram_gb": 6,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=2u1DXirbymY",
+    "verdict": "An affordable Google device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Compact size",
+      "Large screen",
+      "Good value",
+      "Fast charging"
+    ],
+    "cons": [
+      "Average battery",
+      "Heavy",
+      "Slow charging"
+    ],
+    "resale_value_6m": 146,
+    "resale_value_1y": 106,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "pixel-fold-2",
+    "name": "Pixel Fold 2",
+    "brand": "Google",
+    "price_inr": 106738,
+    "price_usd": 1286,
+    "category": [
+      "foldable",
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Google_Pixel_9_Pro_Fold_%28Porcelain%29_unfolded.svg/512px-Google_Pixel_9_Pro_Fold_%28Porcelain%29_unfolded.svg.png",
+    "score": 87,
+    "processor": "Dimensity 9400",
+    "camera_mp": 171,
+    "battery_mah": 4128,
+    "display_inches": 6.8,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Tl8RS0sR-qA",
+    "verdict": "Google's innovative foldable device that combines cutting-edge design with powerful internals.",
+    "pros": [
+      "IP68 water resistance",
+      "Great battery life",
+      "3.5mm headphone jack"
+    ],
+    "cons": [
+      "Plastic build",
+      "No charger in box",
+      "Limited availability"
+    ],
+    "resale_value_6m": 965,
+    "resale_value_1y": 772,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "oneplus-13",
+    "name": "OnePlus 13",
+    "brand": "OnePlus",
+    "price_inr": 19422,
+    "price_usd": 234,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OnePlus_13_front.jpg/960px-OnePlus_13_front.jpg",
+    "score": 79,
+    "processor": "Dimensity 6300",
+    "camera_mp": 54,
+    "battery_mah": 5377,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=zEvyiZMgSKo",
+    "verdict": "An affordable OnePlus device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Excellent cameras",
+      "Zeiss optics",
+      "Dolby Atmos speakers",
+      "LTPO display"
+    ],
+    "cons": [
+      "Slow charging",
+      "No IP rating"
+    ],
+    "resale_value_6m": 129,
+    "resale_value_1y": 94,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "oneplus-13r",
+    "name": "OnePlus 13R",
+    "brand": "OnePlus",
+    "price_inr": 12450,
+    "price_usd": 150,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/OnePlus_logo.svg/800px-OnePlus_logo.svg.png",
+    "score": 74,
+    "processor": "Exynos 1480",
+    "camera_mp": 55,
+    "battery_mah": 5329,
+    "display_inches": 6.5,
+    "display_hz": 90,
+    "ram_gb": 8,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=zEvyiZMgSKo",
+    "verdict": "An affordable OnePlus device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Hasselblad cameras",
+      "Great battery life",
+      "Stereo speakers",
+      "Excellent cameras"
+    ],
+    "cons": [
+      "No stereo speakers",
+      "Curved display"
+    ],
+    "resale_value_6m": 83,
+    "resale_value_1y": 60,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "oneplus-12r",
+    "name": "OnePlus 12R",
+    "brand": "OnePlus",
+    "price_inr": 28884,
+    "price_usd": 348,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/OnePlus_Ace_3_Black.jpg/960px-OnePlus_Ace_3_Black.jpg",
+    "score": 75,
+    "processor": "Dimensity 7300",
+    "camera_mp": 60,
+    "battery_mah": 5377,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=keLe3PAqY38",
+    "verdict": "An affordable OnePlus device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Excellent cameras",
+      "LTPO display",
+      "Great battery life"
+    ],
+    "cons": [
+      "No headphone jack",
+      "Expensive",
+      "No charger in box"
+    ],
+    "resale_value_6m": 191,
+    "resale_value_1y": 139,
+    "reviewer": "Tech Boss"
+  },
+  {
+    "id": "oneplus-nord-4",
+    "name": "OnePlus Nord 4",
+    "brand": "OnePlus",
+    "price_inr": 44488,
+    "price_usd": 536,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oneplus_Nord_2.jpg/960px-Oneplus_Nord_2.jpg",
+    "score": 84,
+    "processor": "Dimensity 8300 Ultra",
+    "camera_mp": 108,
+    "battery_mah": 4652,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Vyng_fVx9Z4",
+    "verdict": "A solid mid-range offering from OnePlus that punches above its weight class with great specs for the price.",
+    "pros": [
+      "Great battery life",
+      "IP68 water resistance",
+      "Excellent cameras"
+    ],
+    "cons": [
+      "Slow charging",
+      "Average battery",
+      "No wireless charging"
+    ],
+    "resale_value_6m": 348,
+    "resale_value_1y": 268,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "oneplus-nord-ce-4",
+    "name": "OnePlus Nord CE 4",
+    "brand": "OnePlus",
+    "price_inr": 39425,
+    "price_usd": 475,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Oneplus_Nord_2.jpg/960px-Oneplus_Nord_2.jpg",
+    "score": 86,
+    "processor": "Dimensity 8200",
+    "camera_mp": 105,
+    "battery_mah": 4983,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=cm5z3aj9LwY",
+    "verdict": "A solid mid-range offering from OnePlus that punches above its weight class with great specs for the price.",
+    "pros": [
+      "5G connectivity",
+      "Premium build quality",
+      "Stereo speakers",
+      "S Pen support"
+    ],
+    "cons": [
+      "Expensive",
+      "No charger in box",
+      "No IP rating"
+    ],
+    "resale_value_6m": 309,
+    "resale_value_1y": 238,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "oneplus-open-2",
+    "name": "OnePlus Open 2",
+    "brand": "OnePlus",
+    "price_inr": 154048,
+    "price_usd": 1856,
+    "category": [
+      "foldable",
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/OnePlus_2_%28in_packaging%29.jpg/960px-OnePlus_2_%28in_packaging%29.jpg",
+    "score": 91,
+    "processor": "Exynos 2400",
+    "camera_mp": 82,
+    "battery_mah": 4876,
+    "display_inches": 7.4,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=jD9n01Mck0Q",
+    "verdict": "OnePlus's innovative foldable device that combines cutting-edge design with powerful internals.",
+    "pros": [
+      "Excellent cameras",
+      "Compact size",
+      "Leica optics",
+      "Clean software"
+    ],
+    "cons": [
+      "Expensive",
+      "No charger in box"
+    ],
+    "resale_value_6m": 1021,
+    "resale_value_1y": 742,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "xiaomi-15-pro",
+    "name": "Xiaomi 15 Pro",
+    "brand": "Xiaomi",
+    "price_inr": 113793,
+    "price_usd": 1371,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Xiaomi_15_Ultra_001.jpg/960px-Xiaomi_15_Ultra_001.jpg",
+    "score": 89,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 183,
+    "battery_mah": 5630,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=jCkABTpdouY",
+    "verdict": "A premium Xiaomi flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Good value",
+      "Compact size",
+      "Wireless charging"
+    ],
+    "cons": [
+      "Average battery",
+      "No charger in box"
+    ],
+    "resale_value_6m": 1028,
+    "resale_value_1y": 823,
+    "reviewer": "uncover+"
+  },
+  {
+    "id": "xiaomi-15",
+    "name": "Xiaomi 15",
+    "brand": "Xiaomi",
+    "price_inr": 20584,
+    "price_usd": 248,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Xiaomi_15_Ultra_001.jpg/960px-Xiaomi_15_Ultra_001.jpg",
+    "score": 72,
+    "processor": "Exynos 1480",
+    "camera_mp": 54,
+    "battery_mah": 5704,
+    "display_inches": 6.4,
+    "display_hz": 90,
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=ZIGwzU3iCE4",
+    "verdict": "An affordable Xiaomi device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Clean software",
+      "Fast fingerprint sensor",
+      "Long software updates"
+    ],
+    "cons": [
+      "Ads in UI",
+      "Average battery"
+    ],
+    "resale_value_6m": 136,
+    "resale_value_1y": 99,
+    "reviewer": "TechStation365"
+  },
+  {
+    "id": "xiaomi-14-ultra",
+    "name": "Xiaomi 14 Ultra",
+    "brand": "Xiaomi",
+    "price_inr": 104746,
+    "price_usd": 1262,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
+    "score": 92,
+    "processor": "Apple A18",
+    "camera_mp": 90,
+    "battery_mah": 5931,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=4QJq2h8tCv8",
+    "verdict": "A premium Xiaomi flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Excellent cameras",
+      "Under-display camera",
+      "Great battery life"
+    ],
+    "cons": [
+      "Plastic build",
+      "Slow charging",
+      "Weak haptics"
+    ],
+    "resale_value_6m": 947,
+    "resale_value_1y": 757,
+    "reviewer": "Mrwhosetheboss"
+  },
+  {
+    "id": "redmi-note-14-pro",
+    "name": "Redmi Note 14 Pro+",
+    "brand": "Xiaomi",
+    "price_inr": 67230,
+    "price_usd": 810,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Redmi_katrina.jpg/960px-Redmi_katrina.jpg",
+    "score": 88,
+    "processor": "Exynos 2400",
+    "camera_mp": 149,
+    "battery_mah": 5395,
+    "display_inches": 6.2,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=5s9FTlAfmGU",
+    "verdict": "A premium Xiaomi flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Large screen",
+      "Hasselblad cameras",
+      "Fast fingerprint sensor"
+    ],
+    "cons": [
+      "Old processor",
+      "No IP rating",
+      "No headphone jack"
+    ],
+    "resale_value_6m": 608,
+    "resale_value_1y": 486,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "redmi-note-14",
+    "name": "Redmi Note 14",
+    "brand": "Xiaomi",
+    "price_inr": 24402,
+    "price_usd": 294,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Redmi_katrina.jpg/960px-Redmi_katrina.jpg",
+    "score": 70,
+    "processor": "Dimensity 6300",
+    "camera_mp": 59,
+    "battery_mah": 5394,
+    "display_inches": 6.6,
+    "display_hz": 90,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=KSQTCQ6cADs",
+    "verdict": "An affordable Xiaomi device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Excellent cameras",
+      "Leica optics",
+      "Smooth performance",
+      "Great battery life"
+    ],
+    "cons": [
+      "Old processor",
+      "Low resolution display"
+    ],
+    "resale_value_6m": 162,
+    "resale_value_1y": 118,
+    "reviewer": "Valor Reviews"
+  },
+  {
+    "id": "poco-f6-pro",
+    "name": "Poco F6 Pro",
+    "brand": "Xiaomi",
+    "price_inr": 106987,
+    "price_usd": 1289,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Poco_Smartphone_Company_logo.svg/960px-Poco_Smartphone_Company_logo.svg.png",
+    "score": 93,
+    "processor": "Apple A18 Pro",
+    "camera_mp": 75,
+    "battery_mah": 4943,
+    "display_inches": 6.2,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=p5psel4aSJM",
+    "verdict": "A premium Xiaomi flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Clean software",
+      "Great battery life",
+      "120Hz AMOLED"
+    ],
+    "cons": [
+      "Bloatware",
+      "Heavy",
+      "Short update support"
+    ],
+    "resale_value_6m": 967,
+    "resale_value_1y": 773,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "poco-f6",
+    "name": "Poco F6",
+    "brand": "Xiaomi",
+    "price_inr": 57436,
+    "price_usd": 692,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Poco_Smartphone_Company_logo.svg/960px-Poco_Smartphone_Company_logo.svg.png",
+    "score": 79,
+    "processor": "Google Tensor G3",
+    "camera_mp": 66,
+    "battery_mah": 5360,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=mPRVWZs3bKA",
+    "verdict": "A solid mid-range offering from Xiaomi that punches above its weight class with great specs for the price.",
+    "pros": [
+      "Titanium frame",
+      "Long software updates",
+      "5G connectivity",
+      "Zeiss optics"
+    ],
+    "cons": [
+      "Heavy",
+      "Bloatware",
+      "Gets warm"
+    ],
+    "resale_value_6m": 450,
+    "resale_value_1y": 346,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "poco-x6-pro",
+    "name": "Poco X6 Pro",
+    "brand": "Xiaomi",
+    "price_inr": 102671,
+    "price_usd": 1237,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg",
+    "score": 90,
+    "processor": "Exynos 2400",
+    "camera_mp": 122,
+    "battery_mah": 5043,
+    "display_inches": 6.1,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=uUhdstio2AE",
+    "verdict": "A premium Xiaomi flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Satellite connectivity",
+      "Wireless charging",
+      "Large screen",
+      "LTPO display"
+    ],
+    "cons": [
+      "No 5G",
+      "Heavy"
+    ],
+    "resale_value_6m": 928,
+    "resale_value_1y": 742,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "poco-m6-pro",
+    "name": "Poco M6 Pro",
+    "brand": "Xiaomi",
+    "price_inr": 112299,
+    "price_usd": 1353,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg",
+    "score": 94,
+    "processor": "Apple A18",
+    "camera_mp": 65,
+    "battery_mah": 5134,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=_9mW7OVViSg",
+    "verdict": "A premium Xiaomi flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Excellent cameras",
+      "Satellite connectivity",
+      "LTPO display"
+    ],
+    "cons": [
+      "Average cameras",
+      "Average battery",
+      "Old processor"
+    ],
+    "resale_value_6m": 1015,
+    "resale_value_1y": 812,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "nothing-phone-3",
+    "name": "Nothing Phone (3)",
+    "brand": "Nothing",
+    "price_inr": 27888,
+    "price_usd": 336,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nothing_Logo.svg/800px-Nothing_Logo.svg.png",
+    "score": 77,
+    "processor": "Snapdragon 695",
+    "camera_mp": 60,
+    "battery_mah": 5336,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=vsC7ziJdpiI",
+    "verdict": "An affordable Nothing device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Zeiss optics",
+      "S Pen support",
+      "Smooth performance",
+      "Satellite connectivity"
+    ],
+    "cons": [
+      "No stereo speakers",
+      "Slow charging"
+    ],
+    "resale_value_6m": 185,
+    "resale_value_1y": 134,
+    "reviewer": "6 Months Later"
+  },
+  {
+    "id": "nothing-phone-2a-plus",
+    "name": "Nothing Phone (2a) Plus",
+    "brand": "Nothing",
+    "price_inr": 27058,
+    "price_usd": 326,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nothing-Design-Event-Tokyo-2024-07-05_018.jpg/960px-Nothing-Design-Event-Tokyo-2024-07-05_018.jpg",
+    "score": 68,
+    "processor": "Dimensity 6300",
+    "camera_mp": 49,
+    "battery_mah": 5046,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 4,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Ff4eRIMgqZs",
+    "verdict": "An affordable Nothing device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "LTPO display",
+      "Stunning display",
+      "Premium build quality",
+      "Under-display camera"
+    ],
+    "cons": [
+      "Average cameras",
+      "Small battery"
+    ],
+    "resale_value_6m": 179,
+    "resale_value_1y": 130,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "nothing-phone-2a",
+    "name": "Nothing Phone (2a)",
+    "brand": "Nothing",
+    "price_inr": 16766,
+    "price_usd": 202,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nothing-Design-Event-Tokyo-2024-07-05_018.jpg/960px-Nothing-Design-Event-Tokyo-2024-07-05_018.jpg",
+    "score": 78,
+    "processor": "Snapdragon 6 Gen 1",
+    "camera_mp": 63,
+    "battery_mah": 5754,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=VdOlqcg9uMQ",
+    "verdict": "An affordable Nothing device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Stunning display",
+      "Smooth performance",
+      "IP68 water resistance"
+    ],
+    "cons": [
+      "Curved display",
+      "Old processor"
+    ],
+    "resale_value_6m": 111,
+    "resale_value_1y": 81,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "moto-edge-50-ultra",
+    "name": "Moto Edge 50 Ultra",
+    "brand": "Motorola",
+    "price_inr": 98604,
+    "price_usd": 1188,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Motorola_Edge.png",
+    "score": 92,
+    "processor": "Exynos 2400",
+    "camera_mp": 74,
+    "battery_mah": 5557,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=eXNG8TRMcKM",
+    "verdict": "A premium Motorola flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "3.5mm headphone jack",
+      "Stunning display",
+      "S Pen support",
+      "Smooth performance"
+    ],
+    "cons": [
+      "No IP rating",
+      "Average cameras",
+      "No stereo speakers"
+    ],
+    "resale_value_6m": 891,
+    "resale_value_1y": 713,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "moto-edge-50-pro",
+    "name": "Moto Edge 50 Pro",
+    "brand": "Motorola",
+    "price_inr": 60922,
+    "price_usd": 734,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Motorola_Edge.png",
+    "score": 86,
+    "processor": "Apple A18",
+    "camera_mp": 187,
+    "battery_mah": 4507,
+    "display_inches": 6.2,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=MsGAXaB4Ryo",
+    "verdict": "A premium Motorola flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Hasselblad cameras",
+      "Leica optics",
+      "Dolby Atmos speakers",
+      "Good value"
+    ],
+    "cons": [
+      "Average battery",
+      "Ads in UI"
+    ],
+    "resale_value_6m": 551,
+    "resale_value_1y": 440,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "moto-edge-50-fusion",
+    "name": "Moto Edge 50 Fusion",
+    "brand": "Motorola",
+    "price_inr": 53701,
+    "price_usd": 647,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Motorola_Edge.png",
+    "score": 79,
+    "processor": "Snapdragon 7 Gen 3",
+    "camera_mp": 51,
+    "battery_mah": 5223,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=1z0xjJRsxlg",
+    "verdict": "A solid mid-range offering from Motorola that punches above its weight class with great specs for the price.",
+    "pros": [
+      "Wireless charging",
+      "Smooth performance",
+      "Long software updates"
+    ],
+    "cons": [
+      "Limited availability",
+      "Heavy"
+    ],
+    "resale_value_6m": 421,
+    "resale_value_1y": 324,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "moto-g85",
+    "name": "Moto G85",
+    "brand": "Motorola",
+    "price_inr": 28303,
+    "price_usd": 341,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Merchandise_Mart_080405.jpg/960px-Merchandise_Mart_080405.jpg",
+    "score": 76,
+    "processor": "Snapdragon 6 Gen 1",
+    "camera_mp": 55,
+    "battery_mah": 5694,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=ckEkajlhexc",
+    "verdict": "An affordable Motorola device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Expandable storage",
+      "Premium build quality",
+      "Satellite connectivity",
+      "LTPO display"
+    ],
+    "cons": [
+      "No wireless charging",
+      "Old processor",
+      "Plastic build"
+    ],
+    "resale_value_6m": 188,
+    "resale_value_1y": 136,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "moto-g75",
+    "name": "Moto G75",
+    "brand": "Motorola",
+    "price_inr": 17181,
+    "price_usd": 207,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Merchandise_Mart_080405.jpg/960px-Merchandise_Mart_080405.jpg",
+    "score": 76,
+    "processor": "Helio G99 Ultra",
+    "camera_mp": 50,
+    "battery_mah": 5905,
+    "display_inches": 6.5,
+    "display_hz": 90,
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=zarSxldgd_8",
+    "verdict": "An affordable Motorola device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Expandable storage",
+      "Smooth performance",
+      "Titanium frame"
+    ],
+    "cons": [
+      "Plastic build",
+      "No expandable storage",
+      "No IP rating"
+    ],
+    "resale_value_6m": 114,
+    "resale_value_1y": 83,
+    "reviewer": "Ash Does Tech "
+  },
+  {
+    "id": "moto-razr-50-ultra",
+    "name": "Moto Razr 50 Ultra",
+    "brand": "Motorola",
+    "price_inr": 100264,
+    "price_usd": 1208,
+    "category": [
+      "foldable",
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Motorola_RAZR_V3i_01.JPG/960px-Motorola_RAZR_V3i_01.JPG",
+    "score": 91,
+    "processor": "Dimensity 9400",
+    "camera_mp": 144,
+    "battery_mah": 4788,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=rXWrF-DCo9o",
+    "verdict": "Motorola's innovative foldable device that combines cutting-edge design with powerful internals.",
+    "pros": [
+      "Dolby Atmos speakers",
+      "Long software updates",
+      "Premium build quality"
+    ],
+    "cons": [
+      "No 5G",
+      "Limited availability"
+    ],
+    "resale_value_6m": 906,
+    "resale_value_1y": 725,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "moto-razr-50",
+    "name": "Moto Razr 50",
+    "brand": "Motorola",
+    "price_inr": 155625,
+    "price_usd": 1875,
+    "category": [
+      "foldable",
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Motorola_RAZR_V3i_01.JPG/960px-Motorola_RAZR_V3i_01.JPG",
+    "score": 83,
+    "processor": "Snapdragon 8 Elite",
+    "camera_mp": 147,
+    "battery_mah": 4361,
+    "display_inches": 7.9,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=15JD-8hFehQ",
+    "verdict": "Motorola's innovative foldable device that combines cutting-edge design with powerful internals.",
+    "pros": [
+      "Long software updates",
+      "Wireless charging",
+      "Zeiss optics"
+    ],
+    "cons": [
+      "Expensive",
+      "No wireless charging",
+      "Plastic build"
+    ],
+    "resale_value_6m": 1031,
+    "resale_value_1y": 750,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "oppo-find-x8-pro",
+    "name": "Oppo Find X8 Pro",
+    "brand": "Oppo",
+    "price_inr": 102173,
+    "price_usd": 1231,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
+    "score": 91,
+    "processor": "Apple A18",
+    "camera_mp": 121,
+    "battery_mah": 4908,
+    "display_inches": 6.8,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=9mKai6p0wIE",
+    "verdict": "A premium Oppo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "IP68 water resistance",
+      "Excellent cameras",
+      "Wireless charging",
+      "Stereo speakers"
+    ],
+    "cons": [
+      "Expensive",
+      "Average cameras",
+      "Curved display"
+    ],
+    "resale_value_6m": 923,
+    "resale_value_1y": 739,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "oppo-find-x8",
+    "name": "Oppo Find X8",
+    "brand": "Oppo",
+    "price_inr": 112133,
+    "price_usd": 1351,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
+    "score": 87,
+    "processor": "Apple A18 Pro",
+    "camera_mp": 153,
+    "battery_mah": 5514,
+    "display_inches": 6.1,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Qf7Xt9wB9SE",
+    "verdict": "A premium Oppo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Stunning display",
+      "Compact size",
+      "Stereo speakers",
+      "Fast fingerprint sensor"
+    ],
+    "cons": [
+      "Limited availability",
+      "Small battery"
+    ],
+    "resale_value_6m": 1013,
+    "resale_value_1y": 811,
+    "reviewer": "Gyan Therapy"
+  },
+  {
+    "id": "oppo-reno-12-pro",
+    "name": "Oppo Reno 12 Pro",
+    "brand": "Oppo",
+    "price_inr": 94454,
+    "price_usd": 1138,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OPPO_Logo.svg/800px-OPPO_Logo.svg.png",
+    "score": 93,
+    "processor": "Snapdragon 8 Elite",
+    "camera_mp": 159,
+    "battery_mah": 4701,
+    "display_inches": 6.3,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=L-zAf8fRvUw",
+    "verdict": "A premium Oppo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Stereo speakers",
+      "Long software updates",
+      "Clean software"
+    ],
+    "cons": [
+      "Curved display",
+      "Slow charging"
+    ],
+    "resale_value_6m": 854,
+    "resale_value_1y": 683,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "oppo-reno-12",
+    "name": "Oppo Reno 12",
+    "brand": "Oppo",
+    "price_inr": 54448,
+    "price_usd": 656,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OPPO_Logo.svg/800px-OPPO_Logo.svg.png",
+    "score": 85,
+    "processor": "Snapdragon 7 Gen 3",
+    "camera_mp": 66,
+    "battery_mah": 5399,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=0ySEoPoHhbQ",
+    "verdict": "A solid mid-range offering from Oppo that punches above its weight class with great specs for the price.",
+    "pros": [
+      "Zeiss optics",
+      "Wireless charging",
+      "Large screen",
+      "Leica optics"
+    ],
+    "cons": [
+      "Small battery",
+      "Expensive"
+    ],
+    "resale_value_6m": 426,
+    "resale_value_1y": 328,
+    "reviewer": "Tech Boss"
+  },
+  {
+    "id": "oppo-a3-pro",
+    "name": "Oppo A3 Pro",
+    "brand": "Oppo",
+    "price_inr": 99351,
+    "price_usd": 1197,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OPPO_Logo.svg/800px-OPPO_Logo.svg.png",
+    "score": 87,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 179,
+    "battery_mah": 5838,
+    "display_inches": 6.8,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=44gbi4X0un0",
+    "verdict": "A premium Oppo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Hasselblad cameras",
+      "Expandable storage",
+      "IP68 water resistance",
+      "Good value"
+    ],
+    "cons": [
+      "Limited availability",
+      "Average battery"
+    ],
+    "resale_value_6m": 898,
+    "resale_value_1y": 718,
+    "reviewer": "King Mobiles"
+  },
+  {
+    "id": "oppo-a2-pro",
+    "name": "Oppo A2 Pro",
+    "brand": "Oppo",
+    "price_inr": 100596,
+    "price_usd": 1212,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OPPO_Logo.svg/800px-OPPO_Logo.svg.png",
+    "score": 89,
+    "processor": "Google Tensor G4",
+    "camera_mp": 185,
+    "battery_mah": 5488,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=pQ74NDojTNc",
+    "verdict": "A premium Oppo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "IP68 water resistance",
+      "Under-display camera",
+      "Stunning display"
+    ],
+    "cons": [
+      "Ads in UI",
+      "Expensive",
+      "Bloatware"
+    ],
+    "resale_value_6m": 909,
+    "resale_value_1y": 727,
+    "reviewer": "Tech Maiky"
+  },
+  {
+    "id": "vivo-x200-pro",
+    "name": "Vivo X200 Pro",
+    "brand": "Vivo",
+    "price_inr": 95284,
+    "price_usd": 1148,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vivo_mobile_logo.svg/800px-Vivo_mobile_logo.svg.png",
+    "score": 91,
+    "processor": "Exynos 2400",
+    "camera_mp": 198,
+    "battery_mah": 5869,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=1PBxnRG6Lbc",
+    "verdict": "A premium Vivo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Fast charging",
+      "S Pen support",
+      "Stunning display"
+    ],
+    "cons": [
+      "Old processor",
+      "No stereo speakers",
+      "No charger in box"
+    ],
+    "resale_value_6m": 861,
+    "resale_value_1y": 689,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "vivo-x200",
+    "name": "Vivo X200",
+    "brand": "Vivo",
+    "price_inr": 38429,
+    "price_usd": 463,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vivo_mobile_logo.svg/800px-Vivo_mobile_logo.svg.png",
+    "score": 80,
+    "processor": "Snapdragon 6 Gen 3",
+    "camera_mp": 90,
+    "battery_mah": 4827,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=1PBxnRG6Lbc",
+    "verdict": "A solid mid-range offering from Vivo that punches above its weight class with great specs for the price.",
+    "pros": [
+      "Hasselblad cameras",
+      "Smooth performance",
+      "Excellent cameras"
+    ],
+    "cons": [
+      "Weak haptics",
+      "Small battery"
+    ],
+    "resale_value_6m": 301,
+    "resale_value_1y": 232,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "vivo-v40-pro",
+    "name": "Vivo V40 Pro",
+    "brand": "Vivo",
+    "price_inr": 98687,
+    "price_usd": 1189,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vivo_mobile_logo.svg/800px-Vivo_mobile_logo.svg.png",
+    "score": 86,
+    "processor": "Google Tensor G4",
+    "camera_mp": 175,
+    "battery_mah": 4791,
+    "display_inches": 6.2,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=9lcLFIBXYXs",
+    "verdict": "A premium Vivo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Large screen",
+      "S Pen support",
+      "Great haptics",
+      "IP68 water resistance"
+    ],
+    "cons": [
+      "Expensive",
+      "Slow charging"
+    ],
+    "resale_value_6m": 892,
+    "resale_value_1y": 713,
+    "reviewer": "Tech Boss"
+  },
+  {
+    "id": "vivo-v40",
+    "name": "Vivo V40",
+    "brand": "Vivo",
+    "price_inr": 43907,
+    "price_usd": 529,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vivo_mobile_logo.svg/800px-Vivo_mobile_logo.svg.png",
+    "score": 82,
+    "processor": "Snapdragon 7+ Gen 3",
+    "camera_mp": 78,
+    "battery_mah": 5242,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=9lcLFIBXYXs",
+    "verdict": "A solid mid-range offering from Vivo that punches above its weight class with great specs for the price.",
+    "pros": [
+      "Excellent cameras",
+      "Wireless charging",
+      "Long software updates"
+    ],
+    "cons": [
+      "No 5G",
+      "Expensive",
+      "No charger in box"
+    ],
+    "resale_value_6m": 344,
+    "resale_value_1y": 265,
+    "reviewer": "Tech Boss"
+  },
+  {
+    "id": "vivo-t3-ultra",
+    "name": "Vivo T3 Ultra",
+    "brand": "Vivo",
+    "price_inr": 68060,
+    "price_usd": 820,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vivo_mobile_logo.svg/800px-Vivo_mobile_logo.svg.png",
+    "score": 95,
+    "processor": "Dimensity 9400",
+    "camera_mp": 150,
+    "battery_mah": 5853,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=nypTeJxrg9w",
+    "verdict": "A premium Vivo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Wireless charging",
+      "Long software updates",
+      "S Pen support",
+      "Versatile cameras"
+    ],
+    "cons": [
+      "Expensive",
+      "No charger in box",
+      "Old processor"
+    ],
+    "resale_value_6m": 615,
+    "resale_value_1y": 492,
+    "reviewer": " Trakin Tech Tamil"
+  },
+  {
+    "id": "vivo-t3-pro",
+    "name": "Vivo T3 Pro",
+    "brand": "Vivo",
+    "price_inr": 97442,
+    "price_usd": 1174,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_front_of_the_unreleased_vivo_X300_Pro.jpg/960px-The_front_of_the_unreleased_vivo_X300_Pro.jpg",
+    "score": 87,
+    "processor": "Exynos 2400",
+    "camera_mp": 163,
+    "battery_mah": 5942,
+    "display_inches": 6.3,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=I3F90x8GUSw",
+    "verdict": "A premium Vivo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Compact size",
+      "Good value",
+      "120Hz AMOLED",
+      "Premium build quality"
+    ],
+    "cons": [
+      "Weak haptics",
+      "Heavy"
+    ],
+    "resale_value_6m": 881,
+    "resale_value_1y": 704,
+    "reviewer": "Loud Oli Tech"
+  },
+  {
+    "id": "vivo-y300-pro",
+    "name": "Vivo Y300 Pro",
+    "brand": "Vivo",
+    "price_inr": 61586,
+    "price_usd": 742,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_front_of_the_unreleased_vivo_X300_Pro.jpg/960px-The_front_of_the_unreleased_vivo_X300_Pro.jpg",
+    "score": 93,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 114,
+    "battery_mah": 5040,
+    "display_inches": 6.3,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=E6Z_mtOQiIw",
+    "verdict": "A premium Vivo flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Excellent cameras",
+      "Large screen",
+      "Great battery life"
+    ],
+    "cons": [
+      "Slow charging",
+      "Plastic build"
+    ],
+    "resale_value_6m": 557,
+    "resale_value_1y": 445,
+    "reviewer": "TELE TECH"
+  },
+  {
+    "id": "realme-gt-7-pro",
+    "name": "Realme GT 7 Pro",
+    "brand": "Realme",
+    "price_inr": 70633,
+    "price_usd": 851,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Realme_logo.svg/800px-Realme_logo.svg.png",
+    "score": 87,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 135,
+    "battery_mah": 4683,
+    "display_inches": 6.9,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=FBpR6dhWqpI",
+    "verdict": "A premium Realme flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Expandable storage",
+      "Hasselblad cameras",
+      "3.5mm headphone jack",
+      "Stunning display"
+    ],
+    "cons": [
+      "No wireless charging",
+      "No IP rating"
+    ],
+    "resale_value_6m": 638,
+    "resale_value_1y": 511,
+    "reviewer": "Trakin Tech English"
+  },
+  {
+    "id": "realme-gt-6",
+    "name": "Realme GT 6",
+    "brand": "Realme",
+    "price_inr": 47974,
+    "price_usd": 578,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Realme_logo.svg/800px-Realme_logo.svg.png",
+    "score": 78,
+    "processor": "Dimensity 8300 Ultra",
+    "camera_mp": 87,
+    "battery_mah": 5471,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=VMx9KeDwErc",
+    "verdict": "A solid mid-range offering from Realme that punches above its weight class with great specs for the price.",
+    "pros": [
+      "S Pen support",
+      "Premium build quality",
+      "LTPO display"
+    ],
+    "cons": [
+      "Low resolution display",
+      "Bloatware"
+    ],
+    "resale_value_6m": 376,
+    "resale_value_1y": 289,
+    "reviewer": "Beebom"
+  },
+  {
+    "id": "realme-13-pro",
+    "name": "Realme 13 Pro+",
+    "brand": "Realme",
+    "price_inr": 81755,
+    "price_usd": 985,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Realme_logo.svg/800px-Realme_logo.svg.png",
+    "score": 93,
+    "processor": "Exynos 2400",
+    "camera_mp": 182,
+    "battery_mah": 5625,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=IPBYxv_iZMk",
+    "verdict": "A premium Realme flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Zeiss optics",
+      "Satellite connectivity",
+      "S Pen support"
+    ],
+    "cons": [
+      "Low resolution display",
+      "Plastic build"
+    ],
+    "resale_value_6m": 739,
+    "resale_value_1y": 591,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "realme-narzo-70-pro",
+    "name": "Realme Narzo 70 Pro",
+    "brand": "Realme",
+    "price_inr": 73123,
+    "price_usd": 881,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Realme_logo.svg/800px-Realme_logo.svg.png",
+    "score": 94,
+    "processor": "Apple A18 Pro",
+    "camera_mp": 54,
+    "battery_mah": 5722,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=zSYGimgujfk",
+    "verdict": "A premium Realme flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Compact size",
+      "Great battery life",
+      "3.5mm headphone jack"
+    ],
+    "cons": [
+      "Small battery",
+      "Average battery"
+    ],
+    "resale_value_6m": 661,
+    "resale_value_1y": 529,
+    "reviewer": "Loud Oli Tech"
+  },
+  {
+    "id": "realme-c67",
+    "name": "Realme C67",
+    "brand": "Realme",
+    "price_inr": 20335,
+    "price_usd": 245,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Realme_logo.svg/800px-Realme_logo.svg.png",
+    "score": 74,
+    "processor": "Snapdragon 695",
+    "camera_mp": 55,
+    "battery_mah": 5635,
+    "display_inches": 6.4,
+    "display_hz": 90,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Bj5vx2AwWm4",
+    "verdict": "An affordable Realme device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Clean software",
+      "Fast fingerprint sensor",
+      "Good value",
+      "Versatile cameras"
+    ],
+    "cons": [
+      "No charger in box",
+      "Ads in UI",
+      "Bloatware"
+    ],
+    "resale_value_6m": 135,
+    "resale_value_1y": 98,
+    "reviewer": "Tech Buddies"
+  },
+  {
+    "id": "xperia-1-vi",
+    "name": "Xperia 1 VI",
+    "brand": "Sony",
+    "price_inr": 26311,
+    "price_usd": 317,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_headquaters_1.jpg/960px-Sony_headquaters_1.jpg",
+    "score": 70,
+    "processor": "Helio G99 Ultra",
+    "camera_mp": 63,
+    "battery_mah": 5701,
+    "display_inches": 6.4,
+    "display_hz": 90,
+    "ram_gb": 6,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=_w0E4nqUrDI",
+    "verdict": "An affordable Sony device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Premium build quality",
+      "Good value",
+      "Hasselblad cameras",
+      "Great selfie camera"
+    ],
+    "cons": [
+      "No IP rating",
+      "Large and bulky",
+      "Curved display"
+    ],
+    "resale_value_6m": 174,
+    "resale_value_1y": 127,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "xperia-5-v",
+    "name": "Xperia 5 V",
+    "brand": "Sony",
+    "price_inr": 25315,
+    "price_usd": 305,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sony_Xperia_1_Mk._V_with_a_White_Case.jpg/960px-Sony_Xperia_1_Mk._V_with_a_White_Case.jpg",
+    "score": 72,
+    "processor": "Dimensity 6300",
+    "camera_mp": 62,
+    "battery_mah": 5461,
+    "display_inches": 6.6,
+    "display_hz": 90,
+    "ram_gb": 8,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=BZyAmQluAgc",
+    "verdict": "An affordable Sony device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Smooth performance",
+      "Great selfie camera",
+      "Excellent cameras"
+    ],
+    "cons": [
+      "Small battery",
+      "Weak haptics",
+      "Low resolution display"
+    ],
+    "resale_value_6m": 168,
+    "resale_value_1y": 122,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "xperia-10-vi",
+    "name": "Xperia 10 VI",
+    "brand": "Sony",
+    "price_inr": 28635,
+    "price_usd": 345,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_headquaters_1.jpg/960px-Sony_headquaters_1.jpg",
+    "score": 72,
+    "processor": "Snapdragon 695",
+    "camera_mp": 54,
+    "battery_mah": 5114,
+    "display_inches": 6.5,
+    "display_hz": 120,
+    "ram_gb": 6,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=2_5vQjhmiaU",
+    "verdict": "An affordable Sony device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Premium build quality",
+      "Fast charging",
+      "Great selfie camera"
+    ],
+    "cons": [
+      "No 5G",
+      "Curved display",
+      "Large and bulky"
+    ],
+    "resale_value_6m": 190,
+    "resale_value_1y": 138,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "rog-phone-9-pro",
+    "name": "ROG Phone 9 Pro",
+    "brand": "ASUS",
+    "price_inr": 90138,
+    "price_usd": 1086,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ROG_Phone_9.jpg/960px-ROG_Phone_9.jpg",
+    "score": 93,
+    "processor": "Google Tensor G4",
+    "camera_mp": 58,
+    "battery_mah": 4913,
+    "display_inches": 6.3,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=F3L6CRBhn7A",
+    "verdict": "A premium ASUS flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Excellent cameras",
+      "Dolby Atmos speakers",
+      "Expandable storage",
+      "IP68 water resistance"
+    ],
+    "cons": [
+      "Old processor",
+      "No IP rating",
+      "Gets warm"
+    ],
+    "resale_value_6m": 815,
+    "resale_value_1y": 652,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "rog-phone-9",
+    "name": "ROG Phone 9",
+    "brand": "ASUS",
+    "price_inr": 60590,
+    "price_usd": 730,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ROG_Phone_9.jpg/960px-ROG_Phone_9.jpg",
+    "score": 96,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 150,
+    "battery_mah": 5557,
+    "display_inches": 6.4,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=vfUfSwwhjeg",
+    "verdict": "A premium ASUS flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Clean software",
+      "Fast charging",
+      "AI features",
+      "Good value"
+    ],
+    "cons": [
+      "Bloatware",
+      "Plastic build"
+    ],
+    "resale_value_6m": 548,
+    "resale_value_1y": 438,
+    "reviewer": "Marques Brownlee"
+  },
+  {
+    "id": "zenfone-11-ultra",
+    "name": "Zenfone 11 Ultra",
+    "brand": "ASUS",
+    "price_inr": 75530,
+    "price_usd": 910,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Zenfone_12_Ultra.png/960px-Zenfone_12_Ultra.png",
+    "score": 96,
+    "processor": "Snapdragon 8 Elite",
+    "camera_mp": 122,
+    "battery_mah": 5820,
+    "display_inches": 6.2,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Hgh40guNp3Q",
+    "verdict": "A premium ASUS flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Leica optics",
+      "5G connectivity",
+      "Smooth performance",
+      "3.5mm headphone jack"
+    ],
+    "cons": [
+      "Expensive",
+      "No expandable storage",
+      "Gets warm"
+    ],
+    "resale_value_6m": 683,
+    "resale_value_1y": 546,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "honor-magic-7-pro",
+    "name": "Honor Magic 7 Pro",
+    "brand": "Honor",
+    "price_inr": 77356,
+    "price_usd": 932,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Honor_Magic_6_Pro.jpg/960px-Honor_Magic_6_Pro.jpg",
+    "score": 87,
+    "processor": "Dimensity 9400",
+    "camera_mp": 75,
+    "battery_mah": 5671,
+    "display_inches": 6.8,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=sDvdpwzzDbA",
+    "verdict": "A premium Honor flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "AI features",
+      "Excellent cameras",
+      "Good value"
+    ],
+    "cons": [
+      "Limited availability",
+      "Short update support"
+    ],
+    "resale_value_6m": 699,
+    "resale_value_1y": 559,
+    "reviewer": "Tech Spurt"
+  },
+  {
+    "id": "honor-magic-v3",
+    "name": "Honor Magic V3",
+    "brand": "Honor",
+    "price_inr": 117362,
+    "price_usd": 1414,
+    "category": [
+      "foldable",
+      "flagship",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Honor_logo_2023.svg/800px-Honor_logo_2023.svg.png",
+    "score": 88,
+    "processor": "Apple A18",
+    "camera_mp": 135,
+    "battery_mah": 4960,
+    "display_inches": 6.9,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=-umVVDsu6UI",
+    "verdict": "Honor's innovative foldable device that combines cutting-edge design with powerful internals.",
+    "pros": [
+      "S Pen support",
+      "Wireless charging",
+      "Premium build quality"
+    ],
+    "cons": [
+      "No charger in box",
+      "Low resolution display",
+      "Ads in UI"
+    ],
+    "resale_value_6m": 1061,
+    "resale_value_1y": 848,
+    "reviewer": "The Tech Chap"
+  },
+  {
+    "id": "honor-200-pro",
+    "name": "Honor 200 Pro",
+    "brand": "Honor",
+    "price_inr": 78850,
+    "price_usd": 950,
+    "category": [
+      "flagship",
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Honor_headquarter.jpg/960px-Honor_headquarter.jpg",
+    "score": 85,
+    "processor": "Apple A18 Pro",
+    "camera_mp": 84,
+    "battery_mah": 4564,
+    "display_inches": 6.6,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 512,
+    "youtube_review_url": "https://www.youtube.com/watch?v=U_lB33uLyXI",
+    "verdict": "A premium Honor flagship with top-tier performance, excellent cameras, and a stunning display.",
+    "pros": [
+      "Leica optics",
+      "Under-display camera",
+      "Versatile cameras"
+    ],
+    "cons": [
+      "No charger in box",
+      "Average battery",
+      "Bloatware"
+    ],
+    "resale_value_6m": 713,
+    "resale_value_1y": 570,
+    "reviewer": "GSMArena Official"
+  },
+  {
+    "id": "honor-200",
+    "name": "Honor 200",
+    "brand": "Honor",
+    "price_inr": 36520,
+    "price_usd": 440,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Medal_of_Honor_Flag_with_Gold_Fringe.svg/960px-Medal_of_Honor_Flag_with_Gold_Fringe.svg.png",
+    "score": 85,
+    "processor": "Snapdragon 6 Gen 3",
+    "camera_mp": 104,
+    "battery_mah": 5324,
+    "display_inches": 6.7,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=thffVj-9KmY",
+    "verdict": "A solid mid-range offering from Honor that punches above its weight class with great specs for the price.",
+    "pros": [
+      "Excellent cameras",
+      "Large screen",
+      "Great haptics",
+      "Great battery life"
+    ],
+    "cons": [
+      "Average cameras",
+      "No stereo speakers",
+      "No 5G"
+    ],
+    "resale_value_6m": 286,
+    "resale_value_1y": 220,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "honor-x9b",
+    "name": "Honor X9b",
+    "brand": "Honor",
+    "price_inr": 18841,
+    "price_usd": 227,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Honor_logo_2023.svg/800px-Honor_logo_2023.svg.png",
+    "score": 72,
+    "processor": "Helio G99 Ultra",
+    "camera_mp": 53,
+    "battery_mah": 5242,
+    "display_inches": 6.5,
+    "display_hz": 90,
+    "ram_gb": 6,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=NwRu2BEUIxI",
+    "verdict": "An affordable Honor device that delivers solid everyday performance without breaking the bank.",
+    "pros": [
+      "Great battery life",
+      "Expandable storage",
+      "Great selfie camera"
+    ],
+    "cons": [
+      "Heavy",
+      "No wireless charging",
+      "Ads in UI"
+    ],
+    "resale_value_6m": 125,
+    "resale_value_1y": 91,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "iqoo-13",
+    "name": "iQOO 13",
+    "brand": "iQOO",
+    "price_inr": 54999,
+    "price_usd": 649,
+    "category": [
+      "gaming",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IQOO_logo.svg/800px-IQOO_logo.svg.png",
+    "score": 89,
+    "processor": "Snapdragon 8 Elite",
+    "camera_mp": 50,
+    "battery_mah": 6000,
+    "display_inches": 6.82,
+    "display_hz": 144,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=Ah2scPy5aSA",
+    "verdict": "A gaming beast with top-tier specs at an aggressive price point.",
+    "pros": [
+      "144Hz display",
+      "Fast charging",
+      "Great gaming performance",
+      "Excellent value"
+    ],
+    "cons": [
+      "Average cameras",
+      "No wireless charging",
+      "Heavy"
+    ],
+    "resale_value_6m": 455,
+    "resale_value_1y": 357,
+    "reviewer": "Tech SuperStar"
+  },
+  {
+    "id": "tecno-phantom-x2-pro",
+    "name": "Tecno Phantom X2 Pro",
+    "brand": "Tecno",
+    "price_inr": 49999,
+    "price_usd": 599,
+    "category": [
+      "camera",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Back_of_Tecno_Phantom_X2_Pro.png",
+    "score": 80,
+    "processor": "Dimensity 9000",
+    "camera_mp": 64,
+    "battery_mah": 5160,
+    "display_inches": 6.8,
+    "display_hz": 120,
+    "ram_gb": 12,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=GtvZ4fVPdSA",
+    "verdict": "A surprisingly capable flagship from Tecno with a unique retractable portrait lens.",
+    "pros": [
+      "Unique camera system",
+      "Good performance",
+      "Premium design"
+    ],
+    "cons": [
+      "Software updates uncertain",
+      "Limited availability",
+      "Brand perception"
+    ],
+    "resale_value_6m": 360,
+    "resale_value_1y": 270,
+    "reviewer": "Siva Bharani Udaya Selvan"
+  },
+  {
+    "id": "nubia-z60-ultra",
+    "name": "Nubia Z60 Ultra",
+    "brand": "Nubia",
+    "price_inr": 59999,
+    "price_usd": 699,
+    "category": [
+      "camera",
+      "gaming",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nubia_logo_2020.svg/800px-Nubia_logo_2020.svg.png",
+    "score": 85,
+    "processor": "Snapdragon 8 Gen 3",
+    "camera_mp": 50,
+    "battery_mah": 6000,
+    "display_inches": 6.78,
+    "display_hz": 120,
+    "ram_gb": 16,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=57IJha1G_lI",
+    "verdict": "An underrated flagship with under-display camera and powerful gaming capabilities.",
+    "pros": [
+      "Under-display camera",
+      "Great gaming",
+      "Big battery",
+      "Good cameras"
+    ],
+    "cons": [
+      "Niche brand",
+      "Limited support",
+      "Heavy"
+    ],
+    "resale_value_6m": 490,
+    "resale_value_1y": 385,
+    "reviewer": "Tech Spurt"
+  },
+  {
+    "id": "lava-agni-3",
+    "name": "Lava Agni 3",
+    "brand": "Lava",
+    "price_inr": 19999,
+    "price_usd": 239,
+    "category": [
+      "5g",
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lava_company_head_office.jpg",
+    "score": 72,
+    "processor": "Dimensity 7300",
+    "camera_mp": 50,
+    "battery_mah": 5000,
+    "display_inches": 6.78,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=1Beo0OsR_88",
+    "verdict": "A capable budget 5G phone from an Indian brand with surprisingly good specs.",
+    "pros": [
+      "Made in India",
+      "Good value",
+      "120Hz display",
+      "5G support"
+    ],
+    "cons": [
+      "Average cameras",
+      "Software updates slow",
+      "Build quality average"
+    ],
+    "resale_value_6m": 143,
+    "resale_value_1y": 110,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "infinix-gt-20-pro",
+    "name": "Infinix GT 20 Pro",
+    "brand": "Infinix",
+    "price_inr": 24999,
+    "price_usd": 299,
+    "category": [
+      "gaming",
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Infinix_logo.svg/800px-Infinix_logo.svg.png",
+    "score": 75,
+    "processor": "Dimensity 8200",
+    "camera_mp": 108,
+    "battery_mah": 5000,
+    "display_inches": 6.78,
+    "display_hz": 144,
+    "ram_gb": 8,
+    "storage_gb": 256,
+    "youtube_review_url": "https://www.youtube.com/watch?v=DD1j-h5ahNE",
+    "verdict": "A budget gaming phone with RGB lighting and capable gaming performance.",
+    "pros": [
+      "144Hz display",
+      "RGB lighting",
+      "108MP camera",
+      "Good value"
+    ],
+    "cons": [
+      "Software bloat",
+      "Build quality",
+      "Brand reliability"
+    ],
+    "resale_value_6m": 179,
+    "resale_value_1y": 135,
+    "reviewer": "Tamil Tech - MrTT"
+  },
+  {
+    "id": "micromax-in-2c",
+    "name": "Micromax IN 2c",
+    "brand": "Micromax",
+    "price_inr": 8999,
+    "price_usd": 109,
+    "category": [
+      "battery"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/960px-Emblem_of_India.svg.png",
+    "score": 62,
+    "processor": "Unisoc T612",
+    "camera_mp": 13,
+    "battery_mah": 5000,
+    "display_inches": 6.52,
+    "display_hz": 60,
+    "ram_gb": 4,
+    "storage_gb": 64,
+    "youtube_review_url": "https://www.youtube.com/watch?v=HZt52dUsGBw",
+    "verdict": "An ultra-budget phone that covers the basics with a large battery.",
+    "pros": [
+      "Very affordable",
+      "Big battery",
+      "Made in India"
+    ],
+    "cons": [
+      "Slow processor",
+      "Poor camera",
+      "No 5G",
+      "Low-res display"
+    ],
+    "resale_value_6m": 60,
+    "resale_value_1y": 44,
+    "reviewer": "Vimal Chintapatla"
+  },
+  {
+    "id": "cmf-phone-2",
+    "name": "CMF Phone 2",
+    "brand": "CMF by Nothing",
+    "price_inr": 15999,
+    "price_usd": 199,
+    "category": [
+      "5g"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CMF_Phone_2_Pro_%28white%29_2025-05-08.jpg/960px-CMF_Phone_2_Pro_%28white%29_2025-05-08.jpg",
+    "score": 77,
+    "processor": "Dimensity 7300",
+    "camera_mp": 50,
+    "battery_mah": 5000,
+    "display_inches": 6.67,
+    "display_hz": 120,
+    "ram_gb": 8,
+    "storage_gb": 128,
+    "youtube_review_url": "https://www.youtube.com/watch?v=VF0B9Ds_aig",
+    "verdict": "A customizable budget phone with Nothing DNA and surprisingly good performance.",
+    "pros": [
+      "Unique design",
+      "Great value",
+      "Clean software",
+      "120Hz display"
+    ],
+    "cons": [
+      "Average cameras",
+      "No wireless charging",
+      "Plastic build"
+    ],
+    "resale_value_6m": 129,
+    "resale_value_1y": 100,
+    "reviewer": "Tamil Tech - MrTT"
+  }
+]

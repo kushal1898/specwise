@@ -1,0 +1,4468 @@
+[
+  {
+    "id": "macbook-pro-16-m3-max",
+    "slug": "macbook-pro-16-m3-max",
+    "name": "MacBook Pro 16\" M3 Max",
+    "brand": "Apple",
+    "category": "Creator",
+    "price": 3499,
+    "msrp": 3499,
+    "releaseDate": "2023-11-07",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 9.4,
+    "scores": {
+      "performance": 9.8,
+      "display": 9.6,
+      "battery": 9.2,
+      "build": 9.5,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Apple M3 Max",
+      "ram": "36GB",
+      "storage": "1TB SSD",
+      "display": "16.2\" Liquid Retina XDR",
+      "gpu": "40-core GPU",
+      "battery": "22 hours",
+      "weight": "2.14 kg"
+    },
+    "pros": [
+      "Exceptional performance",
+      "Stunning display",
+      "All-day battery",
+      "Premium build"
+    ],
+    "cons": [
+      "Very expensive",
+      "Limited ports",
+      "No touchscreen"
+    ],
+    "resaleData": {
+      "current": 2800,
+      "sixMonths": 2500,
+      "oneYear": 2200
+    },
+    "price_inr": 290417,
+    "price_usd": 3499
+  },
+  {
+    "id": "macbook-pro-14-m3-pro",
+    "slug": "macbook-pro-14-m3-pro",
+    "name": "MacBook Pro 14\" M3 Pro",
+    "brand": "Apple",
+    "category": "Creator",
+    "price": 1999,
+    "msrp": 1999,
+    "releaseDate": "2023-11-07",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "overallScore": 9.2,
+    "scores": {
+      "performance": 9.4,
+      "display": 9.5,
+      "battery": 9,
+      "build": 9.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Apple M3 Pro",
+      "ram": "18GB",
+      "storage": "512GB SSD",
+      "display": "14.2\" Liquid Retina XDR",
+      "gpu": "14-core GPU",
+      "battery": "17 hours",
+      "weight": "1.61 kg"
+    },
+    "pros": [
+      "Powerful performance",
+      "Excellent display",
+      "Great battery",
+      "Compact design"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited RAM upgrades"
+    ],
+    "resaleData": {
+      "current": 1650,
+      "sixMonths": 1450,
+      "oneYear": 1250
+    },
+    "price_inr": 165917,
+    "price_usd": 1999
+  },
+  {
+    "id": "macbook-air-15-m3",
+    "slug": "macbook-air-15-m3",
+    "name": "MacBook Air 15\" M3",
+    "brand": "Apple",
+    "category": "Ultrabook",
+    "price": 1299,
+    "msrp": 1299,
+    "releaseDate": "2024-03-04",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "overallScore": 9,
+    "scores": {
+      "performance": 8.5,
+      "display": 9,
+      "battery": 9.4,
+      "build": 9.3,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Apple M3",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "15.3\" Liquid Retina",
+      "gpu": "10-core GPU",
+      "battery": "18 hours",
+      "weight": "1.51 kg"
+    },
+    "pros": [
+      "Thin and light",
+      "Great battery",
+      "Fanless design",
+      "Large screen"
+    ],
+    "cons": [
+      "Base RAM is low",
+      "No MagSafe on base"
+    ],
+    "resaleData": {
+      "current": 1100,
+      "sixMonths": 950,
+      "oneYear": 850
+    },
+    "price_inr": 107817,
+    "price_usd": 1299
+  },
+  {
+    "id": "macbook-air-13-m3",
+    "slug": "macbook-air-13-m3",
+    "name": "MacBook Air 13\" M3",
+    "brand": "Apple",
+    "category": "Ultrabook",
+    "price": 1099,
+    "msrp": 1099,
+    "releaseDate": "2024-03-04",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "overallScore": 9.1,
+    "scores": {
+      "performance": 8.5,
+      "display": 8.8,
+      "battery": 9.5,
+      "build": 9.3,
+      "value": 9.2
+    },
+    "specs": {
+      "processor": "Apple M3",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "13.6\" Liquid Retina",
+      "gpu": "10-core GPU",
+      "battery": "18 hours",
+      "weight": "1.24 kg"
+    },
+    "pros": [
+      "Excellent value",
+      "Great battery",
+      "Fanless design",
+      "Lightweight"
+    ],
+    "cons": [
+      "Base RAM is 8GB",
+      "Only 2 ports",
+      "256GB base storage"
+    ],
+    "resaleData": {
+      "current": 950,
+      "sixMonths": 850,
+      "oneYear": 750
+    },
+    "price_inr": 91217,
+    "price_usd": 1099
+  },
+  {
+    "id": "dell-xps-15-9530",
+    "slug": "dell-xps-15-9530",
+    "name": "Dell XPS 15 9530",
+    "brand": "Dell",
+    "category": "Creator",
+    "price": 1899,
+    "msrp": 1999,
+    "releaseDate": "2023-04-15",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 9,
+      "display": 9.3,
+      "battery": 8,
+      "build": 9.2,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" OLED 3.5K",
+      "gpu": "RTX 4060",
+      "battery": "13 hours",
+      "weight": "1.86 kg"
+    },
+    "pros": [
+      "Gorgeous OLED display",
+      "Strong performance",
+      "Premium build"
+    ],
+    "cons": [
+      "Average battery",
+      "Gets warm",
+      "Webcam placement"
+    ],
+    "resaleData": {
+      "current": 1500,
+      "sixMonths": 1300,
+      "oneYear": 1100
+    },
+    "price_inr": 157617,
+    "price_usd": 1899
+  },
+  {
+    "id": "dell-xps-13-plus",
+    "slug": "dell-xps-13-plus",
+    "name": "Dell XPS 13 Plus",
+    "brand": "Dell",
+    "category": "Ultrabook",
+    "price": 1299,
+    "msrp": 1399,
+    "releaseDate": "2023-06-10",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.3,
+      "display": 9,
+      "battery": 8.2,
+      "build": 9,
+      "value": 8.3
+    },
+    "specs": {
+      "processor": "Intel Core i7-1360P",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "13.4\" OLED 3.5K",
+      "gpu": "Intel Iris Xe",
+      "battery": "12 hours",
+      "weight": "1.26 kg"
+    },
+    "pros": [
+      "Stunning design",
+      "OLED display",
+      "Ultraportable"
+    ],
+    "cons": [
+      "Haptic touchpad",
+      "Runs warm",
+      "Limited ports"
+    ],
+    "resaleData": {
+      "current": 1000,
+      "sixMonths": 850,
+      "oneYear": 700
+    },
+    "price_inr": 107817,
+    "price_usd": 1299
+  },
+  {
+    "id": "dell-xps-14-2024",
+    "slug": "dell-xps-14-2024",
+    "name": "Dell XPS 14 2024",
+    "brand": "Dell",
+    "category": "Creator",
+    "price": 1699,
+    "msrp": 1799,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 8.5,
+      "display": 9.2,
+      "battery": 8.5,
+      "build": 9.2,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "14.5\" 3.2K OLED Touch",
+      "gpu": "RTX 4050",
+      "battery": "12 hours",
+      "weight": "1.68 kg"
+    },
+    "pros": [
+      "Beautiful OLED",
+      "Compact powerhouse",
+      "Premium build"
+    ],
+    "cons": [
+      "Gets warm",
+      "Limited ports",
+      "Pricey"
+    ],
+    "resaleData": {
+      "current": 1400,
+      "sixMonths": 1200,
+      "oneYear": 1000
+    },
+    "price_inr": 141017,
+    "price_usd": 1699
+  },
+  {
+    "id": "dell-g16-gaming",
+    "slug": "dell-g16-gaming",
+    "name": "Dell G16 Gaming",
+    "brand": "Dell",
+    "category": "Gaming",
+    "price": 1399,
+    "msrp": 1499,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8.8,
+      "display": 8.5,
+      "battery": 7,
+      "build": 8,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core i7-14700HX",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "16\" QHD+ 240Hz",
+      "gpu": "RTX 4070",
+      "battery": "6 hours",
+      "weight": "2.69 kg"
+    },
+    "pros": [
+      "Great value",
+      "Solid gaming",
+      "Good display"
+    ],
+    "cons": [
+      "Plastic build",
+      "Gets hot",
+      "Bulky"
+    ],
+    "resaleData": {
+      "current": 1150,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 116117,
+    "price_usd": 1399
+  },
+  {
+    "id": "dell-inspiron-16-plus",
+    "slug": "dell-inspiron-16-plus",
+    "name": "Dell Inspiron 16 Plus",
+    "brand": "Dell",
+    "category": "Creator",
+    "price": 1199,
+    "msrp": 1299,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "overallScore": 8.3,
+    "scores": {
+      "performance": 8.5,
+      "display": 8.5,
+      "battery": 8,
+      "build": 8.2,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "16\" 3K IPS",
+      "gpu": "RTX 4060",
+      "battery": "9 hours",
+      "weight": "2.06 kg"
+    },
+    "pros": [
+      "Good value",
+      "Solid performance",
+      "Nice display"
+    ],
+    "cons": [
+      "Build quality average",
+      "No OLED",
+      "Generic design"
+    ],
+    "resaleData": {
+      "current": 950,
+      "sixMonths": 800,
+      "oneYear": 700
+    },
+    "price_inr": 99517,
+    "price_usd": 1199
+  },
+  {
+    "id": "dell-latitude-7440",
+    "slug": "dell-latitude-7440",
+    "name": "Dell Latitude 7440",
+    "brand": "Dell",
+    "category": "Business",
+    "price": 1599,
+    "msrp": 1799,
+    "releaseDate": "2023-04-01",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.2,
+      "display": 8.3,
+      "battery": 8.8,
+      "build": 9,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core i7-1365U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" FHD+ IPS",
+      "gpu": "Intel Iris Xe",
+      "battery": "13 hours",
+      "weight": "1.35 kg"
+    },
+    "pros": [
+      "Business-grade security",
+      "Long battery",
+      "Quiet operation"
+    ],
+    "cons": [
+      "Plain design",
+      "No OLED",
+      "Pricey"
+    ],
+    "resaleData": {
+      "current": 1300,
+      "sixMonths": 1100,
+      "oneYear": 950
+    },
+    "price_inr": 132717,
+    "price_usd": 1599
+  },
+  {
+    "id": "lenovo-thinkpad-x1-carbon-gen11",
+    "slug": "lenovo-thinkpad-x1-carbon-gen11",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "brand": "Lenovo",
+    "category": "Business",
+    "price": 1649,
+    "msrp": 1849,
+    "releaseDate": "2023-03-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 9,
+    "scores": {
+      "performance": 8.5,
+      "display": 8.8,
+      "battery": 9,
+      "build": 9.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core i7-1365U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" 2.8K OLED",
+      "gpu": "Intel Iris Xe",
+      "battery": "15 hours",
+      "weight": "1.12 kg"
+    },
+    "pros": [
+      "Best-in-class keyboard",
+      "Lightweight",
+      "Great battery",
+      "Business features"
+    ],
+    "cons": [
+      "Expensive",
+      "No dedicated GPU"
+    ],
+    "resaleData": {
+      "current": 1350,
+      "sixMonths": 1150,
+      "oneYear": 950
+    },
+    "price_inr": 136867,
+    "price_usd": 1649
+  },
+  {
+    "id": "lenovo-legion-pro-7i",
+    "slug": "lenovo-legion-pro-7i",
+    "name": "Lenovo Legion Pro 7i",
+    "brand": "Lenovo",
+    "category": "Gaming",
+    "price": 2499,
+    "msrp": 2699,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800",
+    "overallScore": 9.2,
+    "scores": {
+      "performance": 9.6,
+      "display": 9.3,
+      "battery": 7,
+      "build": 9.2,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" WQXGA 240Hz",
+      "gpu": "RTX 4080",
+      "battery": "5 hours",
+      "weight": "2.72 kg"
+    },
+    "pros": [
+      "Top-tier gaming",
+      "Great cooling",
+      "Excellent keyboard"
+    ],
+    "cons": [
+      "Heavy",
+      "Short battery",
+      "Bulky charger"
+    ],
+    "resaleData": {
+      "current": 2050,
+      "sixMonths": 1800,
+      "oneYear": 1550
+    },
+    "price_inr": 207417,
+    "price_usd": 2499
+  },
+  {
+    "id": "lenovo-yoga-9i-gen8",
+    "slug": "lenovo-yoga-9i-gen8",
+    "name": "Lenovo Yoga 9i Gen 8",
+    "brand": "Lenovo",
+    "category": "Creator",
+    "price": 1499,
+    "msrp": 1699,
+    "releaseDate": "2023-01-05",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 8.3,
+      "display": 9.2,
+      "battery": 8.5,
+      "build": 9.2,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core i7-1360P",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "14\" 4K OLED Touch",
+      "gpu": "Intel Iris Xe",
+      "battery": "14 hours",
+      "weight": "1.42 kg"
+    },
+    "pros": [
+      "Gorgeous OLED",
+      "360-degree hinge",
+      "Premium speakers"
+    ],
+    "cons": [
+      "Gets warm",
+      "No discrete GPU"
+    ],
+    "resaleData": {
+      "current": 1200,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 124417,
+    "price_usd": 1499
+  },
+  {
+    "id": "lenovo-thinkpad-x1-extreme-gen5",
+    "slug": "lenovo-thinkpad-x1-extreme-gen5",
+    "name": "Lenovo ThinkPad X1 Extreme Gen 5",
+    "brand": "Lenovo",
+    "category": "Business",
+    "price": 2499,
+    "msrp": 2799,
+    "releaseDate": "2023-04-01",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.9,
+    "scores": {
+      "performance": 9.2,
+      "display": 9,
+      "battery": 7.5,
+      "build": 9.5,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core i9-12900H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" 4K OLED Touch",
+      "gpu": "RTX 3080 Ti",
+      "battery": "7 hours",
+      "weight": "1.87 kg"
+    },
+    "pros": [
+      "Powerful workstation",
+      "Great display",
+      "Business features"
+    ],
+    "cons": [
+      "Expensive",
+      "Gets hot",
+      "Fan noise"
+    ],
+    "resaleData": {
+      "current": 2050,
+      "sixMonths": 1800,
+      "oneYear": 1550
+    },
+    "price_inr": 207417,
+    "price_usd": 2499
+  },
+  {
+    "id": "lenovo-ideapad-pro-5",
+    "slug": "lenovo-ideapad-pro-5",
+    "name": "Lenovo IdeaPad Pro 5",
+    "brand": "Lenovo",
+    "category": "Creator",
+    "price": 1199,
+    "msrp": 1299,
+    "releaseDate": "2023-09-01",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "overallScore": 8.3,
+    "scores": {
+      "performance": 8.3,
+      "display": 8.8,
+      "battery": 8.2,
+      "build": 8.2,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "AMD Ryzen 7 7840HS",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "16\" 2.5K IPS 120Hz",
+      "gpu": "RTX 4050",
+      "battery": "10 hours",
+      "weight": "1.89 kg"
+    },
+    "pros": [
+      "Good value",
+      "Solid performance",
+      "Nice display"
+    ],
+    "cons": [
+      "No OLED",
+      "Average build"
+    ],
+    "resaleData": {
+      "current": 950,
+      "sixMonths": 800,
+      "oneYear": 700
+    },
+    "price_inr": 99517,
+    "price_usd": 1199
+  },
+  {
+    "id": "lenovo-loq-15",
+    "slug": "lenovo-loq-15",
+    "name": "Lenovo LOQ 15",
+    "brand": "Lenovo",
+    "category": "Gaming",
+    "price": 849,
+    "msrp": 949,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800",
+    "overallScore": 7.9,
+    "scores": {
+      "performance": 8.2,
+      "display": 7.5,
+      "battery": 6.5,
+      "build": 7.5,
+      "value": 9.2
+    },
+    "specs": {
+      "processor": "Intel Core i5-13500H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" FHD 144Hz",
+      "gpu": "RTX 4050",
+      "battery": "5 hours",
+      "weight": "2.4 kg"
+    },
+    "pros": [
+      "Budget gaming",
+      "Decent performance",
+      "Good value"
+    ],
+    "cons": [
+      "Build quality",
+      "Short battery",
+      "Average display"
+    ],
+    "resaleData": {
+      "current": 700,
+      "sixMonths": 600,
+      "oneYear": 500
+    },
+    "price_inr": 70467,
+    "price_usd": 849
+  },
+  {
+    "id": "lenovo-slim-7i-pro-x",
+    "slug": "lenovo-slim-7i-pro-x",
+    "name": "Lenovo Slim 7i Pro X",
+    "brand": "Lenovo",
+    "category": "Creator",
+    "price": 1599,
+    "msrp": 1799,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.8,
+      "display": 9,
+      "battery": 8,
+      "build": 8.5,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "14.5\" 3K IPS 120Hz",
+      "gpu": "RTX 4050",
+      "battery": "10 hours",
+      "weight": "1.45 kg"
+    },
+    "pros": [
+      "Great for creators",
+      "Nice display",
+      "Solid specs"
+    ],
+    "cons": [
+      "No OLED",
+      "Weak GPU",
+      "Average battery"
+    ],
+    "resaleData": {
+      "current": 1300,
+      "sixMonths": 1100,
+      "oneYear": 950
+    },
+    "price_inr": 132717,
+    "price_usd": 1599
+  },
+  {
+    "id": "lenovo-thinkpad-x1-2in1-gen9",
+    "slug": "lenovo-thinkpad-x1-2in1-gen9",
+    "name": "Lenovo ThinkPad X1 2-in-1 Gen 9",
+    "brand": "Lenovo",
+    "category": "Business",
+    "price": 1849,
+    "msrp": 2049,
+    "releaseDate": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 8.5,
+      "display": 9,
+      "battery": 8.5,
+      "build": 9.3,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 165U",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "14\" 2.8K OLED Touch",
+      "gpu": "Intel Arc",
+      "battery": "15 hours",
+      "weight": "1.35 kg"
+    },
+    "pros": [
+      "Premium 2-in-1",
+      "OLED display",
+      "Great keyboard"
+    ],
+    "cons": [
+      "Expensive",
+      "No discrete GPU"
+    ],
+    "resaleData": {
+      "current": 1500,
+      "sixMonths": 1300,
+      "oneYear": 1100
+    },
+    "price_inr": 153467,
+    "price_usd": 1849
+  },
+  {
+    "id": "lenovo-ideapad-slim-3-15",
+    "slug": "lenovo-ideapad-slim-3-15",
+    "name": "Lenovo IdeaPad Slim 3 15",
+    "brand": "Lenovo",
+    "category": "Budget",
+    "price": 449,
+    "msrp": 499,
+    "releaseDate": "2024-03-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 7.5,
+    "scores": {
+      "performance": 7.3,
+      "display": 7,
+      "battery": 8,
+      "build": 7.2,
+      "value": 9
+    },
+    "specs": {
+      "processor": "AMD Ryzen 5 7520U",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "15.6\" FHD IPS",
+      "gpu": "AMD Radeon",
+      "battery": "10 hours",
+      "weight": "1.62 kg"
+    },
+    "pros": [
+      "Very affordable",
+      "Decent performance",
+      "Good battery"
+    ],
+    "cons": [
+      "Basic display",
+      "Limited storage",
+      "Plastic build"
+    ],
+    "resaleData": {
+      "current": 320,
+      "sixMonths": 270,
+      "oneYear": 220
+    },
+    "price_inr": 37267,
+    "price_usd": 449
+  },
+  {
+    "id": "lenovo-thinkbook-16p-gen5",
+    "slug": "lenovo-thinkbook-16p-gen5",
+    "name": "Lenovo ThinkBook 16p Gen 5",
+    "brand": "Lenovo",
+    "category": "Creator",
+    "price": 1699,
+    "msrp": 1899,
+    "releaseDate": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.8,
+      "display": 9,
+      "battery": 8,
+      "build": 8.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 185H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" 3.2K IPS 165Hz",
+      "gpu": "RTX 4060",
+      "battery": "9 hours",
+      "weight": "1.99 kg"
+    },
+    "pros": [
+      "Creator-focused",
+      "Good value",
+      "Nice display"
+    ],
+    "cons": [
+      "Not OLED",
+      "Gets warm"
+    ],
+    "resaleData": {
+      "current": 1400,
+      "sixMonths": 1200,
+      "oneYear": 1000
+    },
+    "price_inr": 141017,
+    "price_usd": 1699
+  },
+  {
+    "id": "asus-rog-zephyrus-g14-2024",
+    "slug": "asus-rog-zephyrus-g14-2024",
+    "name": "ASUS ROG Zephyrus G14 2024",
+    "brand": "ASUS",
+    "category": "Gaming",
+    "price": 1599,
+    "msrp": 1699,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "overallScore": 9.1,
+    "scores": {
+      "performance": 9.3,
+      "display": 9.2,
+      "battery": 8.5,
+      "build": 9,
+      "value": 9.2
+    },
+    "specs": {
+      "processor": "AMD Ryzen 9 8945HS",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "14\" OLED 3K 120Hz",
+      "gpu": "RTX 4060",
+      "battery": "10 hours",
+      "weight": "1.72 kg"
+    },
+    "pros": [
+      "Portable gaming power",
+      "OLED display",
+      "Good battery for gaming laptop"
+    ],
+    "cons": [
+      "Can get loud",
+      "No webcam",
+      "Premium price"
+    ],
+    "resaleData": {
+      "current": 1350,
+      "sixMonths": 1150,
+      "oneYear": 1000
+    },
+    "price_inr": 132717,
+    "price_usd": 1599
+  },
+  {
+    "id": "asus-rog-strix-scar-18",
+    "slug": "asus-rog-strix-scar-18",
+    "name": "ASUS ROG Strix SCAR 18",
+    "brand": "ASUS",
+    "category": "Gaming",
+    "price": 3299,
+    "msrp": 3499,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800",
+    "overallScore": 9.3,
+    "scores": {
+      "performance": 9.8,
+      "display": 9.4,
+      "battery": 7,
+      "build": 9,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB",
+      "storage": "2TB SSD",
+      "display": "18\" QHD+ 240Hz",
+      "gpu": "RTX 4090",
+      "battery": "4 hours",
+      "weight": "3.1 kg"
+    },
+    "pros": [
+      "Desktop-class performance",
+      "240Hz display",
+      "Excellent cooling"
+    ],
+    "cons": [
+      "Very heavy",
+      "Poor battery",
+      "Expensive"
+    ],
+    "resaleData": {
+      "current": 2700,
+      "sixMonths": 2400,
+      "oneYear": 2100
+    },
+    "price_inr": 273817,
+    "price_usd": 3299
+  },
+  {
+    "id": "asus-zenbook-14-oled",
+    "slug": "asus-zenbook-14-oled",
+    "name": "ASUS Zenbook 14 OLED",
+    "brand": "ASUS",
+    "category": "Ultrabook",
+    "price": 999,
+    "msrp": 1099,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.2,
+      "display": 9.2,
+      "battery": 8.5,
+      "build": 8.5,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" 2.8K OLED",
+      "gpu": "Intel Arc",
+      "battery": "14 hours",
+      "weight": "1.28 kg"
+    },
+    "pros": [
+      "Great OLED",
+      "Lightweight",
+      "Good value"
+    ],
+    "cons": [
+      "No discrete GPU",
+      "Limited ports"
+    ],
+    "resaleData": {
+      "current": 800,
+      "sixMonths": 700,
+      "oneYear": 600
+    },
+    "price_inr": 82917,
+    "price_usd": 999
+  },
+  {
+    "id": "asus-vivobook-pro-16-oled",
+    "slug": "asus-vivobook-pro-16-oled",
+    "name": "ASUS Vivobook Pro 16 OLED",
+    "brand": "ASUS",
+    "category": "Creator",
+    "price": 1299,
+    "msrp": 1399,
+    "releaseDate": "2023-08-01",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8.5,
+      "display": 9.2,
+      "battery": 7.5,
+      "build": 8,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core i9-13900H",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "16\" 3.2K OLED 120Hz",
+      "gpu": "RTX 4060",
+      "battery": "8 hours",
+      "weight": "1.95 kg"
+    },
+    "pros": [
+      "OLED at good price",
+      "Solid performance",
+      "Good specs"
+    ],
+    "cons": [
+      "Build quality average",
+      "Fan noise",
+      "Trackpad placement"
+    ],
+    "resaleData": {
+      "current": 1050,
+      "sixMonths": 900,
+      "oneYear": 750
+    },
+    "price_inr": 107817,
+    "price_usd": 1299
+  },
+  {
+    "id": "asus-tuf-gaming-a16",
+    "slug": "asus-tuf-gaming-a16",
+    "name": "ASUS TUF Gaming A16",
+    "brand": "ASUS",
+    "category": "Gaming",
+    "price": 1099,
+    "msrp": 1199,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "overallScore": 8.3,
+    "scores": {
+      "performance": 8.5,
+      "display": 8.2,
+      "battery": 7.5,
+      "build": 8,
+      "value": 9.2
+    },
+    "specs": {
+      "processor": "AMD Ryzen 7 7735HS",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "16\" FHD+ 165Hz",
+      "gpu": "RTX 4060",
+      "battery": "7 hours",
+      "weight": "2.2 kg"
+    },
+    "pros": [
+      "Great value",
+      "Durable build",
+      "Solid gaming"
+    ],
+    "cons": [
+      "Display not great",
+      "Plastic feel",
+      "Fan noise"
+    ],
+    "resaleData": {
+      "current": 900,
+      "sixMonths": 750,
+      "oneYear": 650
+    },
+    "price_inr": 91217,
+    "price_usd": 1099
+  },
+  {
+    "id": "asus-proart-studiobook-16-oled",
+    "slug": "asus-proart-studiobook-16-oled",
+    "name": "ASUS ProArt Studiobook 16 OLED",
+    "brand": "ASUS",
+    "category": "Creator",
+    "price": 2999,
+    "msrp": 3299,
+    "releaseDate": "2023-09-01",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "overallScore": 9,
+    "scores": {
+      "performance": 9.2,
+      "display": 9.6,
+      "battery": 7.5,
+      "build": 9.2,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core i9-13980HX",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "16\" 4K OLED 120Hz",
+      "gpu": "RTX 4070",
+      "battery": "8 hours",
+      "weight": "2.35 kg"
+    },
+    "pros": [
+      "Color-accurate OLED",
+      "Dial controller",
+      "Powerful"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavy",
+      "Dial takes practice"
+    ],
+    "resaleData": {
+      "current": 2450,
+      "sixMonths": 2150,
+      "oneYear": 1850
+    },
+    "price_inr": 248917,
+    "price_usd": 2999
+  },
+  {
+    "id": "asus-rog-flow-z13",
+    "slug": "asus-rog-flow-z13",
+    "name": "ASUS ROG Flow Z13",
+    "brand": "ASUS",
+    "category": "2-in-1",
+    "price": 1799,
+    "msrp": 1999,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8.5,
+      "display": 9,
+      "battery": 7,
+      "build": 8.8,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 185H",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "13.4\" 4K OLED Touch",
+      "gpu": "RTX 4060",
+      "battery": "6 hours",
+      "weight": "1.2 kg"
+    },
+    "pros": [
+      "Gaming tablet",
+      "Gorgeous display",
+      "Portable"
+    ],
+    "cons": [
+      "Expensive",
+      "Gets hot",
+      "Short battery gaming"
+    ],
+    "resaleData": {
+      "current": 1450,
+      "sixMonths": 1250,
+      "oneYear": 1050
+    },
+    "price_inr": 149317,
+    "price_usd": 1799
+  },
+  {
+    "id": "asus-rog-flow-x16",
+    "slug": "asus-rog-flow-x16",
+    "name": "ASUS ROG Flow X16",
+    "brand": "ASUS",
+    "category": "Gaming",
+    "price": 2199,
+    "msrp": 2399,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 9,
+      "display": 9.2,
+      "battery": 7.5,
+      "build": 8.8,
+      "value": 8.3
+    },
+    "specs": {
+      "processor": "AMD Ryzen 9 8945HS",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" QHD+ OLED 240Hz",
+      "gpu": "RTX 4070",
+      "battery": "8 hours",
+      "weight": "2.2 kg"
+    },
+    "pros": [
+      "Convertible gaming",
+      "OLED display",
+      "Good performance"
+    ],
+    "cons": [
+      "Pricey",
+      "Heavy for 2-in-1"
+    ],
+    "resaleData": {
+      "current": 1800,
+      "sixMonths": 1550,
+      "oneYear": 1300
+    },
+    "price_inr": 182517,
+    "price_usd": 2199
+  },
+  {
+    "id": "asus-rog-zephyrus-g16-2025",
+    "slug": "asus-rog-zephyrus-g16-2025",
+    "name": "ASUS ROG Zephyrus G16 2025",
+    "brand": "ASUS",
+    "category": "Gaming",
+    "price": 1899,
+    "msrp": 1999,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "overallScore": 9.2,
+    "scores": {
+      "performance": 9.4,
+      "display": 9.3,
+      "battery": 8.5,
+      "build": 9,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 285HX",
+      "ram": "24GB",
+      "storage": "1TB SSD",
+      "display": "16\" OLED 2.5K 240Hz",
+      "gpu": "RTX 5070",
+      "battery": "10 hours",
+      "weight": "1.85 kg"
+    },
+    "pros": [
+      "Next-gen performance",
+      "Great OLED",
+      "Good portability"
+    ],
+    "cons": [
+      "Gets warm",
+      "Premium price"
+    ],
+    "resaleData": {
+      "current": 1600,
+      "sixMonths": 1400,
+      "oneYear": 1200
+    },
+    "price_inr": 157617,
+    "price_usd": 1899
+  },
+  {
+    "id": "asus-zenbook-duo-2024",
+    "slug": "asus-zenbook-duo-2024",
+    "name": "ASUS Zenbook DUO 2024",
+    "brand": "ASUS",
+    "category": "2-in-1",
+    "price": 1999,
+    "msrp": 2199,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.3,
+      "display": 9.2,
+      "battery": 7.5,
+      "build": 9,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 185H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "Dual 14\" 3K OLED Touch",
+      "gpu": "Intel Arc",
+      "battery": "8 hours",
+      "weight": "1.65 kg"
+    },
+    "pros": [
+      "Dual screen innovation",
+      "OLED displays",
+      "Versatile"
+    ],
+    "cons": [
+      "Expensive",
+      "Learning curve",
+      "Battery drain"
+    ],
+    "resaleData": {
+      "current": 1650,
+      "sixMonths": 1400,
+      "oneYear": 1200
+    },
+    "price_inr": 165917,
+    "price_usd": 1999
+  },
+  {
+    "id": "asus-vivobook-s-15-oled",
+    "slug": "asus-vivobook-s-15-oled",
+    "name": "ASUS Vivobook S 15 OLED",
+    "brand": "ASUS",
+    "category": "Ultrabook",
+    "price": 1099,
+    "msrp": 1199,
+    "releaseDate": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.5,
+      "display": 9.2,
+      "battery": 8,
+      "build": 8.2,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Qualcomm Snapdragon X Elite",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "15.6\" 3K OLED",
+      "gpu": "Qualcomm Adreno",
+      "battery": "18 hours",
+      "weight": "1.42 kg"
+    },
+    "pros": [
+      "ARM efficiency",
+      "OLED display",
+      "Great battery"
+    ],
+    "cons": [
+      "App compatibility",
+      "No discrete GPU"
+    ],
+    "resaleData": {
+      "current": 880,
+      "sixMonths": 760,
+      "oneYear": 650
+    },
+    "price_inr": 91217,
+    "price_usd": 1099
+  },
+  {
+    "id": "asus-expertbook-b9-oled",
+    "slug": "asus-expertbook-b9-oled",
+    "name": "ASUS ExpertBook B9 OLED",
+    "brand": "ASUS",
+    "category": "Business",
+    "price": 1799,
+    "msrp": 1999,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 8.3,
+      "display": 9.2,
+      "battery": 9.2,
+      "build": 9,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155U",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "14\" 2.8K OLED",
+      "gpu": "Intel Arc",
+      "battery": "16 hours",
+      "weight": "0.99 kg"
+    },
+    "pros": [
+      "Ultra-lightweight",
+      "OLED display",
+      "Great battery"
+    ],
+    "cons": [
+      "Expensive",
+      "No discrete GPU"
+    ],
+    "resaleData": {
+      "current": 1450,
+      "sixMonths": 1250,
+      "oneYear": 1050
+    },
+    "price_inr": 149317,
+    "price_usd": 1799
+  },
+  {
+    "id": "asus-chromebook-plus-cm34",
+    "slug": "asus-chromebook-plus-cm34",
+    "name": "ASUS Chromebook Plus CM34 Flip",
+    "brand": "ASUS",
+    "category": "Chromebook",
+    "price": 499,
+    "msrp": 549,
+    "releaseDate": "2023-10-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 7.9,
+    "scores": {
+      "performance": 7.5,
+      "display": 8,
+      "battery": 8.8,
+      "build": 8,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "AMD Ryzen 3 7320C",
+      "ram": "8GB",
+      "storage": "128GB SSD",
+      "display": "14\" FHD IPS Touch",
+      "gpu": "AMD Radeon",
+      "battery": "13 hours",
+      "weight": "1.59 kg"
+    },
+    "pros": [
+      "Good value",
+      "2-in-1 design",
+      "Solid battery"
+    ],
+    "cons": [
+      "Chrome OS limits",
+      "Average display"
+    ],
+    "resaleData": {
+      "current": 380,
+      "sixMonths": 320,
+      "oneYear": 270
+    },
+    "price_inr": 41417,
+    "price_usd": 499
+  },
+  {
+    "id": "hp-spectre-x360-16",
+    "slug": "hp-spectre-x360-16",
+    "name": "HP Spectre x360 16",
+    "brand": "HP",
+    "category": "Creator",
+    "price": 1649,
+    "msrp": 1799,
+    "releaseDate": "2023-05-20",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 8.5,
+      "display": 9.2,
+      "battery": 8.5,
+      "build": 9,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "16\" 3K+ OLED Touch",
+      "gpu": "Intel Arc A370M",
+      "battery": "12 hours",
+      "weight": "2.09 kg"
+    },
+    "pros": [
+      "Beautiful 2-in-1 design",
+      "OLED touchscreen",
+      "Pen included"
+    ],
+    "cons": [
+      "Heavy for a convertible",
+      "Fan noise under load"
+    ],
+    "resaleData": {
+      "current": 1350,
+      "sixMonths": 1150,
+      "oneYear": 950
+    },
+    "price_inr": 136867,
+    "price_usd": 1649
+  },
+  {
+    "id": "hp-omen-17",
+    "slug": "hp-omen-17",
+    "name": "HP OMEN 17",
+    "brand": "HP",
+    "category": "Gaming",
+    "price": 1799,
+    "msrp": 1999,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 9,
+      "display": 8.8,
+      "battery": 7.5,
+      "build": 8.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core i7-13700HX",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "17.3\" QHD 165Hz",
+      "gpu": "RTX 4070",
+      "battery": "5 hours",
+      "weight": "2.78 kg"
+    },
+    "pros": [
+      "Great gaming performance",
+      "Large display",
+      "Good value"
+    ],
+    "cons": [
+      "Heavy",
+      "Short battery",
+      "Bulky design"
+    ],
+    "resaleData": {
+      "current": 1450,
+      "sixMonths": 1250,
+      "oneYear": 1050
+    },
+    "price_inr": 149317,
+    "price_usd": 1799
+  },
+  {
+    "id": "hp-envy-16",
+    "slug": "hp-envy-16",
+    "name": "HP Envy 16",
+    "brand": "HP",
+    "category": "Creator",
+    "price": 1449,
+    "msrp": 1549,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.5,
+      "display": 9,
+      "battery": 8,
+      "build": 8.5,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "16\" 4K OLED Touch",
+      "gpu": "RTX 4060",
+      "battery": "10 hours",
+      "weight": "2.18 kg"
+    },
+    "pros": [
+      "Great 4K OLED",
+      "Good performance",
+      "Premium feel"
+    ],
+    "cons": [
+      "Heavy",
+      "Fan noise under load"
+    ],
+    "resaleData": {
+      "current": 1200,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 120267,
+    "price_usd": 1449
+  },
+  {
+    "id": "hp-pavilion-plus-14",
+    "slug": "hp-pavilion-plus-14",
+    "name": "HP Pavilion Plus 14",
+    "brand": "HP",
+    "category": "Ultrabook",
+    "price": 899,
+    "msrp": 999,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 8.1,
+    "scores": {
+      "performance": 8,
+      "display": 8.5,
+      "battery": 8,
+      "build": 8,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core i7-1355U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" 2.8K OLED",
+      "gpu": "Intel Iris Xe",
+      "battery": "11 hours",
+      "weight": "1.4 kg"
+    },
+    "pros": [
+      "OLED at good price",
+      "Compact",
+      "Good everyday performance"
+    ],
+    "cons": [
+      "No discrete GPU",
+      "Average speakers"
+    ],
+    "resaleData": {
+      "current": 700,
+      "sixMonths": 600,
+      "oneYear": 500
+    },
+    "price_inr": 74617,
+    "price_usd": 899
+  },
+  {
+    "id": "hp-victus-16",
+    "slug": "hp-victus-16",
+    "name": "HP Victus 16",
+    "brand": "HP",
+    "category": "Gaming",
+    "price": 999,
+    "msrp": 1099,
+    "releaseDate": "2023-09-01",
+    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "overallScore": 8,
+    "scores": {
+      "performance": 8.3,
+      "display": 7.8,
+      "battery": 6.5,
+      "build": 7.5,
+      "value": 9.2
+    },
+    "specs": {
+      "processor": "AMD Ryzen 7 7840HS",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "16.1\" FHD 144Hz",
+      "gpu": "RTX 4060",
+      "battery": "5 hours",
+      "weight": "2.3 kg"
+    },
+    "pros": [
+      "Great value",
+      "Solid gaming",
+      "Good CPU"
+    ],
+    "cons": [
+      "Display average",
+      "Plastic build",
+      "Short battery"
+    ],
+    "resaleData": {
+      "current": 800,
+      "sixMonths": 700,
+      "oneYear": 600
+    },
+    "price_inr": 82917,
+    "price_usd": 999
+  },
+  {
+    "id": "hp-elitebook-840-g10",
+    "slug": "hp-elitebook-840-g10",
+    "name": "HP EliteBook 840 G10",
+    "brand": "HP",
+    "category": "Business",
+    "price": 1699,
+    "msrp": 1899,
+    "releaseDate": "2023-04-01",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.3,
+      "display": 8.5,
+      "battery": 8.8,
+      "build": 9.2,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core i7-1365U",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "display": "14\" WUXGA IPS",
+      "gpu": "Intel Iris Xe",
+      "battery": "14 hours",
+      "weight": "1.36 kg"
+    },
+    "pros": [
+      "Business features",
+      "Durable build",
+      "Great keyboard"
+    ],
+    "cons": [
+      "No OLED",
+      "Expensive",
+      "Generic design"
+    ],
+    "resaleData": {
+      "current": 1400,
+      "sixMonths": 1200,
+      "oneYear": 1000
+    },
+    "price_inr": 141017,
+    "price_usd": 1699
+  },
+  {
+    "id": "hp-dragonfly-pro-chromebook",
+    "slug": "hp-dragonfly-pro-chromebook",
+    "name": "HP Dragonfly Pro Chromebook",
+    "brand": "HP",
+    "category": "Chromebook",
+    "price": 999,
+    "msrp": 1099,
+    "releaseDate": "2023-04-01",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=800",
+    "overallScore": 8.3,
+    "scores": {
+      "performance": 8,
+      "display": 8.5,
+      "battery": 8.5,
+      "build": 9,
+      "value": 7.8
+    },
+    "specs": {
+      "processor": "Intel Core i5-1235U",
+      "ram": "16GB",
+      "storage": "256GB SSD",
+      "display": "14\" 2560x1600 IPS Touch",
+      "gpu": "Intel Iris Xe",
+      "battery": "11 hours",
+      "weight": "1.48 kg"
+    },
+    "pros": [
+      "Premium build",
+      "Haptic trackpad",
+      "Great speakers"
+    ],
+    "cons": [
+      "Expensive for Chromebook",
+      "Chrome OS limits",
+      "No OLED"
+    ],
+    "resaleData": {
+      "current": 750,
+      "sixMonths": 650,
+      "oneYear": 550
+    },
+    "price_inr": 82917,
+    "price_usd": 999
+  },
+  {
+    "id": "hp-omen-transcend-14",
+    "slug": "hp-omen-transcend-14",
+    "name": "HP OMEN Transcend 14",
+    "brand": "HP",
+    "category": "Gaming",
+    "price": 1699,
+    "msrp": 1849,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 8.8,
+      "display": 9.2,
+      "battery": 8.5,
+      "build": 9,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 185H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "14\" 2.8K OLED 120Hz",
+      "gpu": "RTX 4060",
+      "battery": "9 hours",
+      "weight": "1.63 kg"
+    },
+    "pros": [
+      "Premium portable gaming",
+      "OLED display",
+      "Great build"
+    ],
+    "cons": [
+      "Expensive",
+      "GPU limited by size"
+    ],
+    "resaleData": {
+      "current": 1400,
+      "sixMonths": 1200,
+      "oneYear": 1000
+    },
+    "price_inr": 141017,
+    "price_usd": 1699
+  },
+  {
+    "id": "hp-elitebook-dragonfly-g4",
+    "slug": "hp-elitebook-dragonfly-g4",
+    "name": "HP EliteBook Dragonfly G4",
+    "brand": "HP",
+    "category": "Business",
+    "price": 2199,
+    "msrp": 2499,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 8.2,
+      "display": 9,
+      "battery": 9,
+      "build": 9.5,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core i7-1365U",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "display": "13.5\" 3K2K OLED Touch",
+      "gpu": "Intel Iris Xe",
+      "battery": "14 hours",
+      "weight": "0.99 kg"
+    },
+    "pros": [
+      "Premium ultralight",
+      "Gorgeous display",
+      "Great battery"
+    ],
+    "cons": [
+      "Very expensive",
+      "No discrete GPU"
+    ],
+    "resaleData": {
+      "current": 1800,
+      "sixMonths": 1550,
+      "oneYear": 1300
+    },
+    "price_inr": 182517,
+    "price_usd": 2199
+  },
+  {
+    "id": "hp-spectre-fold-17",
+    "slug": "hp-spectre-fold-17",
+    "name": "HP Spectre Fold 17",
+    "brand": "HP",
+    "category": "2-in-1",
+    "price": 4999,
+    "msrp": 4999,
+    "releaseDate": "2023-10-01",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 8.3,
+    "scores": {
+      "performance": 7.8,
+      "display": 9.2,
+      "battery": 7,
+      "build": 9,
+      "value": 6.5
+    },
+    "specs": {
+      "processor": "Intel Core i7-1250U",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "17\" OLED Foldable",
+      "gpu": "Intel Iris Xe",
+      "battery": "7 hours",
+      "weight": "1.43 kg"
+    },
+    "pros": [
+      "Innovative foldable",
+      "Large OLED",
+      "Premium experience"
+    ],
+    "cons": [
+      "Extremely expensive",
+      "Weak CPU",
+      "Durability concerns"
+    ],
+    "resaleData": {
+      "current": 3500,
+      "sixMonths": 3000,
+      "oneYear": 2500
+    },
+    "price_inr": 414917,
+    "price_usd": 4999
+  },
+  {
+    "id": "hp-probook-450-g11",
+    "slug": "hp-probook-450-g11",
+    "name": "HP ProBook 450 G11",
+    "brand": "HP",
+    "category": "Business",
+    "price": 899,
+    "msrp": 999,
+    "releaseDate": "2024-03-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 7.9,
+    "scores": {
+      "performance": 7.8,
+      "display": 7.5,
+      "battery": 8.5,
+      "build": 8,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 5 125U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" FHD IPS",
+      "gpu": "Intel Arc",
+      "battery": "12 hours",
+      "weight": "1.74 kg"
+    },
+    "pros": [
+      "Business features",
+      "Good battery",
+      "Affordable"
+    ],
+    "cons": [
+      "Basic display",
+      "Plastic build"
+    ],
+    "resaleData": {
+      "current": 700,
+      "sixMonths": 600,
+      "oneYear": 500
+    },
+    "price_inr": 74617,
+    "price_usd": 899
+  },
+  {
+    "id": "hp-laptop-15-2024",
+    "slug": "hp-laptop-15-2024",
+    "name": "HP Laptop 15 2024",
+    "brand": "HP",
+    "category": "Budget",
+    "price": 549,
+    "msrp": 599,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "overallScore": 7.6,
+    "scores": {
+      "performance": 7.5,
+      "display": 7.2,
+      "battery": 8,
+      "build": 7.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "AMD Ryzen 5 7530U",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" FHD IPS",
+      "gpu": "AMD Radeon",
+      "battery": "10 hours",
+      "weight": "1.59 kg"
+    },
+    "pros": [
+      "Good value",
+      "Decent specs",
+      "Solid battery"
+    ],
+    "cons": [
+      "Basic display",
+      "Plastic build"
+    ],
+    "resaleData": {
+      "current": 400,
+      "sixMonths": 350,
+      "oneYear": 290
+    },
+    "price_inr": 45567,
+    "price_usd": 549
+  },
+  {
+    "id": "hp-stream-14",
+    "slug": "hp-stream-14",
+    "name": "HP Stream 14",
+    "brand": "HP",
+    "category": "Budget",
+    "price": 299,
+    "msrp": 349,
+    "releaseDate": "2023-09-01",
+    "image": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=800",
+    "overallScore": 6.5,
+    "scores": {
+      "performance": 5.5,
+      "display": 6,
+      "battery": 8,
+      "build": 6.5,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Celeron N4120",
+      "ram": "4GB",
+      "storage": "64GB eMMC",
+      "display": "14\" HD",
+      "gpu": "Intel UHD",
+      "battery": "11 hours",
+      "weight": "1.47 kg"
+    },
+    "pros": [
+      "Very affordable",
+      "Good battery",
+      "Lightweight"
+    ],
+    "cons": [
+      "Weak performance",
+      "Low storage",
+      "Poor display"
+    ],
+    "resaleData": {
+      "current": 180,
+      "sixMonths": 150,
+      "oneYear": 120
+    },
+    "price_inr": 24817,
+    "price_usd": 299
+  },
+  {
+    "id": "razer-blade-16",
+    "slug": "razer-blade-16",
+    "name": "Razer Blade 16",
+    "brand": "Razer",
+    "category": "Gaming",
+    "price": 2799,
+    "msrp": 2999,
+    "releaseDate": "2024-01-09",
+    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "overallScore": 9,
+    "scores": {
+      "performance": 9.5,
+      "display": 9.4,
+      "battery": 7.5,
+      "build": 9.5,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" UHD+ 120Hz Mini-LED",
+      "gpu": "RTX 4080",
+      "battery": "6 hours",
+      "weight": "2.45 kg"
+    },
+    "pros": [
+      "Premium build",
+      "Dual-mode display",
+      "Powerful"
+    ],
+    "cons": [
+      "Very expensive",
+      "Gets hot",
+      "Average battery"
+    ],
+    "resaleData": {
+      "current": 2300,
+      "sixMonths": 2000,
+      "oneYear": 1700
+    },
+    "price_inr": 232317,
+    "price_usd": 2799
+  },
+  {
+    "id": "razer-blade-14",
+    "slug": "razer-blade-14",
+    "name": "Razer Blade 14",
+    "brand": "Razer",
+    "category": "Gaming",
+    "price": 2199,
+    "msrp": 2399,
+    "releaseDate": "2024-01-09",
+    "image": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 9,
+      "display": 9,
+      "battery": 8,
+      "build": 9.3,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "AMD Ryzen 9 8945HS",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "14\" QHD+ 240Hz",
+      "gpu": "RTX 4070",
+      "battery": "8 hours",
+      "weight": "1.84 kg"
+    },
+    "pros": [
+      "Compact powerhouse",
+      "Great display",
+      "Premium materials"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited upgrades"
+    ],
+    "resaleData": {
+      "current": 1800,
+      "sixMonths": 1550,
+      "oneYear": 1300
+    },
+    "price_inr": 182517,
+    "price_usd": 2199
+  },
+  {
+    "id": "razer-blade-18-2025",
+    "slug": "razer-blade-18-2025",
+    "name": "Razer Blade 18 2025",
+    "brand": "Razer",
+    "category": "Gaming",
+    "price": 3499,
+    "msrp": 3699,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "overallScore": 9.2,
+    "scores": {
+      "performance": 9.6,
+      "display": 9.4,
+      "battery": 7,
+      "build": 9.5,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 285HX",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "18\" UHD+ 200Hz Mini-LED",
+      "gpu": "RTX 5090",
+      "battery": "5 hours",
+      "weight": "2.75 kg"
+    },
+    "pros": [
+      "Top-tier specs",
+      "Beautiful display",
+      "Premium build"
+    ],
+    "cons": [
+      "Very expensive",
+      "Short battery",
+      "Heavy"
+    ],
+    "resaleData": {
+      "current": 2900,
+      "sixMonths": 2550,
+      "oneYear": 2200
+    },
+    "price_inr": 290417,
+    "price_usd": 3499
+  },
+  {
+    "id": "microsoft-surface-laptop-6",
+    "slug": "microsoft-surface-laptop-6",
+    "name": "Microsoft Surface Laptop 6",
+    "brand": "Microsoft",
+    "category": "Ultrabook",
+    "price": 1299,
+    "msrp": 1299,
+    "releaseDate": "2024-03-21",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.3,
+      "display": 8.8,
+      "battery": 8.8,
+      "build": 9,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "13.8\" PixelSense Touch",
+      "gpu": "Intel Arc",
+      "battery": "18 hours",
+      "weight": "1.34 kg"
+    },
+    "pros": [
+      "Premium design",
+      "Great touchscreen",
+      "Long battery"
+    ],
+    "cons": [
+      "Limited ports",
+      "No Thunderbolt"
+    ],
+    "resaleData": {
+      "current": 1050,
+      "sixMonths": 900,
+      "oneYear": 750
+    },
+    "price_inr": 107817,
+    "price_usd": 1299
+  },
+  {
+    "id": "microsoft-surface-pro-10",
+    "slug": "microsoft-surface-pro-10",
+    "name": "Microsoft Surface Pro 10",
+    "brand": "Microsoft",
+    "category": "2-in-1",
+    "price": 1499,
+    "msrp": 1599,
+    "releaseDate": "2024-03-21",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8,
+      "display": 9,
+      "battery": 8.5,
+      "build": 9,
+      "value": 7.8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 165U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "13\" PixelSense OLED",
+      "gpu": "Intel Arc",
+      "battery": "14 hours",
+      "weight": "0.88 kg"
+    },
+    "pros": [
+      "Versatile form factor",
+      "OLED option",
+      "Excellent pen support"
+    ],
+    "cons": [
+      "Keyboard sold separately",
+      "Expensive with accessories"
+    ],
+    "resaleData": {
+      "current": 1200,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 124417,
+    "price_usd": 1499
+  },
+  {
+    "id": "microsoft-surface-laptop-studio-2",
+    "slug": "microsoft-surface-laptop-studio-2",
+    "name": "Microsoft Surface Laptop Studio 2",
+    "brand": "Microsoft",
+    "category": "Creator",
+    "price": 1999,
+    "msrp": 2199,
+    "releaseDate": "2023-10-03",
+    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.5,
+      "display": 9,
+      "battery": 8,
+      "build": 9,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core i7-13700H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "14.4\" PixelSense 120Hz",
+      "gpu": "RTX 4060",
+      "battery": "10 hours",
+      "weight": "2.0 kg"
+    },
+    "pros": [
+      "Unique form factor",
+      "Great for creators",
+      "Pen support"
+    ],
+    "cons": [
+      "Heavy",
+      "Expensive",
+      "Limited ports"
+    ],
+    "resaleData": {
+      "current": 1650,
+      "sixMonths": 1400,
+      "oneYear": 1200
+    },
+    "price_inr": 165917,
+    "price_usd": 1999
+  },
+  {
+    "id": "microsoft-surface-go-4",
+    "slug": "microsoft-surface-go-4",
+    "name": "Microsoft Surface Go 4",
+    "brand": "Microsoft",
+    "category": "2-in-1",
+    "price": 579,
+    "msrp": 649,
+    "releaseDate": "2024-01-30",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 7.2,
+    "scores": {
+      "performance": 6.5,
+      "display": 7.8,
+      "battery": 7.5,
+      "build": 8,
+      "value": 7.5
+    },
+    "specs": {
+      "processor": "Intel Core i3-N200",
+      "ram": "8GB",
+      "storage": "128GB SSD",
+      "display": "10.5\" PixelSense Touch",
+      "gpu": "Intel UHD",
+      "battery": "10 hours",
+      "weight": "0.52 kg"
+    },
+    "pros": [
+      "Ultra-portable",
+      "Full Windows",
+      "Pen support"
+    ],
+    "cons": [
+      "Weak performance",
+      "Small screen",
+      "Keyboard extra"
+    ],
+    "resaleData": {
+      "current": 420,
+      "sixMonths": 360,
+      "oneYear": 300
+    },
+    "price_inr": 48057,
+    "price_usd": 579
+  },
+  {
+    "id": "acer-predator-helios-18",
+    "slug": "acer-predator-helios-18",
+    "name": "Acer Predator Helios 18",
+    "brand": "Acer",
+    "category": "Gaming",
+    "price": 2199,
+    "msrp": 2399,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "overallScore": 8.9,
+    "scores": {
+      "performance": 9.4,
+      "display": 9,
+      "battery": 6.5,
+      "build": 8.5,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "18\" WQXGA 250Hz",
+      "gpu": "RTX 4080",
+      "battery": "4 hours",
+      "weight": "3.2 kg"
+    },
+    "pros": [
+      "Huge display",
+      "Powerful specs",
+      "Good value"
+    ],
+    "cons": [
+      "Very heavy",
+      "Poor battery",
+      "Bulky"
+    ],
+    "resaleData": {
+      "current": 1800,
+      "sixMonths": 1550,
+      "oneYear": 1300
+    },
+    "price_inr": 182517,
+    "price_usd": 2199
+  },
+  {
+    "id": "acer-swift-go-14",
+    "slug": "acer-swift-go-14",
+    "name": "Acer Swift Go 14",
+    "brand": "Acer",
+    "category": "Ultrabook",
+    "price": 849,
+    "msrp": 899,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=800",
+    "overallScore": 8.2,
+    "scores": {
+      "performance": 8,
+      "display": 8.5,
+      "battery": 8.5,
+      "build": 8,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" 2.8K OLED",
+      "gpu": "Intel Arc",
+      "battery": "12 hours",
+      "weight": "1.32 kg"
+    },
+    "pros": [
+      "OLED at great price",
+      "Lightweight",
+      "Good performance"
+    ],
+    "cons": [
+      "Build quality average",
+      "Limited ports"
+    ],
+    "resaleData": {
+      "current": 700,
+      "sixMonths": 600,
+      "oneYear": 500
+    },
+    "price_inr": 70467,
+    "price_usd": 849
+  },
+  {
+    "id": "acer-aspire-5",
+    "slug": "acer-aspire-5",
+    "name": "Acer Aspire 5",
+    "brand": "Acer",
+    "category": "Budget",
+    "price": 549,
+    "msrp": 599,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=800",
+    "overallScore": 7.8,
+    "scores": {
+      "performance": 7.5,
+      "display": 7.5,
+      "battery": 8,
+      "build": 7.5,
+      "value": 9
+    },
+    "specs": {
+      "processor": "AMD Ryzen 5 7530U",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" FHD IPS",
+      "gpu": "AMD Radeon",
+      "battery": "10 hours",
+      "weight": "1.76 kg"
+    },
+    "pros": [
+      "Excellent value",
+      "Good battery",
+      "Decent performance"
+    ],
+    "cons": [
+      "Average display",
+      "Plastic build",
+      "Limited power"
+    ],
+    "resaleData": {
+      "current": 400,
+      "sixMonths": 350,
+      "oneYear": 300
+    },
+    "price_inr": 45567,
+    "price_usd": 549
+  },
+  {
+    "id": "acer-chromebook-plus-516",
+    "slug": "acer-chromebook-plus-516",
+    "name": "Acer Chromebook Plus 516 GE",
+    "brand": "Acer",
+    "category": "Chromebook",
+    "price": 649,
+    "msrp": 699,
+    "releaseDate": "2023-10-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 8,
+    "scores": {
+      "performance": 7.8,
+      "display": 8.2,
+      "battery": 8.5,
+      "build": 8,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core i5-1235U",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "16\" QHD+ 120Hz",
+      "gpu": "Intel Iris Xe",
+      "battery": "12 hours",
+      "weight": "1.88 kg"
+    },
+    "pros": [
+      "Cloud gaming ready",
+      "Nice display",
+      "Good battery"
+    ],
+    "cons": [
+      "Chrome OS limitations",
+      "Limited storage"
+    ],
+    "resaleData": {
+      "current": 500,
+      "sixMonths": 420,
+      "oneYear": 350
+    },
+    "price_inr": 53867,
+    "price_usd": 649
+  },
+  {
+    "id": "acer-nitro-v-15",
+    "slug": "acer-nitro-v-15",
+    "name": "Acer Nitro V 15",
+    "brand": "Acer",
+    "category": "Gaming",
+    "price": 749,
+    "msrp": 849,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "overallScore": 7.8,
+    "scores": {
+      "performance": 8,
+      "display": 7.5,
+      "battery": 6.5,
+      "build": 7.5,
+      "value": 9.2
+    },
+    "specs": {
+      "processor": "AMD Ryzen 5 7535HS",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" FHD 144Hz",
+      "gpu": "RTX 4050",
+      "battery": "5 hours",
+      "weight": "2.1 kg"
+    },
+    "pros": [
+      "Budget gaming",
+      "RTX GPU",
+      "Good value"
+    ],
+    "cons": [
+      "Low RAM",
+      "Average display",
+      "Plastic build"
+    ],
+    "resaleData": {
+      "current": 600,
+      "sixMonths": 500,
+      "oneYear": 420
+    },
+    "price_inr": 62167,
+    "price_usd": 749
+  },
+  {
+    "id": "acer-swift-x-14-2024",
+    "slug": "acer-swift-x-14-2024",
+    "name": "Acer Swift X 14 2024",
+    "brand": "Acer",
+    "category": "Creator",
+    "price": 1199,
+    "msrp": 1299,
+    "releaseDate": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8.5,
+      "display": 8.5,
+      "battery": 8,
+      "build": 8.2,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "14.5\" 2.8K OLED",
+      "gpu": "RTX 4050",
+      "battery": "10 hours",
+      "weight": "1.55 kg"
+    },
+    "pros": [
+      "Great value creator",
+      "OLED display",
+      "Discrete GPU"
+    ],
+    "cons": [
+      "Average build",
+      "Fan noise"
+    ],
+    "resaleData": {
+      "current": 950,
+      "sixMonths": 820,
+      "oneYear": 700
+    },
+    "price_inr": 99517,
+    "price_usd": 1199
+  },
+  {
+    "id": "acer-spin-5-2024",
+    "slug": "acer-spin-5-2024",
+    "name": "Acer Spin 5 2024",
+    "brand": "Acer",
+    "category": "2-in-1",
+    "price": 1099,
+    "msrp": 1199,
+    "releaseDate": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 8.2,
+    "scores": {
+      "performance": 8,
+      "display": 8.5,
+      "battery": 8.5,
+      "build": 8,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 5 125U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" 2.5K IPS Touch",
+      "gpu": "Intel Arc",
+      "battery": "13 hours",
+      "weight": "1.35 kg"
+    },
+    "pros": [
+      "Good value 2-in-1",
+      "Pen included",
+      "Solid battery"
+    ],
+    "cons": [
+      "Average display",
+      "No OLED",
+      "Plastic build"
+    ],
+    "resaleData": {
+      "current": 850,
+      "sixMonths": 750,
+      "oneYear": 650
+    },
+    "price_inr": 91217,
+    "price_usd": 1099
+  },
+  {
+    "id": "msi-stealth-18",
+    "slug": "msi-stealth-18",
+    "name": "MSI Stealth 18 Mercedes-AMG",
+    "brand": "MSI",
+    "category": "Gaming",
+    "price": 3299,
+    "msrp": 3499,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "overallScore": 9,
+    "scores": {
+      "performance": 9.5,
+      "display": 9.2,
+      "battery": 7,
+      "build": 9.3,
+      "value": 7.8
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "18\" UHD+ 120Hz Mini-LED",
+      "gpu": "RTX 4090",
+      "battery": "5 hours",
+      "weight": "2.9 kg"
+    },
+    "pros": [
+      "Unique design",
+      "Top specs",
+      "Premium finish"
+    ],
+    "cons": [
+      "Extremely expensive",
+      "Heavy",
+      "Limited edition"
+    ],
+    "resaleData": {
+      "current": 2700,
+      "sixMonths": 2400,
+      "oneYear": 2100
+    },
+    "price_inr": 273817,
+    "price_usd": 3299
+  },
+  {
+    "id": "msi-creator-z17",
+    "slug": "msi-creator-z17",
+    "name": "MSI Creator Z17 HX Studio",
+    "brand": "MSI",
+    "category": "Creator",
+    "price": 2799,
+    "msrp": 2999,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 8.9,
+    "scores": {
+      "performance": 9.2,
+      "display": 9.4,
+      "battery": 7.5,
+      "build": 9,
+      "value": 8.3
+    },
+    "specs": {
+      "processor": "Intel Core i9-13980HX",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "17\" UHD+ Touch",
+      "gpu": "RTX 4070",
+      "battery": "8 hours",
+      "weight": "2.49 kg"
+    },
+    "pros": [
+      "Creator-focused",
+      "Great display",
+      "Powerful"
+    ],
+    "cons": [
+      "Expensive",
+      "Heavy",
+      "Fan noise"
+    ],
+    "resaleData": {
+      "current": 2300,
+      "sixMonths": 2000,
+      "oneYear": 1700
+    },
+    "price_inr": 232317,
+    "price_usd": 2799
+  },
+  {
+    "id": "msi-thin-gf63",
+    "slug": "msi-thin-gf63",
+    "name": "MSI Thin GF63",
+    "brand": "MSI",
+    "category": "Gaming",
+    "price": 799,
+    "msrp": 899,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "overallScore": 7.7,
+    "scores": {
+      "performance": 7.8,
+      "display": 7.3,
+      "battery": 6,
+      "build": 7.5,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core i5-12450H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" FHD 144Hz",
+      "gpu": "RTX 4050",
+      "battery": "4 hours",
+      "weight": "1.86 kg"
+    },
+    "pros": [
+      "Affordable",
+      "Lightweight for gaming",
+      "RTX GPU"
+    ],
+    "cons": [
+      "Poor display",
+      "Weak battery",
+      "Runs hot"
+    ],
+    "resaleData": {
+      "current": 650,
+      "sixMonths": 550,
+      "oneYear": 450
+    },
+    "price_inr": 66317,
+    "price_usd": 799
+  },
+  {
+    "id": "msi-prestige-16-evo",
+    "slug": "msi-prestige-16-evo",
+    "name": "MSI Prestige 16 Evo",
+    "brand": "MSI",
+    "category": "Ultrabook",
+    "price": 1299,
+    "msrp": 1399,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8.2,
+      "display": 8.8,
+      "battery": 8.5,
+      "build": 8.5,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" QHD+ IPS",
+      "gpu": "Intel Arc",
+      "battery": "14 hours",
+      "weight": "1.6 kg"
+    },
+    "pros": [
+      "Good battery",
+      "Nice display",
+      "Solid specs"
+    ],
+    "cons": [
+      "No dedicated GPU",
+      "Average speakers"
+    ],
+    "resaleData": {
+      "current": 1050,
+      "sixMonths": 900,
+      "oneYear": 750
+    },
+    "price_inr": 107817,
+    "price_usd": 1299
+  },
+  {
+    "id": "msi-katana-17-2024",
+    "slug": "msi-katana-17-2024",
+    "name": "MSI Katana 17 2024",
+    "brand": "MSI",
+    "category": "Gaming",
+    "price": 1299,
+    "msrp": 1399,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "overallScore": 8.2,
+    "scores": {
+      "performance": 8.5,
+      "display": 8,
+      "battery": 6.5,
+      "build": 8,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core i7-14700HX",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "17.3\" FHD 144Hz",
+      "gpu": "RTX 4070",
+      "battery": "5 hours",
+      "weight": "2.6 kg"
+    },
+    "pros": [
+      "Great value",
+      "Powerful GPU",
+      "Large screen"
+    ],
+    "cons": [
+      "Average display",
+      "Short battery",
+      "Heavy"
+    ],
+    "resaleData": {
+      "current": 1050,
+      "sixMonths": 900,
+      "oneYear": 750
+    },
+    "price_inr": 107817,
+    "price_usd": 1299
+  },
+  {
+    "id": "msi-summit-e16-flip",
+    "slug": "msi-summit-e16-flip",
+    "name": "MSI Summit E16 Flip",
+    "brand": "MSI",
+    "category": "2-in-1",
+    "price": 1799,
+    "msrp": 1999,
+    "releaseDate": "2023-09-01",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.5,
+      "display": 9,
+      "battery": 8,
+      "build": 8.8,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core i7-1360P",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" QHD+ IPS Touch",
+      "gpu": "RTX 4050",
+      "battery": "10 hours",
+      "weight": "2.0 kg"
+    },
+    "pros": [
+      "Business 2-in-1",
+      "Discrete GPU",
+      "Good display"
+    ],
+    "cons": [
+      "Heavy",
+      "Average battery"
+    ],
+    "resaleData": {
+      "current": 1450,
+      "sixMonths": 1250,
+      "oneYear": 1050
+    },
+    "price_inr": 149317,
+    "price_usd": 1799
+  },
+  {
+    "id": "framework-laptop-16",
+    "slug": "framework-laptop-16",
+    "name": "Framework Laptop 16",
+    "brand": "Framework",
+    "category": "Gaming",
+    "price": 1399,
+    "msrp": 1399,
+    "releaseDate": "2024-02-01",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.8,
+      "display": 8.5,
+      "battery": 7.5,
+      "build": 8.5,
+      "value": 9.5
+    },
+    "specs": {
+      "processor": "AMD Ryzen 9 7940HS",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" 2560x1600 165Hz",
+      "gpu": "AMD RX 7700S",
+      "battery": "7 hours",
+      "weight": "2.1 kg"
+    },
+    "pros": [
+      "Fully modular",
+      "Repairable",
+      "Customizable"
+    ],
+    "cons": [
+      "Build quality varies",
+      "Some quirks",
+      "DIY required"
+    ],
+    "resaleData": {
+      "current": 1150,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 116117,
+    "price_usd": 1399
+  },
+  {
+    "id": "framework-laptop-13",
+    "slug": "framework-laptop-13",
+    "name": "Framework Laptop 13",
+    "brand": "Framework",
+    "category": "Ultrabook",
+    "price": 1049,
+    "msrp": 1049,
+    "releaseDate": "2023-07-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8.2,
+      "display": 8,
+      "battery": 8,
+      "build": 8,
+      "value": 9.5
+    },
+    "specs": {
+      "processor": "Intel Core i7-1370P",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "13.5\" 2256x1504",
+      "gpu": "Intel Iris Xe",
+      "battery": "10 hours",
+      "weight": "1.34 kg"
+    },
+    "pros": [
+      "Repairable",
+      "Modular ports",
+      "Sustainable"
+    ],
+    "cons": [
+      "Average display",
+      "Build not premium",
+      "DIY setup"
+    ],
+    "resaleData": {
+      "current": 850,
+      "sixMonths": 750,
+      "oneYear": 650
+    },
+    "price_inr": 87067,
+    "price_usd": 1049
+  },
+  {
+    "id": "lg-gram-17-2024",
+    "slug": "lg-gram-17-2024",
+    "name": "LG gram 17 2024",
+    "brand": "LG",
+    "category": "Ultrabook",
+    "price": 1699,
+    "msrp": 1799,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8,
+      "display": 8.8,
+      "battery": 9.5,
+      "build": 8.5,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "17\" WQXGA IPS",
+      "gpu": "Intel Arc",
+      "battery": "22 hours",
+      "weight": "1.35 kg"
+    },
+    "pros": [
+      "Incredibly light",
+      "Huge battery",
+      "Large screen"
+    ],
+    "cons": [
+      "Feels cheap",
+      "Average speakers",
+      "No OLED"
+    ],
+    "resaleData": {
+      "current": 1400,
+      "sixMonths": 1200,
+      "oneYear": 1000
+    },
+    "price_inr": 141017,
+    "price_usd": 1699
+  },
+  {
+    "id": "lg-gram-pro-16-2024",
+    "slug": "lg-gram-pro-16-2024",
+    "name": "LG gram Pro 16 2024",
+    "brand": "LG",
+    "category": "Creator",
+    "price": 1999,
+    "msrp": 2199,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 8.5,
+      "display": 9.2,
+      "battery": 9,
+      "build": 8.5,
+      "value": 8.3
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 185H",
+      "ram": "32GB",
+      "storage": "2TB SSD",
+      "display": "16\" 3K OLED",
+      "gpu": "RTX 3050",
+      "battery": "18 hours",
+      "weight": "1.44 kg"
+    },
+    "pros": [
+      "OLED display",
+      "Ultralight",
+      "Dedicated GPU"
+    ],
+    "cons": [
+      "Weak GPU",
+      "Premium price",
+      "Plastic feel"
+    ],
+    "resaleData": {
+      "current": 1650,
+      "sixMonths": 1400,
+      "oneYear": 1200
+    },
+    "price_inr": 165917,
+    "price_usd": 1999
+  },
+  {
+    "id": "lg-gram-style-16-2024",
+    "slug": "lg-gram-style-16-2024",
+    "name": "LG gram Style 16 2024",
+    "brand": "LG",
+    "category": "Ultrabook",
+    "price": 1899,
+    "msrp": 1999,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.2,
+      "display": 9,
+      "battery": 9,
+      "build": 8.5,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" 3K OLED",
+      "gpu": "Intel Arc",
+      "battery": "20 hours",
+      "weight": "1.29 kg"
+    },
+    "pros": [
+      "Incredibly light",
+      "OLED display",
+      "Amazing battery"
+    ],
+    "cons": [
+      "No dedicated GPU",
+      "Feels fragile",
+      "Pricey"
+    ],
+    "resaleData": {
+      "current": 1550,
+      "sixMonths": 1350,
+      "oneYear": 1150
+    },
+    "price_inr": 157617,
+    "price_usd": 1899
+  },
+  {
+    "id": "samsung-galaxy-book4-ultra",
+    "slug": "samsung-galaxy-book4-ultra",
+    "name": "Samsung Galaxy Book4 Ultra",
+    "brand": "Samsung",
+    "category": "Creator",
+    "price": 2399,
+    "msrp": 2599,
+    "releaseDate": "2024-01-17",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 9,
+      "display": 9.3,
+      "battery": 8,
+      "build": 9,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 185H",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" 3K AMOLED 120Hz",
+      "gpu": "RTX 4070",
+      "battery": "10 hours",
+      "weight": "1.87 kg"
+    },
+    "pros": [
+      "Stunning AMOLED",
+      "Strong specs",
+      "Galaxy ecosystem"
+    ],
+    "cons": [
+      "Expensive",
+      "Limited availability",
+      "Average battery"
+    ],
+    "resaleData": {
+      "current": 1950,
+      "sixMonths": 1700,
+      "oneYear": 1450
+    },
+    "price_inr": 199117,
+    "price_usd": 2399
+  },
+  {
+    "id": "samsung-galaxy-book4-pro-360",
+    "slug": "samsung-galaxy-book4-pro-360",
+    "name": "Samsung Galaxy Book4 Pro 360",
+    "brand": "Samsung",
+    "category": "2-in-1",
+    "price": 1649,
+    "msrp": 1799,
+    "releaseDate": "2024-01-17",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.3,
+      "display": 9.2,
+      "battery": 8.8,
+      "build": 9,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "16\" 3K AMOLED Touch",
+      "gpu": "Intel Arc",
+      "battery": "16 hours",
+      "weight": "1.69 kg"
+    },
+    "pros": [
+      "Beautiful display",
+      "S Pen included",
+      "Thin and light"
+    ],
+    "cons": [
+      "No discrete GPU",
+      "Expensive",
+      "Hinge could be stiffer"
+    ],
+    "resaleData": {
+      "current": 1350,
+      "sixMonths": 1150,
+      "oneYear": 950
+    },
+    "price_inr": 136867,
+    "price_usd": 1649
+  },
+  {
+    "id": "samsung-galaxy-book4-pro",
+    "slug": "samsung-galaxy-book4-pro",
+    "name": "Samsung Galaxy Book4 Pro",
+    "brand": "Samsung",
+    "category": "Ultrabook",
+    "price": 1449,
+    "msrp": 1599,
+    "releaseDate": "2024-01-17",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.3,
+      "display": 9.2,
+      "battery": 8.8,
+      "build": 9,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "16\" 3K AMOLED",
+      "gpu": "Intel Arc",
+      "battery": "18 hours",
+      "weight": "1.55 kg"
+    },
+    "pros": [
+      "Stunning AMOLED",
+      "Great battery",
+      "Lightweight"
+    ],
+    "cons": [
+      "No discrete GPU",
+      "Limited ports"
+    ],
+    "resaleData": {
+      "current": 1200,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 120267,
+    "price_usd": 1449
+  },
+  {
+    "id": "samsung-galaxy-chromebook-plus",
+    "slug": "samsung-galaxy-chromebook-plus",
+    "name": "Samsung Galaxy Chromebook Plus",
+    "brand": "Samsung",
+    "category": "Chromebook",
+    "price": 699,
+    "msrp": 749,
+    "releaseDate": "2024-01-17",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 8.1,
+    "scores": {
+      "performance": 7.8,
+      "display": 8.5,
+      "battery": 8.5,
+      "build": 8.5,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core 3 100U",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "display": "15.6\" FHD AMOLED",
+      "gpu": "Intel UHD",
+      "battery": "13 hours",
+      "weight": "1.71 kg"
+    },
+    "pros": [
+      "AMOLED display",
+      "Good battery",
+      "Galaxy features"
+    ],
+    "cons": [
+      "Chrome OS limits",
+      "Not powerful"
+    ],
+    "resaleData": {
+      "current": 530,
+      "sixMonths": 450,
+      "oneYear": 380
+    },
+    "price_inr": 58017,
+    "price_usd": 699
+  },
+  {
+    "id": "gigabyte-aorus-17x",
+    "slug": "gigabyte-aorus-17x",
+    "name": "Gigabyte AORUS 17X",
+    "brand": "Gigabyte",
+    "category": "Gaming",
+    "price": 2499,
+    "msrp": 2699,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 9.4,
+      "display": 8.8,
+      "battery": 6.5,
+      "build": 8.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB",
+      "storage": "2TB SSD",
+      "display": "17.3\" QHD 240Hz",
+      "gpu": "RTX 4080",
+      "battery": "4 hours",
+      "weight": "2.8 kg"
+    },
+    "pros": [
+      "Excellent performance",
+      "Good cooling",
+      "Value for specs"
+    ],
+    "cons": [
+      "Heavy",
+      "Poor battery",
+      "Design polarizing"
+    ],
+    "resaleData": {
+      "current": 2050,
+      "sixMonths": 1800,
+      "oneYear": 1550
+    },
+    "price_inr": 207417,
+    "price_usd": 2499
+  },
+  {
+    "id": "gigabyte-g5-2023",
+    "slug": "gigabyte-g5-2023",
+    "name": "Gigabyte G5 2023",
+    "brand": "Gigabyte",
+    "category": "Gaming",
+    "price": 949,
+    "msrp": 1049,
+    "releaseDate": "2023-04-01",
+    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "overallScore": 7.9,
+    "scores": {
+      "performance": 8.2,
+      "display": 7.5,
+      "battery": 6,
+      "build": 7.8,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Intel Core i5-12500H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "15.6\" FHD 144Hz",
+      "gpu": "RTX 4060",
+      "battery": "5 hours",
+      "weight": "2.1 kg"
+    },
+    "pros": [
+      "Good value",
+      "RTX 4060",
+      "Decent thermals"
+    ],
+    "cons": [
+      "Average display",
+      "Build quality",
+      "Short battery"
+    ],
+    "resaleData": {
+      "current": 750,
+      "sixMonths": 650,
+      "oneYear": 550
+    },
+    "price_inr": 78767,
+    "price_usd": 949
+  },
+  {
+    "id": "gigabyte-aero-16-2024",
+    "slug": "gigabyte-aero-16-2024",
+    "name": "Gigabyte AERO 16 2024",
+    "brand": "Gigabyte",
+    "category": "Creator",
+    "price": 2199,
+    "msrp": 2399,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 9,
+      "display": 9.2,
+      "battery": 7.5,
+      "build": 8.8,
+      "value": 8.3
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" 4K OLED",
+      "gpu": "RTX 4070",
+      "battery": "7 hours",
+      "weight": "2.3 kg"
+    },
+    "pros": [
+      "Creator-focused",
+      "4K OLED",
+      "Powerful"
+    ],
+    "cons": [
+      "Heavy",
+      "Average battery",
+      "Pricey"
+    ],
+    "resaleData": {
+      "current": 1800,
+      "sixMonths": 1550,
+      "oneYear": 1300
+    },
+    "price_inr": 182517,
+    "price_usd": 2199
+  },
+  {
+    "id": "alienware-m18-r2",
+    "slug": "alienware-m18-r2",
+    "name": "Alienware m18 R2",
+    "brand": "Alienware",
+    "category": "Gaming",
+    "price": 2999,
+    "msrp": 3299,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "overallScore": 9.1,
+    "scores": {
+      "performance": 9.6,
+      "display": 9.2,
+      "battery": 6,
+      "build": 9.2,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "18\" QHD+ 480Hz",
+      "gpu": "RTX 4090",
+      "battery": "3 hours",
+      "weight": "4.0 kg"
+    },
+    "pros": [
+      "Insane performance",
+      "480Hz display",
+      "Great cooling"
+    ],
+    "cons": [
+      "Extremely heavy",
+      "Terrible battery",
+      "Very expensive"
+    ],
+    "resaleData": {
+      "current": 2450,
+      "sixMonths": 2150,
+      "oneYear": 1850
+    },
+    "price_inr": 248917,
+    "price_usd": 2999
+  },
+  {
+    "id": "alienware-x16-r2",
+    "slug": "alienware-x16-r2",
+    "name": "Alienware x16 R2",
+    "brand": "Alienware",
+    "category": "Gaming",
+    "price": 2399,
+    "msrp": 2599,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "overallScore": 8.9,
+    "scores": {
+      "performance": 9.3,
+      "display": 9,
+      "battery": 7,
+      "build": 9.2,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" QHD+ 240Hz",
+      "gpu": "RTX 4080",
+      "battery": "5 hours",
+      "weight": "2.76 kg"
+    },
+    "pros": [
+      "Premium gaming",
+      "Great display",
+      "Solid build"
+    ],
+    "cons": [
+      "Expensive",
+      "Short battery",
+      "Heavy"
+    ],
+    "resaleData": {
+      "current": 1950,
+      "sixMonths": 1700,
+      "oneYear": 1450
+    },
+    "price_inr": 199117,
+    "price_usd": 2399
+  },
+  {
+    "id": "alienware-x14-r2",
+    "slug": "alienware-x14-r2",
+    "name": "Alienware x14 R2",
+    "brand": "Alienware",
+    "category": "Gaming",
+    "price": 1799,
+    "msrp": 1999,
+    "releaseDate": "2024-01-08",
+    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.6,
+      "display": 8.8,
+      "battery": 7.5,
+      "build": 9,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" QHD+ 165Hz",
+      "gpu": "RTX 4060",
+      "battery": "7 hours",
+      "weight": "1.84 kg"
+    },
+    "pros": [
+      "Portable gaming",
+      "Premium build",
+      "Good display"
+    ],
+    "cons": [
+      "Expensive",
+      "Runs warm",
+      "Limited GPU"
+    ],
+    "resaleData": {
+      "current": 1450,
+      "sixMonths": 1250,
+      "oneYear": 1050
+    },
+    "price_inr": 149317,
+    "price_usd": 1799
+  },
+  {
+    "id": "dell-precision-5680",
+    "slug": "dell-precision-5680",
+    "name": "Dell Precision 5680",
+    "brand": "Dell",
+    "category": "Workstation",
+    "price": 3299,
+    "msrp": 3699,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "overallScore": 9,
+    "scores": {
+      "performance": 9.4,
+      "display": 9.2,
+      "battery": 7.5,
+      "build": 9.3,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core i9-13900H",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "16\" 4K OLED",
+      "gpu": "RTX 4000 Ada",
+      "battery": "8 hours",
+      "weight": "1.91 kg"
+    },
+    "pros": [
+      "Workstation power",
+      "Pro GPU",
+      "Great display"
+    ],
+    "cons": [
+      "Very expensive",
+      "Heavy charger",
+      "Overkill for most"
+    ],
+    "resaleData": {
+      "current": 2700,
+      "sixMonths": 2400,
+      "oneYear": 2100
+    },
+    "price_inr": 273817,
+    "price_usd": 3299
+  },
+  {
+    "id": "hp-zbook-studio-g10",
+    "slug": "hp-zbook-studio-g10",
+    "name": "HP ZBook Studio G10",
+    "brand": "HP",
+    "category": "Workstation",
+    "price": 2899,
+    "msrp": 3299,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "overallScore": 8.9,
+    "scores": {
+      "performance": 9.3,
+      "display": 9,
+      "battery": 7.5,
+      "build": 9.2,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core i9-13900H",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "16\" 4K DreamColor",
+      "gpu": "RTX 4070",
+      "battery": "7 hours",
+      "weight": "1.95 kg"
+    },
+    "pros": [
+      "Pro features",
+      "Color accurate",
+      "Powerful"
+    ],
+    "cons": [
+      "Expensive",
+      "Gets warm",
+      "Heavy"
+    ],
+    "resaleData": {
+      "current": 2350,
+      "sixMonths": 2050,
+      "oneYear": 1750
+    },
+    "price_inr": 240617,
+    "price_usd": 2899
+  },
+  {
+    "id": "lenovo-thinkpad-p1-gen6",
+    "slug": "lenovo-thinkpad-p1-gen6",
+    "name": "Lenovo ThinkPad P1 Gen 6",
+    "brand": "Lenovo",
+    "category": "Workstation",
+    "price": 2799,
+    "msrp": 3199,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 9.2,
+      "display": 9,
+      "battery": 7.5,
+      "build": 9.3,
+      "value": 8
+    },
+    "specs": {
+      "processor": "Intel Core i9-13900H",
+      "ram": "64GB",
+      "storage": "2TB SSD",
+      "display": "16\" 4K OLED Touch",
+      "gpu": "RTX 4080",
+      "battery": "7 hours",
+      "weight": "1.86 kg"
+    },
+    "pros": [
+      "ThinkPad reliability",
+      "Great keyboard",
+      "Pro GPU"
+    ],
+    "cons": [
+      "Expensive",
+      "Fan noise under load"
+    ],
+    "resaleData": {
+      "current": 2300,
+      "sixMonths": 2000,
+      "oneYear": 1700
+    },
+    "price_inr": 232317,
+    "price_usd": 2799
+  },
+  {
+    "id": "dell-vostro-16-5640",
+    "slug": "dell-vostro-16-5640",
+    "name": "Dell Vostro 16 5640",
+    "brand": "Dell",
+    "category": "Business",
+    "price": 999,
+    "msrp": 1099,
+    "releaseDate": "2024-03-01",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "overallScore": 7.9,
+    "scores": {
+      "performance": 7.8,
+      "display": 7.8,
+      "battery": 8.5,
+      "build": 8,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 5 125H",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "16\" FHD+ IPS",
+      "gpu": "Intel Arc",
+      "battery": "11 hours",
+      "weight": "1.88 kg"
+    },
+    "pros": [
+      "Business-focused",
+      "Good battery",
+      "Affordable"
+    ],
+    "cons": [
+      "Basic display",
+      "No OLED"
+    ],
+    "resaleData": {
+      "current": 780,
+      "sixMonths": 680,
+      "oneYear": 580
+    },
+    "price_inr": 82917,
+    "price_usd": 999
+  },
+  {
+    "id": "lenovo-thinkpad-t14s-gen5",
+    "slug": "lenovo-thinkpad-t14s-gen5",
+    "name": "Lenovo ThinkPad T14s Gen 5",
+    "brand": "Lenovo",
+    "category": "Business",
+    "price": 1449,
+    "msrp": 1599,
+    "releaseDate": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.3,
+      "display": 8.5,
+      "battery": 9,
+      "build": 9.2,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 165U",
+      "ram": "32GB",
+      "storage": "512GB SSD",
+      "display": "14\" 2.8K OLED",
+      "gpu": "Intel Arc",
+      "battery": "14 hours",
+      "weight": "1.24 kg"
+    },
+    "pros": [
+      "Great keyboard",
+      "OLED option",
+      "Long battery"
+    ],
+    "cons": [
+      "No discrete GPU",
+      "Expensive"
+    ],
+    "resaleData": {
+      "current": 1200,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 120267,
+    "price_usd": 1449
+  },
+  {
+    "id": "lenovo-chromebook-duet-5",
+    "slug": "lenovo-chromebook-duet-5",
+    "name": "Lenovo Chromebook Duet 5",
+    "brand": "Lenovo",
+    "category": "Chromebook",
+    "price": 449,
+    "msrp": 499,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 7.8,
+    "scores": {
+      "performance": 7.2,
+      "display": 8.5,
+      "battery": 8.5,
+      "build": 8,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Qualcomm Snapdragon 7c Gen 2",
+      "ram": "8GB",
+      "storage": "128GB eMMC",
+      "display": "13.3\" OLED FHD",
+      "gpu": "Adreno 618",
+      "battery": "15 hours",
+      "weight": "0.7 kg"
+    },
+    "pros": [
+      "OLED display",
+      "Detachable 2-in-1",
+      "Great value"
+    ],
+    "cons": [
+      "Slow processor",
+      "Limited storage",
+      "Chrome OS"
+    ],
+    "resaleData": {
+      "current": 350,
+      "sixMonths": 300,
+      "oneYear": 250
+    },
+    "price_inr": 37267,
+    "price_usd": 449
+  },
+  {
+    "id": "lenovo-yoga-book-9i",
+    "slug": "lenovo-yoga-book-9i",
+    "name": "Lenovo Yoga Book 9i",
+    "brand": "Lenovo",
+    "category": "2-in-1",
+    "price": 1999,
+    "msrp": 2199,
+    "releaseDate": "2023-06-01",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8,
+      "display": 9.2,
+      "battery": 7.5,
+      "build": 9,
+      "value": 7.8
+    },
+    "specs": {
+      "processor": "Intel Core i7-1355U",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "Dual 13.3\" 2.8K OLED",
+      "gpu": "Intel Iris Xe",
+      "battery": "8 hours",
+      "weight": "1.38 kg"
+    },
+    "pros": [
+      "Dual screen innovation",
+      "OLED displays",
+      "Versatile modes"
+    ],
+    "cons": [
+      "Expensive",
+      "Short battery",
+      "Learning curve"
+    ],
+    "resaleData": {
+      "current": 1600,
+      "sixMonths": 1400,
+      "oneYear": 1200
+    },
+    "price_inr": 165917,
+    "price_usd": 1999
+  },
+  {
+    "id": "dell-inspiron-14-2in1",
+    "slug": "dell-inspiron-14-2in1",
+    "name": "Dell Inspiron 14 2-in-1",
+    "brand": "Dell",
+    "category": "2-in-1",
+    "price": 749,
+    "msrp": 849,
+    "releaseDate": "2024-03-01",
+    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "overallScore": 7.8,
+    "scores": {
+      "performance": 7.5,
+      "display": 8,
+      "battery": 8,
+      "build": 7.8,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core i5-1335U",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "display": "14\" FHD+ IPS Touch",
+      "gpu": "Intel Iris Xe",
+      "battery": "11 hours",
+      "weight": "1.58 kg"
+    },
+    "pros": [
+      "Affordable 2-in-1",
+      "Decent display",
+      "Good battery"
+    ],
+    "cons": [
+      "Average performance",
+      "Not premium build"
+    ],
+    "resaleData": {
+      "current": 550,
+      "sixMonths": 470,
+      "oneYear": 400
+    },
+    "price_inr": 62167,
+    "price_usd": 749
+  },
+  {
+    "id": "apple-macbook-pro-14-m4-max",
+    "slug": "apple-macbook-pro-14-m4-max",
+    "name": "MacBook Pro 14\" M4 Max",
+    "brand": "Apple",
+    "category": "Creator",
+    "price": 3199,
+    "msrp": 3199,
+    "releaseDate": "2024-11-07",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "overallScore": 9.5,
+    "scores": {
+      "performance": 9.8,
+      "display": 9.6,
+      "battery": 9.5,
+      "build": 9.5,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Apple M4 Max",
+      "ram": "48GB",
+      "storage": "1TB SSD",
+      "display": "14.2\" Liquid Retina XDR",
+      "gpu": "40-core GPU",
+      "battery": "24 hours",
+      "weight": "1.62 kg"
+    },
+    "pros": [
+      "Incredible performance",
+      "Best-in-class battery",
+      "Stunning display"
+    ],
+    "cons": [
+      "Very expensive",
+      "Limited gaming"
+    ],
+    "resaleData": {
+      "current": 2700,
+      "sixMonths": 2400,
+      "oneYear": 2100
+    },
+    "price_inr": 265517,
+    "price_usd": 3199
+  },
+  {
+    "id": "apple-macbook-pro-16-m4-pro",
+    "slug": "apple-macbook-pro-16-m4-pro",
+    "name": "MacBook Pro 16\" M4 Pro",
+    "brand": "Apple",
+    "category": "Creator",
+    "price": 2499,
+    "msrp": 2499,
+    "releaseDate": "2024-11-07",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "overallScore": 9.3,
+    "scores": {
+      "performance": 9.5,
+      "display": 9.6,
+      "battery": 9.4,
+      "build": 9.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "Apple M4 Pro",
+      "ram": "24GB",
+      "storage": "512GB SSD",
+      "display": "16.2\" Liquid Retina XDR",
+      "gpu": "20-core GPU",
+      "battery": "24 hours",
+      "weight": "2.14 kg"
+    },
+    "pros": [
+      "Outstanding battery",
+      "Great display",
+      "Pro performance"
+    ],
+    "cons": [
+      "Expensive",
+      "Base storage low"
+    ],
+    "resaleData": {
+      "current": 2100,
+      "sixMonths": 1850,
+      "oneYear": 1600
+    },
+    "price_inr": 207417,
+    "price_usd": 2499
+  },
+  {
+    "id": "acer-predator-triton-14",
+    "slug": "acer-predator-triton-14",
+    "name": "Acer Predator Triton 14",
+    "brand": "Acer",
+    "category": "Gaming",
+    "price": 1599,
+    "msrp": 1699,
+    "releaseDate": "2024-06-01",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "overallScore": 8.6,
+    "scores": {
+      "performance": 8.8,
+      "display": 8.8,
+      "battery": 8,
+      "build": 8.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "AMD Ryzen 9 8945HS",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "14\" 2.5K OLED 120Hz",
+      "gpu": "RTX 4060",
+      "battery": "10 hours",
+      "weight": "1.65 kg"
+    },
+    "pros": [
+      "Portable gaming",
+      "OLED display",
+      "Good battery"
+    ],
+    "cons": [
+      "Gets warm",
+      "Average speakers"
+    ],
+    "resaleData": {
+      "current": 1300,
+      "sixMonths": 1100,
+      "oneYear": 950
+    },
+    "price_inr": 132717,
+    "price_usd": 1599
+  },
+  {
+    "id": "msi-claw-8-ai-plus",
+    "slug": "msi-claw-8-ai-plus",
+    "name": "MSI Claw 8 AI+",
+    "brand": "MSI",
+    "category": "Gaming",
+    "price": 899,
+    "msrp": 999,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "overallScore": 7.8,
+    "scores": {
+      "performance": 8,
+      "display": 8,
+      "battery": 6.5,
+      "build": 7.5,
+      "value": 7.8
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 258V",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "display": "8\" FHD 120Hz Touch",
+      "gpu": "Intel Arc",
+      "battery": "4 hours",
+      "weight": "0.79 kg"
+    },
+    "pros": [
+      "Handheld gaming PC",
+      "Portable",
+      "Unique form"
+    ],
+    "cons": [
+      "Short battery",
+      "Limited power",
+      "Small screen"
+    ],
+    "resaleData": {
+      "current": 700,
+      "sixMonths": 600,
+      "oneYear": 500
+    },
+    "price_inr": 74617,
+    "price_usd": 899
+  },
+  {
+    "id": "samsung-galaxy-book5-pro",
+    "slug": "samsung-galaxy-book5-pro",
+    "name": "Samsung Galaxy Book5 Pro",
+    "brand": "Samsung",
+    "category": "Ultrabook",
+    "price": 1399,
+    "msrp": 1499,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 8.3,
+      "display": 9.2,
+      "battery": 9,
+      "build": 9,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 258V",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "16\" 3K AMOLED",
+      "gpu": "Intel Arc",
+      "battery": "20 hours",
+      "weight": "1.51 kg"
+    },
+    "pros": [
+      "Amazing AMOLED",
+      "Great battery",
+      "Lightweight"
+    ],
+    "cons": [
+      "No discrete GPU",
+      "Pricey"
+    ],
+    "resaleData": {
+      "current": 1150,
+      "sixMonths": 1000,
+      "oneYear": 850
+    },
+    "price_inr": 116117,
+    "price_usd": 1399
+  },
+  {
+    "id": "lg-gram-14-2025",
+    "slug": "lg-gram-14-2025",
+    "name": "LG gram 14 2025",
+    "brand": "LG",
+    "category": "Ultrabook",
+    "price": 1299,
+    "msrp": 1399,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "overallScore": 8.4,
+    "scores": {
+      "performance": 8,
+      "display": 8.5,
+      "battery": 9.5,
+      "build": 8.3,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 7 258V",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" WUXGA IPS",
+      "gpu": "Intel Arc",
+      "battery": "23 hours",
+      "weight": "0.99 kg"
+    },
+    "pros": [
+      "Ultra-lightweight",
+      "Massive battery",
+      "Portable"
+    ],
+    "cons": [
+      "Average display",
+      "Feels fragile"
+    ],
+    "resaleData": {
+      "current": 1050,
+      "sixMonths": 900,
+      "oneYear": 750
+    },
+    "price_inr": 107817,
+    "price_usd": 1299
+  },
+  {
+    "id": "dell-xps-16-2025",
+    "slug": "dell-xps-16-2025",
+    "name": "Dell XPS 16 2025",
+    "brand": "Dell",
+    "category": "Creator",
+    "price": 2199,
+    "msrp": 2399,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "overallScore": 8.8,
+    "scores": {
+      "performance": 9,
+      "display": 9.3,
+      "battery": 8,
+      "build": 9.2,
+      "value": 8.2
+    },
+    "specs": {
+      "processor": "Intel Core Ultra 9 285HX",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" 4K OLED Touch",
+      "gpu": "RTX 5060",
+      "battery": "10 hours",
+      "weight": "2.0 kg"
+    },
+    "pros": [
+      "Stunning OLED",
+      "Next-gen GPU",
+      "Premium build"
+    ],
+    "cons": [
+      "Expensive",
+      "Gets warm",
+      "Heavy charger"
+    ],
+    "resaleData": {
+      "current": 1800,
+      "sixMonths": 1550,
+      "oneYear": 1300
+    },
+    "price_inr": 182517,
+    "price_usd": 2199
+  },
+  {
+    "id": "hp-omen-16-2025",
+    "slug": "hp-omen-16-2025",
+    "name": "HP OMEN 16 2025",
+    "brand": "HP",
+    "category": "Gaming",
+    "price": 1699,
+    "msrp": 1899,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "overallScore": 8.7,
+    "scores": {
+      "performance": 9,
+      "display": 8.8,
+      "battery": 7,
+      "build": 8.5,
+      "value": 8.8
+    },
+    "specs": {
+      "processor": "AMD Ryzen 9 9955HX",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "display": "16\" QHD 240Hz",
+      "gpu": "RTX 5070",
+      "battery": "6 hours",
+      "weight": "2.35 kg"
+    },
+    "pros": [
+      "Next-gen performance",
+      "240Hz display",
+      "Good value"
+    ],
+    "cons": [
+      "Short battery",
+      "Fan noise",
+      "Heavy"
+    ],
+    "resaleData": {
+      "current": 1400,
+      "sixMonths": 1200,
+      "oneYear": 1000
+    },
+    "price_inr": 141017,
+    "price_usd": 1699
+  },
+  {
+    "id": "lenovo-legion-go-2",
+    "slug": "lenovo-legion-go-2",
+    "name": "Lenovo Legion Go 2",
+    "brand": "Lenovo",
+    "category": "Gaming",
+    "price": 799,
+    "msrp": 899,
+    "releaseDate": "2025-01-06",
+    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800",
+    "overallScore": 7.9,
+    "scores": {
+      "performance": 8,
+      "display": 8.2,
+      "battery": 6.5,
+      "build": 7.8,
+      "value": 8.5
+    },
+    "specs": {
+      "processor": "AMD Ryzen Z2 Extreme",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "8.8\" QHD+ 144Hz Touch",
+      "gpu": "AMD RDNA 3.5",
+      "battery": "4 hours",
+      "weight": "0.74 kg"
+    },
+    "pros": [
+      "Detachable controllers",
+      "Great display",
+      "Portable"
+    ],
+    "cons": [
+      "Short battery",
+      "Heavy for handheld"
+    ],
+    "resaleData": {
+      "current": 650,
+      "sixMonths": 550,
+      "oneYear": 450
+    },
+    "price_inr": 66317,
+    "price_usd": 799
+  },
+  {
+    "id": "asus-zenbook-a14-2025",
+    "slug": "asus-zenbook-a14-2025",
+    "name": "ASUS Zenbook A14 2025",
+    "brand": "ASUS",
+    "category": "Ultrabook",
+    "price": 899,
+    "msrp": 999,
+    "releaseDate": "2025-03-01",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "overallScore": 8.5,
+    "scores": {
+      "performance": 8.2,
+      "display": 8.5,
+      "battery": 9.5,
+      "build": 8.5,
+      "value": 9
+    },
+    "specs": {
+      "processor": "Qualcomm Snapdragon X Plus",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "display": "14\" 2.5K OLED",
+      "gpu": "Qualcomm Adreno",
+      "battery": "24 hours",
+      "weight": "0.98 kg"
+    },
+    "pros": [
+      "All-day battery",
+      "Ultra-lightweight",
+      "OLED display",
+      "Great value"
+    ],
+    "cons": [
+      "ARM app compatibility",
+      "No discrete GPU"
+    ],
+    "resaleData": {
+      "current": 720,
+      "sixMonths": 620,
+      "oneYear": 520
+    },
+    "price_inr": 74617,
+    "price_usd": 899
+  },
+  {
+    "id": "apple-macbook-air-m4",
+    "slug": "apple-macbook-air-m4",
+    "name": "MacBook Air 13\" M4",
+    "brand": "Apple",
+    "category": "Ultrabook",
+    "price": 1099,
+    "msrp": 1099,
+    "releaseDate": "2025-03-12",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "overallScore": 9.2,
+    "scores": {
+      "performance": 8.8,
+      "display": 9,
+      "battery": 9.5,
+      "build": 9.5,
+      "value": 9.2
+    },
+    "specs": {
+      "processor": "Apple M4",
+      "ram": "16GB",
+      "storage": "256GB SSD",
+      "display": "13.6\" Liquid Retina",
+      "gpu": "10-core GPU",
+      "battery": "22 hours",
+      "weight": "1.24 kg"
+    },
+    "pros": [
+      "Incredible performance",
+      "All-day battery",
+      "Fanless design",
+      "16GB base RAM"
+    ],
+    "cons": [
+      "Base storage 256GB",
+      "Only 2 ports",
+      "No ProMotion"
+    ],
+    "resaleData": {
+      "current": 950,
+      "sixMonths": 850,
+      "oneYear": 750
+    },
+    "price_inr": 91217,
+    "price_usd": 1099
+  }
+]

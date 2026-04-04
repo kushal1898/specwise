@@ -1,0 +1,8921 @@
+[
+  {
+    "id": "moondrop-aria-2",
+    "name": "Moondrop Aria 2",
+    "brand": "Moondrop",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 79,
+    "price_inr": 6500,
+    "signature": "Neutral-Warm",
+    "score": 84,
+    "impedance_ohm": 32,
+    "sensitivity_db": 122,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        70
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        66
+      ],
+      [
+        8000,
+        64
+      ],
+      [
+        10000,
+        62
+      ],
+      [
+        15000,
+        58
+      ],
+      [
+        20000,
+        52
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone1",
+    "image": "/images/headphones/moondrop-aria-2.jpg",
+    "verdict": "An excellent entry-level IEM with refined tuning and premium build quality.",
+    "pros": [
+      "Great tuning",
+      "Premium build",
+      "Value for money"
+    ],
+    "cons": [
+      "Cable could be better",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 55,
+    "resale_value_1y": 43
+  },
+  {
+    "id": "moondrop-kato",
+    "name": "Moondrop Kato",
+    "brand": "Moondrop",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 189,
+    "price_inr": 15500,
+    "signature": "Neutral",
+    "score": 88,
+    "impedance_ohm": 32,
+    "sensitivity_db": 123,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone2",
+    "image": "/images/headphones/moondrop-kato.jpg",
+    "verdict": "A step up from Aria with better technicalities and swappable nozzles.",
+    "pros": [
+      "Excellent detail",
+      "Swappable nozzles",
+      "Premium build"
+    ],
+    "cons": [
+      "Expensive",
+      "Fit can be tricky"
+    ],
+    "resale_value_6m": 132,
+    "resale_value_1y": 104
+  },
+  {
+    "id": "7hz-salnotes-zero",
+    "name": "7Hz Salnotes Zero",
+    "brand": "7Hz",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 20,
+    "price_inr": 1650,
+    "signature": "Neutral",
+    "score": 80,
+    "impedance_ohm": 32,
+    "sensitivity_db": 108,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        67
+      ],
+      [
+        8000,
+        64
+      ],
+      [
+        10000,
+        62
+      ],
+      [
+        15000,
+        56
+      ],
+      [
+        20000,
+        48
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone3",
+    "image": "/images/headphones/7hz-salnotes-zero.jpg",
+    "verdict": "The budget king that punches way above its price point with excellent tuning.",
+    "pros": [
+      "Incredible value",
+      "Great tuning",
+      "Comfortable"
+    ],
+    "cons": [
+      "Build quality reflects price",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 14,
+    "resale_value_1y": 11
+  },
+  {
+    "id": "truthear-hexa",
+    "name": "Truthear Hexa",
+    "brand": "Truthear",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 79,
+    "price_inr": 6500,
+    "signature": "V-Shaped",
+    "score": 85,
+    "impedance_ohm": 15,
+    "sensitivity_db": 110,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        71
+      ],
+      [
+        1000,
+        70
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone4",
+    "image": "/images/headphones/truthear-hexa.jpg",
+    "verdict": "A hybrid IEM with excellent bass response and energetic sound signature.",
+    "pros": [
+      "Great bass",
+      "Fun sound",
+      "Good detail"
+    ],
+    "cons": [
+      "V-shaped not for everyone",
+      "Treble can be sharp"
+    ],
+    "resale_value_6m": 55,
+    "resale_value_1y": 43
+  },
+  {
+    "id": "letshuoer-s12-pro",
+    "name": "Letshuoer S12 Pro",
+    "brand": "Letshuoer",
+    "type": "IEM",
+    "driver": "Planar",
+    "price_usd": 169,
+    "price_inr": 13900,
+    "signature": "Bright",
+    "score": 86,
+    "impedance_ohm": 16,
+    "sensitivity_db": 102,
+    "freq_response": [
+      [
+        20,
+        62
+      ],
+      [
+        30,
+        65
+      ],
+      [
+        50,
+        68
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        76
+      ],
+      [
+        3000,
+        77
+      ],
+      [
+        4000,
+        76
+      ],
+      [
+        5000,
+        74
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        70
+      ],
+      [
+        15000,
+        66
+      ],
+      [
+        20000,
+        60
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone5",
+    "image": "/images/headphones/letshuoer-s12-pro.jpg",
+    "verdict": "A planar magnetic IEM with incredible detail retrieval and lightning-fast transients.",
+    "pros": [
+      "Planar speed",
+      "Excellent detail",
+      "Wide soundstage"
+    ],
+    "cons": [
+      "Power hungry",
+      "Treble sensitive"
+    ],
+    "resale_value_6m": 118,
+    "resale_value_1y": 93
+  },
+  {
+    "id": "sony-wh-1000xm5",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 399,
+    "price_inr": 32990,
+    "signature": "Warm",
+    "score": 91,
+    "impedance_ohm": 48,
+    "sensitivity_db": 102,
+    "freq_response": [
+      [
+        20,
+        74
+      ],
+      [
+        30,
+        75
+      ],
+      [
+        50,
+        76
+      ],
+      [
+        100,
+        76
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        66
+      ],
+      [
+        8000,
+        63
+      ],
+      [
+        10000,
+        60
+      ],
+      [
+        15000,
+        54
+      ],
+      [
+        20000,
+        46
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone6",
+    "image": "/images/headphones/sony-wh-1000xm5.jpg",
+    "verdict": "The gold standard for wireless ANC headphones with exceptional comfort and sound.",
+    "pros": [
+      "Best-in-class ANC",
+      "Comfortable",
+      "Great sound",
+      "Multipoint"
+    ],
+    "cons": [
+      "Expensive",
+      "No folding design",
+      "Call quality average"
+    ],
+    "resale_value_6m": 279,
+    "resale_value_1y": 219
+  },
+  {
+    "id": "bose-qc45",
+    "name": "Bose QuietComfort 45",
+    "brand": "Bose",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 329,
+    "price_inr": 27190,
+    "signature": "Warm",
+    "score": 85,
+    "impedance_ohm": 32,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        74
+      ],
+      [
+        50,
+        75
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        69
+      ],
+      [
+        4000,
+        67
+      ],
+      [
+        5000,
+        65
+      ],
+      [
+        8000,
+        62
+      ],
+      [
+        10000,
+        58
+      ],
+      [
+        15000,
+        52
+      ],
+      [
+        20000,
+        44
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone7",
+    "image": "/images/headphones/bose-qc45.jpg",
+    "verdict": "Legendary Bose comfort with excellent noise cancellation and balanced sound.",
+    "pros": [
+      "Incredible comfort",
+      "Great ANC",
+      "Reliable"
+    ],
+    "cons": [
+      "Sound not as refined",
+      "Micro-USB",
+      "Limited features"
+    ],
+    "resale_value_6m": 230,
+    "resale_value_1y": 181
+  },
+  {
+    "id": "sennheiser-hd-560s",
+    "name": "Sennheiser HD 560S",
+    "brand": "Sennheiser",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 199,
+    "price_inr": 16490,
+    "signature": "Neutral",
+    "score": 89,
+    "impedance_ohm": 120,
+    "sensitivity_db": 110,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone8",
+    "image": "/images/headphones/sennheiser-hd-560s.jpg",
+    "verdict": "A reference-grade open-back headphone perfect for critical listening and mixing.",
+    "pros": [
+      "Neutral tuning",
+      "Great soundstage",
+      "Comfortable",
+      "Detailed"
+    ],
+    "cons": [
+      "Open-back leaks sound",
+      "Needs amplification",
+      "Plastic build"
+    ],
+    "resale_value_6m": 139,
+    "resale_value_1y": 109
+  },
+  {
+    "id": "apple-airpods-pro-2",
+    "name": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 249,
+    "price_inr": 24900,
+    "signature": "Neutral-Warm",
+    "score": 88,
+    "impedance_ohm": 32,
+    "sensitivity_db": 105,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        66
+      ],
+      [
+        8000,
+        63
+      ],
+      [
+        10000,
+        60
+      ],
+      [
+        15000,
+        54
+      ],
+      [
+        20000,
+        46
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone9",
+    "image": "/images/headphones/apple-airpods-pro-2.jpg",
+    "verdict": "The best TWS for Apple users with excellent ANC, transparency, and seamless integration.",
+    "pros": [
+      "Excellent ANC",
+      "Seamless Apple integration",
+      "Great sound",
+      "Compact"
+    ],
+    "cons": [
+      "Best with Apple devices",
+      "Ear tips limited",
+      "Case scratches easily"
+    ],
+    "resale_value_6m": 174,
+    "resale_value_1y": 137
+  },
+  {
+    "id": "nothing-ear-2",
+    "name": "Nothing Ear (2)",
+    "brand": "Nothing",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 149,
+    "price_inr": 9999,
+    "signature": "V-Shaped",
+    "score": 81,
+    "impedance_ohm": 32,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        71
+      ],
+      [
+        1000,
+        70
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        66
+      ],
+      [
+        10000,
+        63
+      ],
+      [
+        15000,
+        56
+      ],
+      [
+        20000,
+        48
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone10",
+    "image": "/images/headphones/nothing-ear-2.jpg",
+    "verdict": "Stylish TWS with unique design, good ANC, and customizable sound profiles.",
+    "pros": [
+      "Unique design",
+      "Good ANC",
+      "App with EQ",
+      "Value"
+    ],
+    "cons": [
+      "V-shaped tuning",
+      "Fit not for everyone",
+      "Case marks easily"
+    ],
+    "resale_value_6m": 104,
+    "resale_value_1y": 82
+  },
+  {
+    "id": "hifiman-sundara",
+    "name": "HiFiMAN Sundara",
+    "brand": "HiFiMAN",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 299,
+    "price_inr": 24990,
+    "signature": "Neutral",
+    "score": 92,
+    "impedance_ohm": 37,
+    "sensitivity_db": 94,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        70
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        60
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone11",
+    "image": "/images/headphones/hifiman-sundara.jpg",
+    "verdict": "The entry into planar magnetic bliss with exceptional clarity and speed.",
+    "pros": [
+      "Planar detail",
+      "Great soundstage",
+      "Neutral tuning",
+      "Build quality"
+    ],
+    "cons": [
+      "Needs amp",
+      "Heavy",
+      "Open back"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "beyerdynamic-dt-900-pro-x",
+    "name": "Beyerdynamic DT 900 Pro X",
+    "brand": "Beyerdynamic",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 269,
+    "price_inr": 22490,
+    "signature": "Bright",
+    "score": 87,
+    "impedance_ohm": 48,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        76
+      ],
+      [
+        3000,
+        77
+      ],
+      [
+        4000,
+        78
+      ],
+      [
+        5000,
+        77
+      ],
+      [
+        8000,
+        75
+      ],
+      [
+        10000,
+        73
+      ],
+      [
+        15000,
+        68
+      ],
+      [
+        20000,
+        62
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone12",
+    "image": "/images/headphones/beyerdynamic-dt-900-pro-x.jpg",
+    "verdict": "Professional studio headphones with detailed sound and legendary Beyerdynamic build.",
+    "pros": [
+      "Detailed sound",
+      "Legendary build",
+      "Easy to drive",
+      "Replaceable parts"
+    ],
+    "cons": [
+      "Treble can be fatiguing",
+      "Heavy",
+      "Not portable"
+    ],
+    "resale_value_6m": 188,
+    "resale_value_1y": 148
+  },
+  {
+    "id": "kz-zs10-pro",
+    "name": "KZ ZS10 Pro",
+    "brand": "KZ",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 45,
+    "price_inr": 3700,
+    "signature": "V-Shaped",
+    "score": 76,
+    "impedance_ohm": 24,
+    "sensitivity_db": 111,
+    "freq_response": [
+      [
+        20,
+        74
+      ],
+      [
+        30,
+        75
+      ],
+      [
+        50,
+        75
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        71
+      ],
+      [
+        500,
+        69
+      ],
+      [
+        1000,
+        68
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        74
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        69
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone13",
+    "image": "/images/headphones/kz-zs10-pro.jpg",
+    "verdict": "A budget hybrid IEM with lots of bass and treble energy for bass heads.",
+    "pros": [
+      "Lots of bass",
+      "Good detail",
+      "Affordable",
+      "Detachable cable"
+    ],
+    "cons": [
+      "V-shaped tuning",
+      "Sibilant",
+      "QC can vary"
+    ],
+    "resale_value_6m": 31,
+    "resale_value_1y": 25
+  },
+  {
+    "id": "fiio-fh5s",
+    "name": "FiiO FH5s",
+    "brand": "FiiO",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 299,
+    "price_inr": 24990,
+    "signature": "Neutral-Warm",
+    "score": 89,
+    "impedance_ohm": 10,
+    "sensitivity_db": 107,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone14",
+    "image": "/images/headphones/fiio-fh5s.jpg",
+    "verdict": "A premium hybrid IEM with excellent tuning switches and audiophile-grade sound.",
+    "pros": [
+      "Tuning switches",
+      "Excellent sound",
+      "Premium build",
+      "Great accessories"
+    ],
+    "cons": [
+      "Large shells",
+      "Expensive",
+      "Complex setup"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "sennheiser-ie-600",
+    "name": "Sennheiser IE 600",
+    "brand": "Sennheiser",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 699,
+    "price_inr": 57990,
+    "signature": "Neutral",
+    "score": 93,
+    "impedance_ohm": 18,
+    "sensitivity_db": 118,
+    "freq_response": [
+      [
+        20,
+        67
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=headphone15",
+    "image": "/images/headphones/sennheiser-ie-600.jpg",
+    "verdict": "Sennheiser's flagship single-dynamic IEM with exceptional resolution and natural timbre.",
+    "pros": [
+      "Exceptional detail",
+      "Natural sound",
+      "Premium build",
+      "Compact"
+    ],
+    "cons": [
+      "Very expensive",
+      "Cable could be better",
+      "Fit sensitive"
+    ],
+    "resale_value_6m": 489,
+    "resale_value_1y": 384
+  },
+  {
+    "id": "moondrop-blessing-3",
+    "name": "Moondrop Blessing 3",
+    "brand": "Moondrop",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 339,
+    "price_inr": 27900,
+    "signature": "Neutral",
+    "score": 91,
+    "impedance_ohm": 22,
+    "sensitivity_db": 118,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        69
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        76
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=moondrop-blessing-3",
+    "image": "/images/headphones/moondrop-blessing-3.jpg",
+    "verdict": "A flagship IEM from Moondrop with neutral tuning and hybrid driver technology.",
+    "pros": [
+      "Accurate sound",
+      "Great for mixing",
+      "Versatile"
+    ],
+    "cons": [
+      "Not exciting",
+      "Clinical"
+    ],
+    "resale_value_6m": 237,
+    "resale_value_1y": 186
+  },
+  {
+    "id": "moondrop-chu-2",
+    "name": "Moondrop Chu 2",
+    "brand": "Moondrop",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 25,
+    "price_inr": 2100,
+    "signature": "Neutral-Warm",
+    "score": 78,
+    "impedance_ohm": 28,
+    "sensitivity_db": 120,
+    "freq_response": [
+      [
+        20,
+        69
+      ],
+      [
+        30,
+        70
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        72
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        64
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=moondrop-chu-2",
+    "image": "/images/headphones/moondrop-chu-2.jpg",
+    "verdict": "A budget IEM from Moondrop with neutral-warm tuning and dynamic driver technology.",
+    "pros": [
+      "Smooth",
+      "Great timbre",
+      "Natural sound"
+    ],
+    "cons": [
+      "Slightly warm",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 18,
+    "resale_value_1y": 14
+  },
+  {
+    "id": "truthear-zero-red",
+    "name": "Truthear Zero:RED",
+    "brand": "Truthear",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 55,
+    "price_inr": 4500,
+    "signature": "Neutral-Warm",
+    "score": 83,
+    "impedance_ohm": 14,
+    "sensitivity_db": 112,
+    "freq_response": [
+      [
+        20,
+        69
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        57
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=truthear-zero-red",
+    "image": "/images/headphones/truthear-zero-red.jpg",
+    "verdict": "A mid-tier IEM from Truthear with neutral-warm tuning and hybrid driver technology.",
+    "pros": [
+      "Smooth",
+      "Natural sound",
+      "Versatile"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 39,
+    "resale_value_1y": 30
+  },
+  {
+    "id": "truthear-nova",
+    "name": "Truthear Nova",
+    "brand": "Truthear",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 239,
+    "price_inr": 19700,
+    "signature": "Neutral",
+    "score": 90,
+    "impedance_ohm": 8,
+    "sensitivity_db": 108,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=truthear-nova",
+    "image": "/images/headphones/truthear-nova.jpg",
+    "verdict": "A flagship IEM from Truthear with neutral tuning and hybrid driver technology.",
+    "pros": [
+      "Balanced response",
+      "Great for mixing",
+      "Versatile"
+    ],
+    "cons": [
+      "Clinical",
+      "Not exciting"
+    ],
+    "resale_value_6m": 167,
+    "resale_value_1y": 131
+  },
+  {
+    "id": "7hz-timeless-ae",
+    "name": "7Hz Timeless AE",
+    "brand": "7Hz",
+    "type": "IEM",
+    "driver": "Planar",
+    "price_usd": 219,
+    "price_inr": 18000,
+    "signature": "Neutral",
+    "score": 87,
+    "impedance_ohm": 14,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        76
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        59
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=7hz-timeless-ae",
+    "image": "/images/headphones/7hz-timeless-ae.jpg",
+    "verdict": "A mid-tier IEM from 7Hz with neutral tuning and planar driver technology.",
+    "pros": [
+      "Great for mixing",
+      "Natural timbre",
+      "Balanced response"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 153,
+    "resale_value_1y": 120
+  },
+  {
+    "id": "simgot-ea500lm",
+    "name": "Simgot EA500LM",
+    "brand": "Simgot",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 69,
+    "price_inr": 5700,
+    "signature": "Warm",
+    "score": 84,
+    "impedance_ohm": 18,
+    "sensitivity_db": 126,
+    "freq_response": [
+      [
+        20,
+        73
+      ],
+      [
+        30,
+        74
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        71
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        68
+      ],
+      [
+        4000,
+        65
+      ],
+      [
+        5000,
+        65
+      ],
+      [
+        8000,
+        60
+      ],
+      [
+        10000,
+        57
+      ],
+      [
+        15000,
+        52
+      ],
+      [
+        20000,
+        44
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=simgot-ea500lm",
+    "image": "/images/headphones/simgot-ea500lm.jpg",
+    "verdict": "A mid-tier IEM from Simgot with warm tuning and dynamic driver technology.",
+    "pros": [
+      "Non-fatiguing",
+      "Musical sound",
+      "Rich bass"
+    ],
+    "cons": [
+      "Bass can bloat",
+      "Rolled-off treble"
+    ],
+    "resale_value_6m": 48,
+    "resale_value_1y": 38
+  },
+  {
+    "id": "tangzu-wan-er",
+    "name": "Tangzu Wan'er SG",
+    "brand": "Tangzu",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 20,
+    "price_inr": 1650,
+    "signature": "Neutral-Warm",
+    "score": 79,
+    "impedance_ohm": 24,
+    "sensitivity_db": 112,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        70
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        72
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        64
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=tangzu-wan-er",
+    "image": "/images/headphones/tangzu-wan-er.jpg",
+    "verdict": "A budget IEM from Tangzu with neutral-warm tuning and dynamic driver technology.",
+    "pros": [
+      "Versatile",
+      "Great timbre",
+      "Non-fatiguing"
+    ],
+    "cons": [
+      "Slightly warm",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 14,
+    "resale_value_1y": 11
+  },
+  {
+    "id": "kz-zst-x",
+    "name": "KZ ZST X",
+    "brand": "KZ",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 18,
+    "price_inr": 1500,
+    "signature": "V-Shaped",
+    "score": 72,
+    "impedance_ohm": 12,
+    "sensitivity_db": 111,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        74
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        69
+      ],
+      [
+        500,
+        67
+      ],
+      [
+        1000,
+        69
+      ],
+      [
+        2000,
+        68
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        70
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        53
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=kz-zst-x",
+    "image": "/images/headphones/kz-zst-x.jpg",
+    "verdict": "A budget IEM from KZ with v-shaped tuning and hybrid driver technology.",
+    "pros": [
+      "Exciting sound",
+      "Punchy bass",
+      "Crisp treble"
+    ],
+    "cons": [
+      "Not for critical listening",
+      "Colored sound"
+    ],
+    "resale_value_6m": 13,
+    "resale_value_1y": 10
+  },
+  {
+    "id": "sennheiser-ie-200",
+    "name": "Sennheiser IE 200",
+    "brand": "Sennheiser",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 149,
+    "price_inr": 12290,
+    "signature": "Neutral",
+    "score": 88,
+    "impedance_ohm": 18,
+    "sensitivity_db": 123,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        57
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-ie-200",
+    "image": "/images/headphones/sennheiser-ie-200.jpg",
+    "verdict": "A mid-tier IEM from Sennheiser with neutral tuning and dynamic driver technology.",
+    "pros": [
+      "Natural timbre",
+      "Balanced response",
+      "Accurate sound"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 104,
+    "resale_value_1y": 82
+  },
+  {
+    "id": "sennheiser-ie-300",
+    "name": "Sennheiser IE 300",
+    "brand": "Sennheiser",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 299,
+    "price_inr": 24690,
+    "signature": "Neutral-Warm",
+    "score": 90,
+    "impedance_ohm": 16,
+    "sensitivity_db": 124,
+    "freq_response": [
+      [
+        20,
+        69
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        68
+      ],
+      [
+        8000,
+        66
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-ie-300",
+    "image": "/images/headphones/sennheiser-ie-300.jpg",
+    "verdict": "A flagship IEM from Sennheiser with neutral-warm tuning and dynamic driver technology.",
+    "pros": [
+      "Natural sound",
+      "Smooth",
+      "Great timbre"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "shure-se846",
+    "name": "Shure SE846",
+    "brand": "Shure",
+    "type": "IEM",
+    "driver": "Balanced Armature",
+    "price_usd": 899,
+    "price_inr": 74000,
+    "signature": "Warm",
+    "score": 92,
+    "impedance_ohm": 9,
+    "sensitivity_db": 114,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        76
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        71
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        67
+      ],
+      [
+        4000,
+        67
+      ],
+      [
+        5000,
+        63
+      ],
+      [
+        8000,
+        59
+      ],
+      [
+        10000,
+        57
+      ],
+      [
+        15000,
+        51
+      ],
+      [
+        20000,
+        44
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=shure-se846",
+    "image": "/images/headphones/shure-se846.jpg",
+    "verdict": "A flagship IEM from Shure with warm tuning and balanced armature driver technology.",
+    "pros": [
+      "Musical sound",
+      "Great for vocals",
+      "Smooth treble"
+    ],
+    "cons": [
+      "Not analytical",
+      "Rolled-off treble"
+    ],
+    "resale_value_6m": 629,
+    "resale_value_1y": 494
+  },
+  {
+    "id": "shure-se215",
+    "name": "Shure SE215",
+    "brand": "Shure",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 99,
+    "price_inr": 8100,
+    "signature": "Warm",
+    "score": 80,
+    "impedance_ohm": 17,
+    "sensitivity_db": 107,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        72
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        69
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        63
+      ],
+      [
+        8000,
+        62
+      ],
+      [
+        10000,
+        57
+      ],
+      [
+        15000,
+        50
+      ],
+      [
+        20000,
+        43
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=shure-se215",
+    "image": "/images/headphones/shure-se215.jpg",
+    "verdict": "A mid-tier IEM from Shure with warm tuning and dynamic driver technology.",
+    "pros": [
+      "Musical sound",
+      "Rich bass",
+      "Great for vocals"
+    ],
+    "cons": [
+      "Bass can bloat",
+      "Not analytical"
+    ],
+    "resale_value_6m": 69,
+    "resale_value_1y": 54
+  },
+  {
+    "id": "shure-aonic-5",
+    "name": "Shure AONIC 5",
+    "brand": "Shure",
+    "type": "IEM",
+    "driver": "Balanced Armature",
+    "price_usd": 449,
+    "price_inr": 36990,
+    "signature": "Neutral",
+    "score": 89,
+    "impedance_ohm": 36,
+    "sensitivity_db": 112,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        76
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=shure-aonic-5",
+    "image": "/images/headphones/shure-aonic-5.jpg",
+    "verdict": "A mid-tier IEM from Shure with neutral tuning and balanced armature driver technology.",
+    "pros": [
+      "Versatile",
+      "Natural timbre",
+      "Balanced response"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 314,
+    "resale_value_1y": 247
+  },
+  {
+    "id": "campfire-andromeda-2023",
+    "name": "Campfire Andromeda 2023",
+    "brand": "Campfire Audio",
+    "type": "IEM",
+    "driver": "Balanced Armature",
+    "price_usd": 999,
+    "price_inr": 82000,
+    "signature": "Bright",
+    "score": 94,
+    "impedance_ohm": 12,
+    "sensitivity_db": 112,
+    "freq_response": [
+      [
+        20,
+        62
+      ],
+      [
+        30,
+        65
+      ],
+      [
+        50,
+        69
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        77
+      ],
+      [
+        4000,
+        74
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        60
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=campfire-andromeda-2023",
+    "image": "/images/headphones/campfire-andromeda-2023.jpg",
+    "verdict": "A flagship IEM from Campfire Audio with bright tuning and balanced armature driver technology.",
+    "pros": [
+      "Airy sound",
+      "Excellent detail",
+      "Great resolution"
+    ],
+    "cons": [
+      "Bass light",
+      "Sibilant"
+    ],
+    "resale_value_6m": 699,
+    "resale_value_1y": 549
+  },
+  {
+    "id": "campfire-honeydew",
+    "name": "Campfire Honeydew",
+    "brand": "Campfire Audio",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 249,
+    "price_inr": 20500,
+    "signature": "Warm",
+    "score": 83,
+    "impedance_ohm": 17,
+    "sensitivity_db": 113,
+    "freq_response": [
+      [
+        20,
+        73
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        75
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        71
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        69
+      ],
+      [
+        4000,
+        67
+      ],
+      [
+        5000,
+        64
+      ],
+      [
+        8000,
+        61
+      ],
+      [
+        10000,
+        57
+      ],
+      [
+        15000,
+        50
+      ],
+      [
+        20000,
+        42
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=campfire-honeydew",
+    "image": "/images/headphones/campfire-honeydew.jpg",
+    "verdict": "A mid-tier IEM from Campfire Audio with warm tuning and dynamic driver technology.",
+    "pros": [
+      "Smooth treble",
+      "Rich bass",
+      "Non-fatiguing"
+    ],
+    "cons": [
+      "Lacks detail",
+      "Bass can bloat"
+    ],
+    "resale_value_6m": 174,
+    "resale_value_1y": 137
+  },
+  {
+    "id": "dunu-vulkan",
+    "name": "Dunu Vulkan",
+    "brand": "Dunu",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 379,
+    "price_inr": 31200,
+    "signature": "Neutral-Warm",
+    "score": 90,
+    "impedance_ohm": 14,
+    "sensitivity_db": 110,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        68
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=dunu-vulkan",
+    "image": "/images/headphones/dunu-vulkan.jpg",
+    "verdict": "A flagship IEM from Dunu with neutral-warm tuning and hybrid driver technology.",
+    "pros": [
+      "Natural sound",
+      "Versatile",
+      "Smooth"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 265,
+    "resale_value_1y": 208
+  },
+  {
+    "id": "tin-hifi-t3-plus",
+    "name": "Tin HiFi T3 Plus",
+    "brand": "Tin HiFi",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 69,
+    "price_inr": 5700,
+    "signature": "Neutral-Warm",
+    "score": 82,
+    "impedance_ohm": 32,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        64
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=tin-hifi-t3-plus",
+    "image": "/images/headphones/tin-hifi-t3-plus.jpg",
+    "verdict": "A mid-tier IEM from Tin HiFi with neutral-warm tuning and dynamic driver technology.",
+    "pros": [
+      "Non-fatiguing",
+      "Great timbre",
+      "Smooth"
+    ],
+    "cons": [
+      "Slightly warm",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 48,
+    "resale_value_1y": 38
+  },
+  {
+    "id": "etymotic-er2xr",
+    "name": "Etymotic ER2XR",
+    "brand": "Etymotic",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 169,
+    "price_inr": 13900,
+    "signature": "Neutral-Warm",
+    "score": 87,
+    "impedance_ohm": 15,
+    "sensitivity_db": 96,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=etymotic-er2xr",
+    "image": "/images/headphones/etymotic-er2xr.jpg",
+    "verdict": "A mid-tier IEM from Etymotic with neutral-warm tuning and dynamic driver technology.",
+    "pros": [
+      "Non-fatiguing",
+      "Natural sound",
+      "Smooth"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 118,
+    "resale_value_1y": 93
+  },
+  {
+    "id": "etymotic-er4xr",
+    "name": "Etymotic ER4XR",
+    "brand": "Etymotic",
+    "type": "IEM",
+    "driver": "Balanced Armature",
+    "price_usd": 349,
+    "price_inr": 28700,
+    "signature": "Neutral",
+    "score": 91,
+    "impedance_ohm": 45,
+    "sensitivity_db": 98,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        76
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=etymotic-er4xr",
+    "image": "/images/headphones/etymotic-er4xr.jpg",
+    "verdict": "A flagship IEM from Etymotic with neutral tuning and balanced armature driver technology.",
+    "pros": [
+      "Versatile",
+      "Natural timbre",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Not exciting",
+      "Clinical"
+    ],
+    "resale_value_6m": 244,
+    "resale_value_1y": 192
+  },
+  {
+    "id": "fiio-fd5",
+    "name": "FiiO FD5",
+    "brand": "FiiO",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 299,
+    "price_inr": 24600,
+    "signature": "V-Shaped",
+    "score": 86,
+    "impedance_ohm": 32,
+    "sensitivity_db": 109,
+    "freq_response": [
+      [
+        20,
+        73
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        70
+      ],
+      [
+        500,
+        70
+      ],
+      [
+        1000,
+        66
+      ],
+      [
+        2000,
+        69
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        74
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        73
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        53
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=fiio-fd5",
+    "image": "/images/headphones/fiio-fd5.jpg",
+    "verdict": "A mid-tier IEM from FiiO with v-shaped tuning and dynamic driver technology.",
+    "pros": [
+      "Crisp treble",
+      "Good for pop/EDM",
+      "Fun to listen to"
+    ],
+    "cons": [
+      "Recessed mids",
+      "Not for critical listening"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "final-a4000",
+    "name": "Final A4000",
+    "brand": "Final",
+    "type": "IEM",
+    "driver": "Dynamic",
+    "price_usd": 129,
+    "price_inr": 10600,
+    "signature": "Bright",
+    "score": 84,
+    "impedance_ohm": 18,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        60
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        66
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        77
+      ],
+      [
+        3000,
+        75
+      ],
+      [
+        4000,
+        76
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        59
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=final-a4000",
+    "image": "/images/headphones/final-a4000.jpg",
+    "verdict": "A mid-tier IEM from Final with bright tuning and dynamic driver technology.",
+    "pros": [
+      "Analytical",
+      "Wide soundstage",
+      "Great resolution"
+    ],
+    "cons": [
+      "Can be fatiguing",
+      "Bass light"
+    ],
+    "resale_value_6m": 90,
+    "resale_value_1y": 71
+  },
+  {
+    "id": "thieaudio-monarch-mk3",
+    "name": "ThieAudio Monarch Mk3",
+    "brand": "ThieAudio",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 999,
+    "price_inr": 82000,
+    "signature": "Neutral",
+    "score": 95,
+    "impedance_ohm": 8,
+    "sensitivity_db": 110,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        59
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=thieaudio-monarch-mk3",
+    "image": "/images/headphones/thieaudio-monarch-mk3.jpg",
+    "verdict": "A flagship IEM from ThieAudio with neutral tuning and hybrid driver technology.",
+    "pros": [
+      "Balanced response",
+      "Accurate sound",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 699,
+    "resale_value_1y": 549
+  },
+  {
+    "id": "yanyin-canon-2",
+    "name": "Yanyin Canon II",
+    "brand": "Yanyin",
+    "type": "IEM",
+    "driver": "Hybrid",
+    "price_usd": 339,
+    "price_inr": 27900,
+    "signature": "V-Shaped",
+    "score": 87,
+    "impedance_ohm": 11,
+    "sensitivity_db": 108,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        75
+      ],
+      [
+        50,
+        76
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        71
+      ],
+      [
+        500,
+        70
+      ],
+      [
+        1000,
+        67
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        73
+      ],
+      [
+        10000,
+        69
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        52
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=yanyin-canon-2",
+    "image": "/images/headphones/yanyin-canon-2.jpg",
+    "verdict": "A mid-tier IEM from Yanyin with v-shaped tuning and hybrid driver technology.",
+    "pros": [
+      "Punchy bass",
+      "Exciting sound",
+      "Good for pop/EDM"
+    ],
+    "cons": [
+      "Colored sound",
+      "Recessed mids"
+    ],
+    "resale_value_6m": 237,
+    "resale_value_1y": 186
+  },
+  {
+    "id": "sennheiser-hd-600",
+    "name": "Sennheiser HD 600",
+    "brand": "Sennheiser",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 399,
+    "price_inr": 32890,
+    "signature": "Neutral",
+    "score": 93,
+    "impedance_ohm": 300,
+    "sensitivity_db": 97,
+    "freq_response": [
+      [
+        20,
+        67
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        59
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-600",
+    "image": "/images/headphones/sennheiser-hd-600.jpg",
+    "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Natural timbre",
+      "Accurate sound",
+      "Balanced response"
+    ],
+    "cons": [
+      "Clinical",
+      "Not exciting"
+    ],
+    "resale_value_6m": 279,
+    "resale_value_1y": 219
+  },
+  {
+    "id": "sennheiser-hd-650",
+    "name": "Sennheiser HD 650",
+    "brand": "Sennheiser",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 449,
+    "price_inr": 37000,
+    "signature": "Neutral-Warm",
+    "score": 94,
+    "impedance_ohm": 300,
+    "sensitivity_db": 103,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        72
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-650",
+    "image": "/images/headphones/sennheiser-hd-650.jpg",
+    "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Great timbre",
+      "Versatile",
+      "Non-fatiguing"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 314,
+    "resale_value_1y": 247
+  },
+  {
+    "id": "sennheiser-hd-660s2",
+    "name": "Sennheiser HD 660S2",
+    "brand": "Sennheiser",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 499,
+    "price_inr": 41000,
+    "signature": "Neutral",
+    "score": 92,
+    "impedance_ohm": 300,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        57
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-660s2",
+    "image": "/images/headphones/sennheiser-hd-660s2.jpg",
+    "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Accurate sound",
+      "Great for mixing",
+      "Balanced response"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 349,
+    "resale_value_1y": 274
+  },
+  {
+    "id": "sennheiser-hd-800s",
+    "name": "Sennheiser HD 800S",
+    "brand": "Sennheiser",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 1599,
+    "price_inr": 131000,
+    "signature": "Neutral",
+    "score": 96,
+    "impedance_ohm": 300,
+    "sensitivity_db": 102,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        76
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-800s",
+    "image": "/images/headphones/sennheiser-hd-800s.jpg",
+    "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Natural timbre",
+      "Accurate sound",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Not exciting",
+      "Needs good source"
+    ],
+    "resale_value_6m": 1119,
+    "resale_value_1y": 879
+  },
+  {
+    "id": "sennheiser-momentum-4",
+    "name": "Sennheiser Momentum 4",
+    "brand": "Sennheiser",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 349,
+    "price_inr": 28890,
+    "signature": "Neutral-Warm",
+    "score": 89,
+    "impedance_ohm": 48,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        71
+      ],
+      [
+        30,
+        70
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        66
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-momentum-4",
+    "image": "/images/headphones/sennheiser-momentum-4.jpg",
+    "verdict": "Sennheiser's solid over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Non-fatiguing",
+      "Smooth",
+      "Great timbre"
+    ],
+    "cons": [
+      "Slightly warm",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 244,
+    "resale_value_1y": 192
+  },
+  {
+    "id": "beyerdynamic-dt-770-pro",
+    "name": "Beyerdynamic DT 770 Pro",
+    "brand": "Beyerdynamic",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 169,
+    "price_inr": 13900,
+    "signature": "V-Shaped",
+    "score": 86,
+    "impedance_ohm": 80,
+    "sensitivity_db": 96,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        76
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        70
+      ],
+      [
+        1000,
+        67
+      ],
+      [
+        2000,
+        68
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        73
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        70
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=beyerdynamic-dt-770-pro",
+    "image": "/images/headphones/beyerdynamic-dt-770-pro.jpg",
+    "verdict": "Beyerdynamic's solid over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Crisp treble",
+      "Punchy bass",
+      "Good for pop/EDM"
+    ],
+    "cons": [
+      "Can be fatiguing",
+      "Not for critical listening"
+    ],
+    "resale_value_6m": 118,
+    "resale_value_1y": 93
+  },
+  {
+    "id": "beyerdynamic-dt-990-pro",
+    "name": "Beyerdynamic DT 990 Pro",
+    "brand": "Beyerdynamic",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 179,
+    "price_inr": 14700,
+    "signature": "Bright",
+    "score": 85,
+    "impedance_ohm": 250,
+    "sensitivity_db": 96,
+    "freq_response": [
+      [
+        20,
+        61
+      ],
+      [
+        30,
+        63
+      ],
+      [
+        50,
+        68
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        77
+      ],
+      [
+        4000,
+        77
+      ],
+      [
+        5000,
+        74
+      ],
+      [
+        8000,
+        71
+      ],
+      [
+        10000,
+        71
+      ],
+      [
+        15000,
+        66
+      ],
+      [
+        20000,
+        60
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=beyerdynamic-dt-990-pro",
+    "image": "/images/headphones/beyerdynamic-dt-990-pro.jpg",
+    "verdict": "Beyerdynamic's solid over-ear headphone offering bright sound signature.",
+    "pros": [
+      "Great resolution",
+      "Airy sound",
+      "Wide soundstage"
+    ],
+    "cons": [
+      "Harsh for some",
+      "Bass light"
+    ],
+    "resale_value_6m": 125,
+    "resale_value_1y": 98
+  },
+  {
+    "id": "audio-technica-m50x",
+    "name": "Audio-Technica ATH-M50x",
+    "brand": "Audio-Technica",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 149,
+    "price_inr": 12290,
+    "signature": "V-Shaped",
+    "score": 84,
+    "impedance_ohm": 38,
+    "sensitivity_db": 99,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        76
+      ],
+      [
+        50,
+        75
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        71
+      ],
+      [
+        500,
+        69
+      ],
+      [
+        1000,
+        67
+      ],
+      [
+        2000,
+        68
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        76
+      ],
+      [
+        5000,
+        73
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        70
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        52
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=audio-technica-m50x",
+    "image": "/images/headphones/audio-technica-m50x.jpg",
+    "verdict": "Audio-Technica's solid over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Exciting sound",
+      "Punchy bass",
+      "Good for pop/EDM"
+    ],
+    "cons": [
+      "Can be fatiguing",
+      "Colored sound"
+    ],
+    "resale_value_6m": 104,
+    "resale_value_1y": 82
+  },
+  {
+    "id": "audio-technica-r70x",
+    "name": "Audio-Technica ATH-R70x",
+    "brand": "Audio-Technica",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 349,
+    "price_inr": 28700,
+    "signature": "Neutral",
+    "score": 90,
+    "impedance_ohm": 470,
+    "sensitivity_db": 98,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=audio-technica-r70x",
+    "image": "/images/headphones/audio-technica-r70x.jpg",
+    "verdict": "Audio-Technica's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Natural timbre",
+      "Balanced response",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Not exciting",
+      "Needs good source"
+    ],
+    "resale_value_6m": 244,
+    "resale_value_1y": 192
+  },
+  {
+    "id": "audio-technica-adx5000",
+    "name": "Audio-Technica ATH-ADX5000",
+    "brand": "Audio-Technica",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 1999,
+    "price_inr": 164000,
+    "signature": "Neutral",
+    "score": 95,
+    "impedance_ohm": 420,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=audio-technica-adx5000",
+    "image": "/images/headphones/audio-technica-adx5000.jpg",
+    "verdict": "Audio-Technica's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Balanced response",
+      "Accurate sound",
+      "Natural timbre"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 1399,
+    "resale_value_1y": 1099
+  },
+  {
+    "id": "akg-k712-pro",
+    "name": "AKG K712 Pro",
+    "brand": "AKG",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 299,
+    "price_inr": 24600,
+    "signature": "Neutral-Warm",
+    "score": 88,
+    "impedance_ohm": 62,
+    "sensitivity_db": 105,
+    "freq_response": [
+      [
+        20,
+        71
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=akg-k712-pro",
+    "image": "/images/headphones/akg-k712-pro.jpg",
+    "verdict": "AKG's solid over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Smooth",
+      "Great timbre",
+      "Versatile"
+    ],
+    "cons": [
+      "Slightly warm",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "akg-k371",
+    "name": "AKG K371",
+    "brand": "AKG",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 149,
+    "price_inr": 12290,
+    "signature": "Neutral",
+    "score": 85,
+    "impedance_ohm": 32,
+    "sensitivity_db": 114,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=akg-k371",
+    "image": "/images/headphones/akg-k371.jpg",
+    "verdict": "AKG's solid over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Natural timbre",
+      "Balanced response",
+      "Versatile"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 104,
+    "resale_value_1y": 82
+  },
+  {
+    "id": "akg-k240-studio",
+    "name": "AKG K240 Studio",
+    "brand": "AKG",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 69,
+    "price_inr": 5700,
+    "signature": "Neutral",
+    "score": 78,
+    "impedance_ohm": 55,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=akg-k240-studio",
+    "image": "/images/headphones/akg-k240-studio.jpg",
+    "verdict": "AKG's entry-level over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Versatile",
+      "Balanced response",
+      "Natural timbre"
+    ],
+    "cons": [
+      "Clinical",
+      "Can sound boring"
+    ],
+    "resale_value_6m": 48,
+    "resale_value_1y": 38
+  },
+  {
+    "id": "hifiman-edition-xs",
+    "name": "HiFiMAN Edition XS",
+    "brand": "HiFiMAN",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 499,
+    "price_inr": 41000,
+    "signature": "Neutral",
+    "score": 93,
+    "impedance_ohm": 18,
+    "sensitivity_db": 92,
+    "freq_response": [
+      [
+        20,
+        67
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=hifiman-edition-xs",
+    "image": "/images/headphones/hifiman-edition-xs.jpg",
+    "verdict": "HiFiMAN's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Versatile",
+      "Natural timbre",
+      "Balanced response"
+    ],
+    "cons": [
+      "Clinical",
+      "Not exciting"
+    ],
+    "resale_value_6m": 349,
+    "resale_value_1y": 274
+  },
+  {
+    "id": "hifiman-ananda",
+    "name": "HiFiMAN Ananda",
+    "brand": "HiFiMAN",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 399,
+    "price_inr": 32890,
+    "signature": "Neutral",
+    "score": 91,
+    "impedance_ohm": 25,
+    "sensitivity_db": 103,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=hifiman-ananda",
+    "image": "/images/headphones/hifiman-ananda.jpg",
+    "verdict": "HiFiMAN's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Accurate sound",
+      "Great for mixing",
+      "Balanced response"
+    ],
+    "cons": [
+      "Not exciting",
+      "Needs good source"
+    ],
+    "resale_value_6m": 279,
+    "resale_value_1y": 219
+  },
+  {
+    "id": "hifiman-he400se",
+    "name": "HiFiMAN HE400SE",
+    "brand": "HiFiMAN",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 109,
+    "price_inr": 8990,
+    "signature": "Neutral",
+    "score": 84,
+    "impedance_ohm": 25,
+    "sensitivity_db": 91,
+    "freq_response": [
+      [
+        20,
+        67
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        76
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=hifiman-he400se",
+    "image": "/images/headphones/hifiman-he400se.jpg",
+    "verdict": "HiFiMAN's solid over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Natural timbre",
+      "Balanced response",
+      "Accurate sound"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Clinical"
+    ],
+    "resale_value_6m": 76,
+    "resale_value_1y": 60
+  },
+  {
+    "id": "hifiman-arya-stealth",
+    "name": "HiFiMAN Arya Stealth",
+    "brand": "HiFiMAN",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 1299,
+    "price_inr": 106900,
+    "signature": "Neutral",
+    "score": 96,
+    "impedance_ohm": 35,
+    "sensitivity_db": 94,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        67
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        76
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=hifiman-arya-stealth",
+    "image": "/images/headphones/hifiman-arya-stealth.jpg",
+    "verdict": "HiFiMAN's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Accurate sound",
+      "Great for mixing",
+      "Natural timbre"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 909,
+    "resale_value_1y": 714
+  },
+  {
+    "id": "focal-clear-mg",
+    "name": "Focal Clear MG",
+    "brand": "Focal",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 1490,
+    "price_inr": 122600,
+    "signature": "Neutral",
+    "score": 95,
+    "impedance_ohm": 55,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        67
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=focal-clear-mg",
+    "image": "/images/headphones/focal-clear-mg.jpg",
+    "verdict": "Focal's reference-grade over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Balanced response",
+      "Great for mixing",
+      "Natural timbre"
+    ],
+    "cons": [
+      "Needs good source",
+      "Not exciting"
+    ],
+    "resale_value_6m": 1043,
+    "resale_value_1y": 820
+  },
+  {
+    "id": "focal-celestee",
+    "name": "Focal Celestee",
+    "brand": "Focal",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 990,
+    "price_inr": 81500,
+    "signature": "Warm",
+    "score": 90,
+    "impedance_ohm": 35,
+    "sensitivity_db": 105,
+    "freq_response": [
+      [
+        20,
+        71
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        62
+      ],
+      [
+        8000,
+        62
+      ],
+      [
+        10000,
+        57
+      ],
+      [
+        15000,
+        50
+      ],
+      [
+        20000,
+        44
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=focal-celestee",
+    "image": "/images/headphones/focal-celestee.jpg",
+    "verdict": "Focal's reference-grade over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Smooth treble",
+      "Non-fatiguing",
+      "Musical sound"
+    ],
+    "cons": [
+      "Not analytical",
+      "Rolled-off treble"
+    ],
+    "resale_value_6m": 693,
+    "resale_value_1y": 545
+  },
+  {
+    "id": "focal-elegia",
+    "name": "Focal Elegia",
+    "brand": "Focal",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 899,
+    "price_inr": 74000,
+    "signature": "Neutral-Warm",
+    "score": 89,
+    "impedance_ohm": 35,
+    "sensitivity_db": 105,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        66
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=focal-elegia",
+    "image": "/images/headphones/focal-elegia.jpg",
+    "verdict": "Focal's solid over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Non-fatiguing",
+      "Great timbre",
+      "Smooth"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 629,
+    "resale_value_1y": 494
+  },
+  {
+    "id": "dan-clark-aeon-2-noire",
+    "name": "Dan Clark Aeon 2 Noire",
+    "brand": "Dan Clark Audio",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 899,
+    "price_inr": 74000,
+    "signature": "Neutral-Warm",
+    "score": 91,
+    "impedance_ohm": 13,
+    "sensitivity_db": 92,
+    "freq_response": [
+      [
+        20,
+        69
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=dan-clark-aeon-2-noire",
+    "image": "/images/headphones/dan-clark-aeon-2-noire.jpg",
+    "verdict": "Dan Clark Audio's reference-grade over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Great timbre",
+      "Non-fatiguing",
+      "Smooth"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 629,
+    "resale_value_1y": 494
+  },
+  {
+    "id": "meze-109-pro",
+    "name": "Meze 109 Pro",
+    "brand": "Meze",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 799,
+    "price_inr": 65800,
+    "signature": "Warm",
+    "score": 91,
+    "impedance_ohm": 40,
+    "sensitivity_db": 112,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        69
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        64
+      ],
+      [
+        8000,
+        61
+      ],
+      [
+        10000,
+        58
+      ],
+      [
+        15000,
+        53
+      ],
+      [
+        20000,
+        42
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=meze-109-pro",
+    "image": "/images/headphones/meze-109-pro.jpg",
+    "verdict": "Meze's reference-grade over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Rich bass",
+      "Smooth treble",
+      "Non-fatiguing"
+    ],
+    "cons": [
+      "Rolled-off treble",
+      "Lacks detail"
+    ],
+    "resale_value_6m": 559,
+    "resale_value_1y": 439
+  },
+  {
+    "id": "meze-99-classics",
+    "name": "Meze 99 Classics",
+    "brand": "Meze",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 309,
+    "price_inr": 25400,
+    "signature": "Warm",
+    "score": 86,
+    "impedance_ohm": 32,
+    "sensitivity_db": 103,
+    "freq_response": [
+      [
+        20,
+        73
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        76
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        71
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        67
+      ],
+      [
+        4000,
+        65
+      ],
+      [
+        5000,
+        62
+      ],
+      [
+        8000,
+        59
+      ],
+      [
+        10000,
+        59
+      ],
+      [
+        15000,
+        50
+      ],
+      [
+        20000,
+        45
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=meze-99-classics",
+    "image": "/images/headphones/meze-99-classics.jpg",
+    "verdict": "Meze's solid over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Musical sound",
+      "Rich bass",
+      "Great for vocals"
+    ],
+    "cons": [
+      "Bass can bloat",
+      "Not analytical"
+    ],
+    "resale_value_6m": 216,
+    "resale_value_1y": 170
+  },
+  {
+    "id": "grado-sr325x",
+    "name": "Grado SR325x",
+    "brand": "Grado",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 295,
+    "price_inr": 24300,
+    "signature": "Bright",
+    "score": 84,
+    "impedance_ohm": 38,
+    "sensitivity_db": 99,
+    "freq_response": [
+      [
+        20,
+        62
+      ],
+      [
+        30,
+        65
+      ],
+      [
+        50,
+        69
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        77
+      ],
+      [
+        3000,
+        77
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        73
+      ],
+      [
+        8000,
+        73
+      ],
+      [
+        10000,
+        69
+      ],
+      [
+        15000,
+        67
+      ],
+      [
+        20000,
+        59
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=grado-sr325x",
+    "image": "/images/headphones/grado-sr325x.jpg",
+    "verdict": "Grado's solid over-ear headphone offering bright sound signature.",
+    "pros": [
+      "Wide soundstage",
+      "Excellent detail",
+      "Great resolution"
+    ],
+    "cons": [
+      "Harsh for some",
+      "Bass light"
+    ],
+    "resale_value_6m": 207,
+    "resale_value_1y": 162
+  },
+  {
+    "id": "grado-sr80x",
+    "name": "Grado SR80x",
+    "brand": "Grado",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 99,
+    "price_inr": 8100,
+    "signature": "Bright",
+    "score": 81,
+    "impedance_ohm": 38,
+    "sensitivity_db": 99,
+    "freq_response": [
+      [
+        20,
+        61
+      ],
+      [
+        30,
+        65
+      ],
+      [
+        50,
+        69
+      ],
+      [
+        100,
+        70
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        76
+      ],
+      [
+        3000,
+        75
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        73
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        67
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=grado-sr80x",
+    "image": "/images/headphones/grado-sr80x.jpg",
+    "verdict": "Grado's solid over-ear headphone offering bright sound signature.",
+    "pros": [
+      "Great resolution",
+      "Wide soundstage",
+      "Airy sound"
+    ],
+    "cons": [
+      "Harsh for some",
+      "Can be fatiguing"
+    ],
+    "resale_value_6m": 69,
+    "resale_value_1y": 54
+  },
+  {
+    "id": "philips-shp9500",
+    "name": "Philips SHP9500",
+    "brand": "Philips",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 79,
+    "price_inr": 6500,
+    "signature": "Neutral",
+    "score": 82,
+    "impedance_ohm": 32,
+    "sensitivity_db": 101,
+    "freq_response": [
+      [
+        20,
+        67
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        76
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        57
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=philips-shp9500",
+    "image": "/images/headphones/philips-shp9500.jpg",
+    "verdict": "Philips's solid over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Balanced response",
+      "Natural timbre",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Not exciting",
+      "Clinical"
+    ],
+    "resale_value_6m": 55,
+    "resale_value_1y": 43
+  },
+  {
+    "id": "sony-wh-1000xm4",
+    "name": "Sony WH-1000XM4",
+    "brand": "Sony",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 279,
+    "price_inr": 23090,
+    "signature": "Warm",
+    "score": 89,
+    "impedance_ohm": 48,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        74
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        76
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        65
+      ],
+      [
+        5000,
+        65
+      ],
+      [
+        8000,
+        62
+      ],
+      [
+        10000,
+        56
+      ],
+      [
+        15000,
+        51
+      ],
+      [
+        20000,
+        45
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sony-wh-1000xm4",
+    "image": "/images/headphones/sony-wh-1000xm4.jpg",
+    "verdict": "Sony's solid over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Musical sound",
+      "Great for vocals",
+      "Rich bass"
+    ],
+    "cons": [
+      "Not analytical",
+      "Rolled-off treble"
+    ],
+    "resale_value_6m": 195,
+    "resale_value_1y": 153
+  },
+  {
+    "id": "sony-mdr-7506",
+    "name": "Sony MDR-7506",
+    "brand": "Sony",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 99,
+    "price_inr": 8100,
+    "signature": "Neutral",
+    "score": 83,
+    "impedance_ohm": 63,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        76
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        57
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sony-mdr-7506",
+    "image": "/images/headphones/sony-mdr-7506.jpg",
+    "verdict": "Sony's solid over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Natural timbre",
+      "Accurate sound",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 69,
+    "resale_value_1y": 54
+  },
+  {
+    "id": "sony-ult-wear",
+    "name": "Sony ULT Wear",
+    "brand": "Sony",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 199,
+    "price_inr": 16390,
+    "signature": "V-Shaped",
+    "score": 80,
+    "impedance_ohm": 32,
+    "sensitivity_db": 110,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        68
+      ],
+      [
+        1000,
+        68
+      ],
+      [
+        2000,
+        68
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        74
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sony-ult-wear",
+    "image": "/images/headphones/sony-ult-wear.jpg",
+    "verdict": "Sony's solid over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Crisp treble",
+      "Punchy bass",
+      "Fun to listen to"
+    ],
+    "cons": [
+      "Colored sound",
+      "Not for critical listening"
+    ],
+    "resale_value_6m": 139,
+    "resale_value_1y": 109
+  },
+  {
+    "id": "bose-qc-ultra",
+    "name": "Bose QuietComfort Ultra",
+    "brand": "Bose",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 429,
+    "price_inr": 35490,
+    "signature": "Neutral-Warm",
+    "score": 90,
+    "impedance_ohm": 32,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=bose-qc-ultra",
+    "image": "/images/headphones/bose-qc-ultra.jpg",
+    "verdict": "Bose's reference-grade over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Non-fatiguing",
+      "Versatile",
+      "Great timbre"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 300,
+    "resale_value_1y": 236
+  },
+  {
+    "id": "marshall-monitor-ii",
+    "name": "Marshall Monitor II ANC",
+    "brand": "Marshall",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 349,
+    "price_inr": 28790,
+    "signature": "V-Shaped",
+    "score": 82,
+    "impedance_ohm": 32,
+    "sensitivity_db": 96,
+    "freq_response": [
+      [
+        20,
+        74
+      ],
+      [
+        30,
+        76
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        71
+      ],
+      [
+        500,
+        67
+      ],
+      [
+        1000,
+        69
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        53
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=marshall-monitor-ii",
+    "image": "/images/headphones/marshall-monitor-ii.jpg",
+    "verdict": "Marshall's solid over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Fun to listen to",
+      "Exciting sound",
+      "Good for pop/EDM"
+    ],
+    "cons": [
+      "Colored sound",
+      "Recessed mids"
+    ],
+    "resale_value_6m": 244,
+    "resale_value_1y": 192
+  },
+  {
+    "id": "apple-airpods-max",
+    "name": "Apple AirPods Max",
+    "brand": "Apple",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 549,
+    "price_inr": 59900,
+    "signature": "Neutral-Warm",
+    "score": 88,
+    "impedance_ohm": 32,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=apple-airpods-max",
+    "image": "/images/headphones/apple-airpods-max.jpg",
+    "verdict": "Apple's solid over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Non-fatiguing",
+      "Great timbre",
+      "Smooth"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 384,
+    "resale_value_1y": 302
+  },
+  {
+    "id": "sony-wf-1000xm5",
+    "name": "Sony WF-1000XM5",
+    "brand": "Sony",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 299,
+    "price_inr": 24990,
+    "signature": "Neutral-Warm",
+    "score": 92,
+    "impedance_ohm": 16,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        66
+      ],
+      [
+        10000,
+        64
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sony-wf-1000xm5",
+    "image": "/images/headphones/sony-wf-1000xm5.jpg",
+    "verdict": "Sony's premium true wireless earbuds with neutral-warm tuning.",
+    "pros": [
+      "Versatile",
+      "Non-fatiguing",
+      "Natural sound"
+    ],
+    "cons": [
+      "Slightly warm",
+      "Could have more bass"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "samsung-galaxy-buds3-pro",
+    "name": "Samsung Galaxy Buds3 Pro",
+    "brand": "Samsung",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 249,
+    "price_inr": 17999,
+    "signature": "Neutral",
+    "score": 88,
+    "impedance_ohm": 16,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        59
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=samsung-galaxy-buds3-pro",
+    "image": "/images/headphones/samsung-galaxy-buds3-pro.jpg",
+    "verdict": "Samsung's premium true wireless earbuds with neutral tuning.",
+    "pros": [
+      "Natural timbre",
+      "Versatile",
+      "Balanced response"
+    ],
+    "cons": [
+      "Not exciting",
+      "Needs good source"
+    ],
+    "resale_value_6m": 174,
+    "resale_value_1y": 137
+  },
+  {
+    "id": "samsung-galaxy-buds-fe",
+    "name": "Samsung Galaxy Buds FE",
+    "brand": "Samsung",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 99,
+    "price_inr": 6999,
+    "signature": "Neutral-Warm",
+    "score": 80,
+    "impedance_ohm": 16,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        71
+      ],
+      [
+        30,
+        70
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        64
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=samsung-galaxy-buds-fe",
+    "image": "/images/headphones/samsung-galaxy-buds-fe.jpg",
+    "verdict": "Samsung's capable true wireless earbuds with neutral-warm tuning.",
+    "pros": [
+      "Great timbre",
+      "Natural sound",
+      "Non-fatiguing"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 69,
+    "resale_value_1y": 54
+  },
+  {
+    "id": "google-pixel-buds-pro-2",
+    "name": "Google Pixel Buds Pro 2",
+    "brand": "Google",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 229,
+    "price_inr": 19999,
+    "signature": "Neutral",
+    "score": 87,
+    "impedance_ohm": 16,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        76
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=google-pixel-buds-pro-2",
+    "image": "/images/headphones/google-pixel-buds-pro-2.jpg",
+    "verdict": "Google's premium true wireless earbuds with neutral tuning.",
+    "pros": [
+      "Versatile",
+      "Great for mixing",
+      "Accurate sound"
+    ],
+    "cons": [
+      "Not exciting",
+      "Clinical"
+    ],
+    "resale_value_6m": 160,
+    "resale_value_1y": 126
+  },
+  {
+    "id": "jabra-elite-10",
+    "name": "Jabra Elite 10",
+    "brand": "Jabra",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 249,
+    "price_inr": 20590,
+    "signature": "Neutral-Warm",
+    "score": 87,
+    "impedance_ohm": 16,
+    "sensitivity_db": 108,
+    "freq_response": [
+      [
+        20,
+        70
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=jabra-elite-10",
+    "image": "/images/headphones/jabra-elite-10.jpg",
+    "verdict": "Jabra's premium true wireless earbuds with neutral-warm tuning.",
+    "pros": [
+      "Smooth",
+      "Natural sound",
+      "Great timbre"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 174,
+    "resale_value_1y": 137
+  },
+  {
+    "id": "jabra-elite-85t",
+    "name": "Jabra Elite 85t",
+    "brand": "Jabra",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 179,
+    "price_inr": 14790,
+    "signature": "Neutral",
+    "score": 84,
+    "impedance_ohm": 16,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=jabra-elite-85t",
+    "image": "/images/headphones/jabra-elite-85t.jpg",
+    "verdict": "Jabra's capable true wireless earbuds with neutral tuning.",
+    "pros": [
+      "Balanced response",
+      "Versatile",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Clinical",
+      "Needs good source"
+    ],
+    "resale_value_6m": 125,
+    "resale_value_1y": 98
+  },
+  {
+    "id": "jbl-tour-pro-2",
+    "name": "JBL Tour Pro 2",
+    "brand": "JBL",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 249,
+    "price_inr": 20590,
+    "signature": "V-Shaped",
+    "score": 85,
+    "impedance_ohm": 16,
+    "sensitivity_db": 108,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        74
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        69
+      ],
+      [
+        500,
+        68
+      ],
+      [
+        1000,
+        66
+      ],
+      [
+        2000,
+        68
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        74
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        71
+      ],
+      [
+        10000,
+        70
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=jbl-tour-pro-2",
+    "image": "/images/headphones/jbl-tour-pro-2.jpg",
+    "verdict": "JBL's premium true wireless earbuds with v-shaped tuning.",
+    "pros": [
+      "Good for pop/EDM",
+      "Fun to listen to",
+      "Crisp treble"
+    ],
+    "cons": [
+      "Recessed mids",
+      "Not for critical listening"
+    ],
+    "resale_value_6m": 174,
+    "resale_value_1y": 137
+  },
+  {
+    "id": "jbl-tune-230nc",
+    "name": "JBL Tune 230NC TWS",
+    "brand": "JBL",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 99,
+    "price_inr": 5499,
+    "signature": "V-Shaped",
+    "score": 76,
+    "impedance_ohm": 16,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        73
+      ],
+      [
+        30,
+        75
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        71
+      ],
+      [
+        500,
+        69
+      ],
+      [
+        1000,
+        69
+      ],
+      [
+        2000,
+        68
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        69
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        55
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=jbl-tune-230nc",
+    "image": "/images/headphones/jbl-tune-230nc.jpg",
+    "verdict": "JBL's capable true wireless earbuds with v-shaped tuning.",
+    "pros": [
+      "Good for pop/EDM",
+      "Fun to listen to",
+      "Punchy bass"
+    ],
+    "cons": [
+      "Colored sound",
+      "Can be fatiguing"
+    ],
+    "resale_value_6m": 69,
+    "resale_value_1y": 54
+  },
+  {
+    "id": "sennheiser-mtw-4",
+    "name": "Sennheiser Momentum TW 4",
+    "brand": "Sennheiser",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 299,
+    "price_inr": 24990,
+    "signature": "Neutral-Warm",
+    "score": 91,
+    "impedance_ohm": 16,
+    "sensitivity_db": 107,
+    "freq_response": [
+      [
+        20,
+        71
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        66
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        60
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sennheiser-mtw-4",
+    "image": "/images/headphones/sennheiser-mtw-4.jpg",
+    "verdict": "Sennheiser's premium true wireless earbuds with neutral-warm tuning.",
+    "pros": [
+      "Versatile",
+      "Non-fatiguing",
+      "Great timbre"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "bose-qc-earbuds-ii",
+    "name": "Bose QC Earbuds II",
+    "brand": "Bose",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 279,
+    "price_inr": 23090,
+    "signature": "Neutral-Warm",
+    "score": 89,
+    "impedance_ohm": 16,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        71
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        69
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=bose-qc-earbuds-ii",
+    "image": "/images/headphones/bose-qc-earbuds-ii.jpg",
+    "verdict": "Bose's premium true wireless earbuds with neutral-warm tuning.",
+    "pros": [
+      "Great timbre",
+      "Natural sound",
+      "Smooth"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 195,
+    "resale_value_1y": 153
+  },
+  {
+    "id": "bose-qc-ultra-earbuds",
+    "name": "Bose QC Ultra Earbuds",
+    "brand": "Bose",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 299,
+    "price_inr": 24990,
+    "signature": "Neutral-Warm",
+    "score": 90,
+    "impedance_ohm": 16,
+    "sensitivity_db": 107,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        74
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        64
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        57
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=bose-qc-ultra-earbuds",
+    "image": "/images/headphones/bose-qc-ultra-earbuds.jpg",
+    "verdict": "Bose's premium true wireless earbuds with neutral-warm tuning.",
+    "pros": [
+      "Smooth",
+      "Versatile",
+      "Natural sound"
+    ],
+    "cons": [
+      "Could have more bass",
+      "Not the most detailed"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "nothing-ear-open",
+    "name": "Nothing Ear (open)",
+    "brand": "Nothing",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 149,
+    "price_inr": 8499,
+    "signature": "Neutral",
+    "score": 79,
+    "impedance_ohm": 16,
+    "sensitivity_db": 102,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        69
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=nothing-ear-open",
+    "image": "/images/headphones/nothing-ear-open.jpg",
+    "verdict": "Nothing's capable true wireless earbuds with neutral tuning.",
+    "pros": [
+      "Accurate sound",
+      "Great for mixing",
+      "Balanced response"
+    ],
+    "cons": [
+      "Not exciting",
+      "Clinical"
+    ],
+    "resale_value_6m": 104,
+    "resale_value_1y": 82
+  },
+  {
+    "id": "oneplus-buds-pro-3",
+    "name": "OnePlus Buds Pro 3",
+    "brand": "OnePlus",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 179,
+    "price_inr": 11999,
+    "signature": "V-Shaped",
+    "score": 84,
+    "impedance_ohm": 16,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        74
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        67
+      ],
+      [
+        1000,
+        69
+      ],
+      [
+        2000,
+        68
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        71
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        53
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=oneplus-buds-pro-3",
+    "image": "/images/headphones/oneplus-buds-pro-3.jpg",
+    "verdict": "OnePlus's capable true wireless earbuds with v-shaped tuning.",
+    "pros": [
+      "Crisp treble",
+      "Fun to listen to",
+      "Punchy bass"
+    ],
+    "cons": [
+      "Recessed mids",
+      "Not for critical listening"
+    ],
+    "resale_value_6m": 125,
+    "resale_value_1y": 98
+  },
+  {
+    "id": "oppo-enco-x2",
+    "name": "Oppo Enco X2",
+    "brand": "Oppo",
+    "type": "TWS",
+    "driver": "Hybrid",
+    "price_usd": 199,
+    "price_inr": 11990,
+    "signature": "Neutral",
+    "score": 85,
+    "impedance_ohm": 16,
+    "sensitivity_db": 108,
+    "freq_response": [
+      [
+        20,
+        67
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        69
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        75
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        71
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=oppo-enco-x2",
+    "image": "/images/headphones/oppo-enco-x2.jpg",
+    "verdict": "Oppo's premium true wireless earbuds with neutral tuning.",
+    "pros": [
+      "Balanced response",
+      "Natural timbre",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Not exciting",
+      "Clinical"
+    ],
+    "resale_value_6m": 139,
+    "resale_value_1y": 109
+  },
+  {
+    "id": "fiio-fw5",
+    "name": "FiiO FW5",
+    "brand": "FiiO",
+    "type": "TWS",
+    "driver": "Hybrid",
+    "price_usd": 129,
+    "price_inr": 10690,
+    "signature": "Neutral-Warm",
+    "score": 83,
+    "impedance_ohm": 32,
+    "sensitivity_db": 106,
+    "freq_response": [
+      [
+        20,
+        69
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        70
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        69
+      ],
+      [
+        8000,
+        67
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=fiio-fw5",
+    "image": "/images/headphones/fiio-fw5.jpg",
+    "verdict": "FiiO's capable true wireless earbuds with neutral-warm tuning.",
+    "pros": [
+      "Non-fatiguing",
+      "Smooth",
+      "Natural sound"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Slightly warm"
+    ],
+    "resale_value_6m": 90,
+    "resale_value_1y": 71
+  },
+  {
+    "id": "soundpeats-opera-05",
+    "name": "SoundPeats Opera 05",
+    "brand": "SoundPeats",
+    "type": "TWS",
+    "driver": "Hybrid",
+    "price_usd": 79,
+    "price_inr": 4999,
+    "signature": "V-Shaped",
+    "score": 78,
+    "impedance_ohm": 16,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        74
+      ],
+      [
+        30,
+        76
+      ],
+      [
+        50,
+        76
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        71
+      ],
+      [
+        500,
+        70
+      ],
+      [
+        1000,
+        68
+      ],
+      [
+        2000,
+        69
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        76
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        73
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        53
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=soundpeats-opera-05",
+    "image": "/images/headphones/soundpeats-opera-05.jpg",
+    "verdict": "SoundPeats's capable true wireless earbuds with v-shaped tuning.",
+    "pros": [
+      "Exciting sound",
+      "Punchy bass",
+      "Crisp treble"
+    ],
+    "cons": [
+      "Recessed mids",
+      "Colored sound"
+    ],
+    "resale_value_6m": 55,
+    "resale_value_1y": 43
+  },
+  {
+    "id": "moondrop-space-travel",
+    "name": "Moondrop Space Travel",
+    "brand": "Moondrop",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 25,
+    "price_inr": 2100,
+    "signature": "Neutral",
+    "score": 75,
+    "impedance_ohm": 16,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        64
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        76
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        71
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        57
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=moondrop-space-travel",
+    "image": "/images/headphones/moondrop-space-travel.jpg",
+    "verdict": "Moondrop's capable true wireless earbuds with neutral tuning.",
+    "pros": [
+      "Balanced response",
+      "Great for mixing",
+      "Natural timbre"
+    ],
+    "cons": [
+      "Clinical",
+      "Not exciting"
+    ],
+    "resale_value_6m": 18,
+    "resale_value_1y": 14
+  },
+  {
+    "id": "edifier-stax-spirit-s3",
+    "name": "Edifier STAX Spirit S3",
+    "brand": "Edifier",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 399,
+    "price_inr": 32890,
+    "signature": "Neutral",
+    "score": 88,
+    "impedance_ohm": 20,
+    "sensitivity_db": 94,
+    "freq_response": [
+      [
+        20,
+        65
+      ],
+      [
+        30,
+        69
+      ],
+      [
+        50,
+        70
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        76
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        75
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        59
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=edifier-stax-spirit-s3",
+    "image": "/images/headphones/edifier-stax-spirit-s3.jpg",
+    "verdict": "Edifier's solid over-ear headphone offering neutral sound signature.",
+    "pros": [
+      "Accurate sound",
+      "Great for mixing",
+      "Balanced response"
+    ],
+    "cons": [
+      "Can sound boring",
+      "Needs good source"
+    ],
+    "resale_value_6m": 279,
+    "resale_value_1y": 219
+  },
+  {
+    "id": "audeze-lcd-2-classic",
+    "name": "Audeze LCD-2 Classic",
+    "brand": "Audeze",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 899,
+    "price_inr": 74000,
+    "signature": "Warm",
+    "score": 92,
+    "impedance_ohm": 70,
+    "sensitivity_db": 101,
+    "freq_response": [
+      [
+        20,
+        71
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        75
+      ],
+      [
+        100,
+        75
+      ],
+      [
+        200,
+        73
+      ],
+      [
+        500,
+        72
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        70
+      ],
+      [
+        3000,
+        67
+      ],
+      [
+        4000,
+        67
+      ],
+      [
+        5000,
+        63
+      ],
+      [
+        8000,
+        59
+      ],
+      [
+        10000,
+        57
+      ],
+      [
+        15000,
+        50
+      ],
+      [
+        20000,
+        43
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=audeze-lcd-2-classic",
+    "image": "/images/headphones/audeze-lcd-2-classic.jpg",
+    "verdict": "Audeze's reference-grade over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Musical sound",
+      "Non-fatiguing",
+      "Great for vocals"
+    ],
+    "cons": [
+      "Lacks detail",
+      "Rolled-off treble"
+    ],
+    "resale_value_6m": 629,
+    "resale_value_1y": 494
+  },
+  {
+    "id": "audeze-maxwell",
+    "name": "Audeze Maxwell",
+    "brand": "Audeze",
+    "type": "Over-Ear",
+    "driver": "Planar",
+    "price_usd": 299,
+    "price_inr": 24690,
+    "signature": "Warm",
+    "score": 88,
+    "impedance_ohm": 16,
+    "sensitivity_db": 96,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        72
+      ],
+      [
+        50,
+        72
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        72
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        67
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        64
+      ],
+      [
+        8000,
+        62
+      ],
+      [
+        10000,
+        59
+      ],
+      [
+        15000,
+        53
+      ],
+      [
+        20000,
+        44
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=audeze-maxwell",
+    "image": "/images/headphones/audeze-maxwell.jpg",
+    "verdict": "Audeze's solid over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Rich bass",
+      "Smooth treble",
+      "Non-fatiguing"
+    ],
+    "cons": [
+      "Lacks detail",
+      "Rolled-off treble"
+    ],
+    "resale_value_6m": 209,
+    "resale_value_1y": 164
+  },
+  {
+    "id": "zmf-aeolus",
+    "name": "ZMF Aeolus",
+    "brand": "ZMF",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 1199,
+    "price_inr": 98700,
+    "signature": "Warm",
+    "score": 94,
+    "impedance_ohm": 300,
+    "sensitivity_db": 101,
+    "freq_response": [
+      [
+        20,
+        73
+      ],
+      [
+        30,
+        74
+      ],
+      [
+        50,
+        74
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        70
+      ],
+      [
+        2000,
+        69
+      ],
+      [
+        3000,
+        69
+      ],
+      [
+        4000,
+        68
+      ],
+      [
+        5000,
+        63
+      ],
+      [
+        8000,
+        60
+      ],
+      [
+        10000,
+        58
+      ],
+      [
+        15000,
+        51
+      ],
+      [
+        20000,
+        43
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=zmf-aeolus",
+    "image": "/images/headphones/zmf-aeolus.jpg",
+    "verdict": "ZMF's reference-grade over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Smooth treble",
+      "Great for vocals",
+      "Rich bass"
+    ],
+    "cons": [
+      "Bass can bloat",
+      "Not analytical"
+    ],
+    "resale_value_6m": 839,
+    "resale_value_1y": 659
+  },
+  {
+    "id": "fostex-th-900mk2",
+    "name": "Fostex TH-900mk2",
+    "brand": "Fostex",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 1699,
+    "price_inr": 139900,
+    "signature": "V-Shaped",
+    "score": 93,
+    "impedance_ohm": 25,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        74
+      ],
+      [
+        30,
+        76
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        67
+      ],
+      [
+        1000,
+        69
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        76
+      ],
+      [
+        5000,
+        74
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        53
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=fostex-th-900mk2",
+    "image": "/images/headphones/fostex-th-900mk2.jpg",
+    "verdict": "Fostex's reference-grade over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Exciting sound",
+      "Punchy bass",
+      "Crisp treble"
+    ],
+    "cons": [
+      "Can be fatiguing",
+      "Recessed mids"
+    ],
+    "resale_value_6m": 1189,
+    "resale_value_1y": 934
+  },
+  {
+    "id": "sivga-sv023",
+    "name": "Sivga SV023",
+    "brand": "Sivga",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 169,
+    "price_inr": 13900,
+    "signature": "Warm",
+    "score": 82,
+    "impedance_ohm": 32,
+    "sensitivity_db": 103,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        71
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        76
+      ],
+      [
+        200,
+        74
+      ],
+      [
+        500,
+        71
+      ],
+      [
+        1000,
+        71
+      ],
+      [
+        2000,
+        72
+      ],
+      [
+        3000,
+        68
+      ],
+      [
+        4000,
+        67
+      ],
+      [
+        5000,
+        64
+      ],
+      [
+        8000,
+        61
+      ],
+      [
+        10000,
+        56
+      ],
+      [
+        15000,
+        52
+      ],
+      [
+        20000,
+        44
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=sivga-sv023",
+    "image": "/images/headphones/sivga-sv023.jpg",
+    "verdict": "Sivga's solid over-ear headphone offering warm sound signature.",
+    "pros": [
+      "Musical sound",
+      "Great for vocals",
+      "Smooth treble"
+    ],
+    "cons": [
+      "Not analytical",
+      "Rolled-off treble"
+    ],
+    "resale_value_6m": 118,
+    "resale_value_1y": 93
+  },
+  {
+    "id": "samson-sr850",
+    "name": "Samson SR850",
+    "brand": "Samson",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 49,
+    "price_inr": 4000,
+    "signature": "Bright",
+    "score": 74,
+    "impedance_ohm": 32,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        60
+      ],
+      [
+        30,
+        63
+      ],
+      [
+        50,
+        68
+      ],
+      [
+        100,
+        70
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        77
+      ],
+      [
+        3000,
+        78
+      ],
+      [
+        4000,
+        76
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        70
+      ],
+      [
+        15000,
+        65
+      ],
+      [
+        20000,
+        60
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=samson-sr850",
+    "image": "/images/headphones/samson-sr850.jpg",
+    "verdict": "Samson's entry-level over-ear headphone offering bright sound signature.",
+    "pros": [
+      "Great resolution",
+      "Analytical",
+      "Excellent detail"
+    ],
+    "cons": [
+      "Bass light",
+      "Can be fatiguing"
+    ],
+    "resale_value_6m": 34,
+    "resale_value_1y": 27
+  },
+  {
+    "id": "superlux-hd668b",
+    "name": "Superlux HD668B",
+    "brand": "Superlux",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 38,
+    "price_inr": 3100,
+    "signature": "Bright",
+    "score": 73,
+    "impedance_ohm": 56,
+    "sensitivity_db": 98,
+    "freq_response": [
+      [
+        20,
+        61
+      ],
+      [
+        30,
+        66
+      ],
+      [
+        50,
+        69
+      ],
+      [
+        100,
+        70
+      ],
+      [
+        200,
+        71
+      ],
+      [
+        500,
+        73
+      ],
+      [
+        1000,
+        74
+      ],
+      [
+        2000,
+        76
+      ],
+      [
+        3000,
+        76
+      ],
+      [
+        4000,
+        77
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        72
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        64
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=superlux-hd668b",
+    "image": "/images/headphones/superlux-hd668b.jpg",
+    "verdict": "Superlux's entry-level over-ear headphone offering bright sound signature.",
+    "pros": [
+      "Analytical",
+      "Wide soundstage",
+      "Great resolution"
+    ],
+    "cons": [
+      "Bass light",
+      "Can be fatiguing"
+    ],
+    "resale_value_6m": 27,
+    "resale_value_1y": 21
+  },
+  {
+    "id": "jbl-live-770nc",
+    "name": "JBL Live 770NC",
+    "brand": "JBL",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 199,
+    "price_inr": 16400,
+    "signature": "V-Shaped",
+    "score": 81,
+    "impedance_ohm": 32,
+    "sensitivity_db": 102,
+    "freq_response": [
+      [
+        20,
+        72
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        76
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        68
+      ],
+      [
+        1000,
+        69
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        75
+      ],
+      [
+        8000,
+        70
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        53
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=jbl-live-770nc",
+    "image": "/images/headphones/jbl-live-770nc.jpg",
+    "verdict": "JBL's solid over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Crisp treble",
+      "Good for pop/EDM",
+      "Punchy bass"
+    ],
+    "cons": [
+      "Not for critical listening",
+      "Recessed mids"
+    ],
+    "resale_value_6m": 139,
+    "resale_value_1y": 109
+  },
+  {
+    "id": "skullcandy-crusher-evo",
+    "name": "Skullcandy Crusher Evo",
+    "brand": "Skullcandy",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 129,
+    "price_inr": 10600,
+    "signature": "V-Shaped",
+    "score": 76,
+    "impedance_ohm": 32,
+    "sensitivity_db": 100,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        73
+      ],
+      [
+        100,
+        71
+      ],
+      [
+        200,
+        69
+      ],
+      [
+        500,
+        70
+      ],
+      [
+        1000,
+        69
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        74
+      ],
+      [
+        4000,
+        75
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        71
+      ],
+      [
+        10000,
+        68
+      ],
+      [
+        15000,
+        62
+      ],
+      [
+        20000,
+        52
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=skullcandy-crusher-evo",
+    "image": "/images/headphones/skullcandy-crusher-evo.jpg",
+    "verdict": "Skullcandy's entry-level over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Fun to listen to",
+      "Good for pop/EDM",
+      "Crisp treble"
+    ],
+    "cons": [
+      "Can be fatiguing",
+      "Recessed mids"
+    ],
+    "resale_value_6m": 90,
+    "resale_value_1y": 71
+  },
+  {
+    "id": "anker-soundcore-q45",
+    "name": "Anker Soundcore Q45",
+    "brand": "Anker",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 99,
+    "price_inr": 8100,
+    "signature": "Neutral-Warm",
+    "score": 79,
+    "impedance_ohm": 32,
+    "sensitivity_db": 104,
+    "freq_response": [
+      [
+        20,
+        68
+      ],
+      [
+        30,
+        70
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        72
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        74
+      ],
+      [
+        1000,
+        75
+      ],
+      [
+        2000,
+        71
+      ],
+      [
+        3000,
+        73
+      ],
+      [
+        4000,
+        70
+      ],
+      [
+        5000,
+        70
+      ],
+      [
+        8000,
+        68
+      ],
+      [
+        10000,
+        66
+      ],
+      [
+        15000,
+        61
+      ],
+      [
+        20000,
+        56
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=anker-soundcore-q45",
+    "image": "/images/headphones/anker-soundcore-q45.jpg",
+    "verdict": "Anker's entry-level over-ear headphone offering neutral-warm sound signature.",
+    "pros": [
+      "Natural sound",
+      "Smooth",
+      "Great timbre"
+    ],
+    "cons": [
+      "Not the most detailed",
+      "Could have more bass"
+    ],
+    "resale_value_6m": 69,
+    "resale_value_1y": 54
+  },
+  {
+    "id": "apple-airpods-4-anc",
+    "name": "Apple AirPods 4 ANC",
+    "brand": "Apple",
+    "type": "TWS",
+    "driver": "Dynamic",
+    "price_usd": 179,
+    "price_inr": 14900,
+    "signature": "Neutral",
+    "score": 85,
+    "impedance_ohm": 32,
+    "sensitivity_db": 105,
+    "freq_response": [
+      [
+        20,
+        66
+      ],
+      [
+        30,
+        68
+      ],
+      [
+        50,
+        71
+      ],
+      [
+        100,
+        74
+      ],
+      [
+        200,
+        75
+      ],
+      [
+        500,
+        76
+      ],
+      [
+        1000,
+        73
+      ],
+      [
+        2000,
+        73
+      ],
+      [
+        3000,
+        72
+      ],
+      [
+        4000,
+        72
+      ],
+      [
+        5000,
+        72
+      ],
+      [
+        8000,
+        69
+      ],
+      [
+        10000,
+        65
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        58
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=apple-airpods-4-anc",
+    "image": "/images/headphones/apple-airpods-4-anc.jpg",
+    "verdict": "Apple's premium true wireless earbuds with neutral tuning.",
+    "pros": [
+      "Natural timbre",
+      "Accurate sound",
+      "Great for mixing"
+    ],
+    "cons": [
+      "Needs good source",
+      "Not exciting"
+    ],
+    "resale_value_6m": 125,
+    "resale_value_1y": 98
+  },
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro",
+    "brand": "Beats",
+    "type": "Over-Ear",
+    "driver": "Dynamic",
+    "price_usd": 349,
+    "price_inr": 38900,
+    "signature": "V-Shaped",
+    "score": 83,
+    "impedance_ohm": 48,
+    "sensitivity_db": 107,
+    "freq_response": [
+      [
+        20,
+        75
+      ],
+      [
+        30,
+        73
+      ],
+      [
+        50,
+        76
+      ],
+      [
+        100,
+        73
+      ],
+      [
+        200,
+        72
+      ],
+      [
+        500,
+        67
+      ],
+      [
+        1000,
+        66
+      ],
+      [
+        2000,
+        69
+      ],
+      [
+        3000,
+        71
+      ],
+      [
+        4000,
+        73
+      ],
+      [
+        5000,
+        74
+      ],
+      [
+        8000,
+        71
+      ],
+      [
+        10000,
+        67
+      ],
+      [
+        15000,
+        63
+      ],
+      [
+        20000,
+        54
+      ]
+    ],
+    "youtube_review_url": "https://youtube.com/watch?v=beats-studio-pro",
+    "image": "/images/headphones/beats-studio-pro.jpg",
+    "verdict": "Beats's solid over-ear headphone offering v-shaped sound signature.",
+    "pros": [
+      "Fun to listen to",
+      "Crisp treble",
+      "Good for pop/EDM"
+    ],
+    "cons": [
+      "Not for critical listening",
+      "Recessed mids"
+    ],
+    "resale_value_6m": 244,
+    "resale_value_1y": 192
+  }
+]
