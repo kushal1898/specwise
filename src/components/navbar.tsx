@@ -2,7 +2,7 @@
 
 import { Link, useLocation } from "react-router-dom"
 import { useState } from "react"
-import { Laptop, Smartphone, Headphones, Heart, Search, Menu, X, DollarSign, TrendingUp, User, LogOut } from "lucide-react"
+import { Laptop, Smartphone, Headphones, Heart, Search, Menu, X, DollarSign, IndianRupee, TrendingUp, User, LogOut } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { useSpecWise } from "@/lib/specwise-context"
 import { useAuth } from "@/lib/auth-context"
@@ -190,7 +190,7 @@ export function Navbar() {
             onClick={() => setCurrency(currency === "INR" ? "USD" : "INR")}
             className="hidden gap-1.5 text-xs font-medium sm:flex"
           >
-            <DollarSign className="h-4 w-4" />
+            {currency === "INR" ? <IndianRupee className="h-4 w-4" /> : <DollarSign className="h-4 w-4" />}
             {currency}
           </Button>
 
@@ -261,7 +261,7 @@ export function Navbar() {
                 onClick={() => setCurrency(currency === "INR" ? "USD" : "INR")}
                 className="flex-1"
               >
-                <DollarSign className="mr-2 h-4 w-4" />
+                {currency === "INR" ? <IndianRupee className="mr-2 h-4 w-4" /> : <DollarSign className="mr-2 h-4 w-4" />}
                 {currency === "INR" ? "Switch to USD" : "Switch to INR"}
               </Button>
             </div>

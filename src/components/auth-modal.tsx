@@ -44,13 +44,13 @@ export function AuthModal() {
         className="relative w-full max-w-md overflow-hidden rounded-[2rem] border border-white/10 bg-[#0A0A0A] p-8 shadow-[0_0_50px_-12px_rgba(59,130,246,0.3)] animate-in fade-in zoom-in-95 duration-300"
       >
         {/* Abstract Background Glow */}
-        <div className="absolute -top-24 -right-24 h-48 w-48 rounded-full bg-blue-500/10 blur-[80px]" />
-        <div className="absolute -bottom-24 -left-24 h-48 w-48 rounded-full bg-purple-500/10 blur-[80px]" />
+        <div className="pointer-events-none absolute -top-24 -right-24 h-48 w-48 rounded-full bg-blue-500/10 blur-[80px]" />
+        <div className="pointer-events-none absolute -bottom-24 -left-24 h-48 w-48 rounded-full bg-purple-500/10 blur-[80px]" />
 
         {/* Close */}
         <button
           onClick={handleClose}
-          className="absolute right-6 top-6 rounded-full bg-white/5 p-2 text-white/40 transition-all hover:bg-white/10 hover:text-white"
+          className="absolute right-6 top-6 z-50 rounded-full bg-white/5 p-2 text-white/40 transition-all hover:bg-white/10 hover:text-white cursor-pointer"
         >
           <X className="h-5 w-5" />
         </button>
