@@ -1,6 +1,6 @@
 import { useState, useMemo } from "react"
 import { Link } from "react-router-dom"
-import { Headphones, Heart, LineChart, Search } from "lucide-react"
+import { Headphones as HeadphonesIcon, Heart, LineChart, Search } from "lucide-react"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -346,7 +346,7 @@ export default function Headphones() {
 
         {filteredHeadphones.length === 0 && (
           <div className="py-16 text-center">
-            <Headphones className="mx-auto h-12 w-12 text-muted-foreground" />
+            <HeadphonesIcon className="mx-auto h-12 w-12 text-muted-foreground" />
             <p className="mt-4 text-lg font-medium">No headphones found</p>
             <p className="mt-2 text-muted-foreground">Try adjusting your filters</p>
           </div>
