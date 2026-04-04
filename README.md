@@ -1,2 +1,1 @@
 # specwise
-randi ka baccha
