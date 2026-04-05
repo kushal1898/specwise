@@ -8,7 +8,7 @@
     "price": 3499,
     "msrp": 3499,
     "releaseDate": "2023-11-07",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/macbook-pro-16-m3-max.jpg?v=2",
     "overallScore": 9.4,
     "scores": {
       "performance": 9.8,
@@ -54,7 +54,7 @@
     "price": 1999,
     "msrp": 1999,
     "releaseDate": "2023-11-07",
-    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "image": "/images/laptops/macbook-pro-14-m3-pro.jpg?v=2",
     "overallScore": 9.2,
     "scores": {
       "performance": 9.4,
@@ -99,7 +99,7 @@
     "price": 1299,
     "msrp": 1299,
     "releaseDate": "2024-03-04",
-    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "image": "/images/laptops/macbook-air-15-m3.jpg?v=2",
     "overallScore": 9,
     "scores": {
       "performance": 8.5,
@@ -144,7 +144,7 @@
     "price": 1099,
     "msrp": 1099,
     "releaseDate": "2024-03-04",
-    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "image": "/images/laptops/macbook-air-13-m3.jpg?v=2",
     "overallScore": 9.1,
     "scores": {
       "performance": 8.5,
@@ -190,7 +190,7 @@
     "price": 1899,
     "msrp": 1999,
     "releaseDate": "2023-04-15",
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "image": "/images/laptops/dell-xps-15-9530.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 9,
@@ -235,7 +235,7 @@
     "price": 1299,
     "msrp": 1399,
     "releaseDate": "2023-06-10",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "image": "/images/laptops/dell-xps-13-plus.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.3,
@@ -280,7 +280,7 @@
     "price": 1699,
     "msrp": 1799,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "image": "/images/laptops/dell-xps-14-2024.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 8.5,
@@ -325,7 +325,7 @@
     "price": 1399,
     "msrp": 1499,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800",
+    "image": "/images/laptops/dell-g16-gaming.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8.8,
@@ -370,7 +370,7 @@
     "price": 1199,
     "msrp": 1299,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "image": "/images/laptops/dell-inspiron-16-plus.jpg?v=2",
     "overallScore": 8.3,
     "scores": {
       "performance": 8.5,
@@ -415,7 +415,7 @@
     "price": 1599,
     "msrp": 1799,
     "releaseDate": "2023-04-01",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "image": "/images/laptops/dell-latitude-7440.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.2,
@@ -460,7 +460,7 @@
     "price": 1649,
     "msrp": 1849,
     "releaseDate": "2023-03-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/lenovo-thinkpad-x1-carbon-gen11.jpg?v=2",
     "overallScore": 9,
     "scores": {
       "performance": 8.5,
@@ -505,7 +505,7 @@
     "price": 2499,
     "msrp": 2699,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800",
+    "image": "/images/laptops/lenovo-legion-pro-7i.jpg?v=2",
     "overallScore": 9.2,
     "scores": {
       "performance": 9.6,
@@ -550,7 +550,7 @@
     "price": 1499,
     "msrp": 1699,
     "releaseDate": "2023-01-05",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/lenovo-yoga-9i-gen8.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 8.3,
@@ -594,7 +594,7 @@
     "price": 2499,
     "msrp": 2799,
     "releaseDate": "2023-04-01",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/lenovo-thinkpad-x1-extreme-gen5.jpg?v=2",
     "overallScore": 8.9,
     "scores": {
       "performance": 9.2,
@@ -639,7 +639,7 @@
     "price": 1199,
     "msrp": 1299,
     "releaseDate": "2023-09-01",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "image": "/images/laptops/lenovo-ideapad-pro-5.jpg?v=2",
     "overallScore": 8.3,
     "scores": {
       "performance": 8.3,
@@ -683,7 +683,7 @@
     "price": 849,
     "msrp": 949,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800",
+    "image": "/images/laptops/lenovo-loq-15.jpg?v=2",
     "overallScore": 7.9,
     "scores": {
       "performance": 8.2,
@@ -728,7 +728,7 @@
     "price": 1599,
     "msrp": 1799,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/lenovo-slim-7i-pro-x.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.8,
@@ -773,7 +773,7 @@
     "price": 1849,
     "msrp": 2049,
     "releaseDate": "2024-06-01",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/lenovo-thinkpad-x1-2in1-gen9.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 8.5,
@@ -817,7 +817,7 @@
     "price": 449,
     "msrp": 499,
     "releaseDate": "2024-03-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/lenovo-ideapad-slim-3-15.jpg?v=2",
     "overallScore": 7.5,
     "scores": {
       "performance": 7.3,
@@ -862,7 +862,7 @@
     "price": 1699,
     "msrp": 1899,
     "releaseDate": "2024-06-01",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "image": "/images/laptops/lenovo-thinkbook-16p-gen5.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.8,
@@ -906,7 +906,7 @@
     "price": 1599,
     "msrp": 1699,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "image": "/images/laptops/asus-rog-zephyrus-g14-2024.jpg?v=2",
     "overallScore": 9.1,
     "scores": {
       "performance": 9.3,
@@ -951,7 +951,7 @@
     "price": 3299,
     "msrp": 3499,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?w=800",
+    "image": "/images/laptops/asus-rog-strix-scar-18.jpg?v=2",
     "overallScore": 9.3,
     "scores": {
       "performance": 9.8,
@@ -996,7 +996,7 @@
     "price": 999,
     "msrp": 1099,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "image": "/images/laptops/asus-zenbook-14-oled.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.2,
@@ -1040,7 +1040,7 @@
     "price": 1299,
     "msrp": 1399,
     "releaseDate": "2023-08-01",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "image": "/images/laptops/asus-vivobook-pro-16-oled.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8.5,
@@ -1085,7 +1085,7 @@
     "price": 1099,
     "msrp": 1199,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "image": "/images/laptops/asus-tuf-gaming-a16.jpg?v=2",
     "overallScore": 8.3,
     "scores": {
       "performance": 8.5,
@@ -1130,7 +1130,7 @@
     "price": 2999,
     "msrp": 3299,
     "releaseDate": "2023-09-01",
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "image": "/images/laptops/asus-proart-studiobook-16-oled.jpg?v=2",
     "overallScore": 9,
     "scores": {
       "performance": 9.2,
@@ -1175,7 +1175,7 @@
     "price": 1799,
     "msrp": 1999,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/asus-rog-flow-z13.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8.5,
@@ -1220,7 +1220,7 @@
     "price": 2199,
     "msrp": 2399,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=800",
+    "image": "/images/laptops/asus-rog-flow-x16.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 9,
@@ -1264,7 +1264,7 @@
     "price": 1899,
     "msrp": 1999,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "image": "/images/laptops/asus-rog-zephyrus-g16-2025.jpg?v=2",
     "overallScore": 9.2,
     "scores": {
       "performance": 9.4,
@@ -1308,7 +1308,7 @@
     "price": 1999,
     "msrp": 2199,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "image": "/images/laptops/asus-zenbook-duo-2024.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.3,
@@ -1353,7 +1353,7 @@
     "price": 1099,
     "msrp": 1199,
     "releaseDate": "2024-06-01",
-    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "image": "/images/laptops/asus-vivobook-s-15-oled.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.5,
@@ -1397,7 +1397,7 @@
     "price": 1799,
     "msrp": 1999,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/asus-expertbook-b9-oled.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 8.3,
@@ -1441,7 +1441,7 @@
     "price": 499,
     "msrp": 549,
     "releaseDate": "2023-10-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/asus-chromebook-plus-cm34.jpg?v=2",
     "overallScore": 7.9,
     "scores": {
       "performance": 7.5,
@@ -1485,7 +1485,7 @@
     "price": 1649,
     "msrp": 1799,
     "releaseDate": "2023-05-20",
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "image": "/images/laptops/hp-spectre-x360-16.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 8.5,
@@ -1529,7 +1529,7 @@
     "price": 1799,
     "msrp": 1999,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "image": "/images/laptops/hp-omen-17.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 9,
@@ -1574,7 +1574,7 @@
     "price": 1449,
     "msrp": 1549,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/hp-envy-16.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.5,
@@ -1618,7 +1618,7 @@
     "price": 899,
     "msrp": 999,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/hp-pavilion-plus-14.jpg?v=2",
     "overallScore": 8.1,
     "scores": {
       "performance": 8,
@@ -1662,7 +1662,7 @@
     "price": 999,
     "msrp": 1099,
     "releaseDate": "2023-09-01",
-    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "image": "/images/laptops/hp-victus-16.jpg?v=2",
     "overallScore": 8,
     "scores": {
       "performance": 8.3,
@@ -1707,7 +1707,7 @@
     "price": 1699,
     "msrp": 1899,
     "releaseDate": "2023-04-01",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/hp-elitebook-840-g10.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.3,
@@ -1752,7 +1752,7 @@
     "price": 999,
     "msrp": 1099,
     "releaseDate": "2023-04-01",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=800",
+    "image": "/images/laptops/hp-dragonfly-pro-chromebook.jpg?v=2",
     "overallScore": 8.3,
     "scores": {
       "performance": 8,
@@ -1797,7 +1797,7 @@
     "price": 1699,
     "msrp": 1849,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "image": "/images/laptops/hp-omen-transcend-14.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 8.8,
@@ -1841,7 +1841,7 @@
     "price": 2199,
     "msrp": 2499,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/hp-elitebook-dragonfly-g4.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 8.2,
@@ -1885,7 +1885,7 @@
     "price": 4999,
     "msrp": 4999,
     "releaseDate": "2023-10-01",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/hp-spectre-fold-17.jpg?v=2",
     "overallScore": 8.3,
     "scores": {
       "performance": 7.8,
@@ -1930,7 +1930,7 @@
     "price": 899,
     "msrp": 999,
     "releaseDate": "2024-03-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/hp-probook-450-g11.jpg?v=2",
     "overallScore": 7.9,
     "scores": {
       "performance": 7.8,
@@ -1974,7 +1974,7 @@
     "price": 549,
     "msrp": 599,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "image": "/images/laptops/hp-laptop-15-2024.jpg?v=2",
     "overallScore": 7.6,
     "scores": {
       "performance": 7.5,
@@ -2018,7 +2018,7 @@
     "price": 299,
     "msrp": 349,
     "releaseDate": "2023-09-01",
-    "image": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=800",
+    "image": "/images/laptops/hp-stream-14.jpg?v=2",
     "overallScore": 6.5,
     "scores": {
       "performance": 5.5,
@@ -2063,7 +2063,7 @@
     "price": 2799,
     "msrp": 2999,
     "releaseDate": "2024-01-09",
-    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "image": "/images/laptops/razer-blade-16.jpg?v=2",
     "overallScore": 9,
     "scores": {
       "performance": 9.5,
@@ -2108,7 +2108,7 @@
     "price": 2199,
     "msrp": 2399,
     "releaseDate": "2024-01-09",
-    "image": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?w=800",
+    "image": "/images/laptops/razer-blade-14.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 9,
@@ -2152,7 +2152,7 @@
     "price": 3499,
     "msrp": 3699,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "image": "/images/laptops/razer-blade-18-2025.jpg?v=2",
     "overallScore": 9.2,
     "scores": {
       "performance": 9.6,
@@ -2197,7 +2197,7 @@
     "price": 1299,
     "msrp": 1299,
     "releaseDate": "2024-03-21",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=800",
+    "image": "/images/laptops/microsoft-surface-laptop-6.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.3,
@@ -2241,7 +2241,7 @@
     "price": 1499,
     "msrp": 1599,
     "releaseDate": "2024-03-21",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/microsoft-surface-pro-10.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8,
@@ -2285,7 +2285,7 @@
     "price": 1999,
     "msrp": 2199,
     "releaseDate": "2023-10-03",
-    "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=800",
+    "image": "/images/laptops/microsoft-surface-laptop-studio-2.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.5,
@@ -2330,7 +2330,7 @@
     "price": 579,
     "msrp": 649,
     "releaseDate": "2024-01-30",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/microsoft-surface-go-4.jpg?v=2",
     "overallScore": 7.2,
     "scores": {
       "performance": 6.5,
@@ -2375,7 +2375,7 @@
     "price": 2199,
     "msrp": 2399,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "image": "/images/laptops/acer-predator-helios-18.jpg?v=2",
     "overallScore": 8.9,
     "scores": {
       "performance": 9.4,
@@ -2420,7 +2420,7 @@
     "price": 849,
     "msrp": 899,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=800",
+    "image": "/images/laptops/acer-swift-go-14.jpg?v=2",
     "overallScore": 8.2,
     "scores": {
       "performance": 8,
@@ -2464,7 +2464,7 @@
     "price": 549,
     "msrp": 599,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1544731612-de7f96afe55f?w=800",
+    "image": "/images/laptops/acer-aspire-5.jpg?v=2",
     "overallScore": 7.8,
     "scores": {
       "performance": 7.5,
@@ -2509,7 +2509,7 @@
     "price": 649,
     "msrp": 699,
     "releaseDate": "2023-10-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/acer-chromebook-plus-516.jpg?v=2",
     "overallScore": 8,
     "scores": {
       "performance": 7.8,
@@ -2553,7 +2553,7 @@
     "price": 749,
     "msrp": 849,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "image": "/images/laptops/acer-nitro-v-15.jpg?v=2",
     "overallScore": 7.8,
     "scores": {
       "performance": 8,
@@ -2598,7 +2598,7 @@
     "price": 1199,
     "msrp": 1299,
     "releaseDate": "2024-06-01",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "image": "/images/laptops/acer-swift-x-14-2024.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8.5,
@@ -2642,7 +2642,7 @@
     "price": 1099,
     "msrp": 1199,
     "releaseDate": "2024-06-01",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/acer-spin-5-2024.jpg?v=2",
     "overallScore": 8.2,
     "scores": {
       "performance": 8,
@@ -2687,7 +2687,7 @@
     "price": 3299,
     "msrp": 3499,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "image": "/images/laptops/msi-stealth-18.jpg?v=2",
     "overallScore": 9,
     "scores": {
       "performance": 9.5,
@@ -2732,7 +2732,7 @@
     "price": 2799,
     "msrp": 2999,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/msi-creator-z17.jpg?v=2",
     "overallScore": 8.9,
     "scores": {
       "performance": 9.2,
@@ -2777,7 +2777,7 @@
     "price": 799,
     "msrp": 899,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "image": "/images/laptops/msi-thin-gf63.jpg?v=2",
     "overallScore": 7.7,
     "scores": {
       "performance": 7.8,
@@ -2822,7 +2822,7 @@
     "price": 1299,
     "msrp": 1399,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/msi-prestige-16-evo.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8.2,
@@ -2866,7 +2866,7 @@
     "price": 1299,
     "msrp": 1399,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "image": "/images/laptops/msi-katana-17-2024.jpg?v=2",
     "overallScore": 8.2,
     "scores": {
       "performance": 8.5,
@@ -2911,7 +2911,7 @@
     "price": 1799,
     "msrp": 1999,
     "releaseDate": "2023-09-01",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/msi-summit-e16-flip.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.5,
@@ -2955,7 +2955,7 @@
     "price": 1399,
     "msrp": 1399,
     "releaseDate": "2024-02-01",
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "image": "/images/laptops/framework-laptop-16.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.8,
@@ -3000,7 +3000,7 @@
     "price": 1049,
     "msrp": 1049,
     "releaseDate": "2023-07-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/framework-laptop-13.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8.2,
@@ -3045,7 +3045,7 @@
     "price": 1699,
     "msrp": 1799,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/lg-gram-17-2024.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8,
@@ -3090,7 +3090,7 @@
     "price": 1999,
     "msrp": 2199,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/lg-gram-pro-16-2024.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 8.5,
@@ -3135,7 +3135,7 @@
     "price": 1899,
     "msrp": 1999,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/lg-gram-style-16-2024.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.2,
@@ -3180,7 +3180,7 @@
     "price": 2399,
     "msrp": 2599,
     "releaseDate": "2024-01-17",
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "image": "/images/laptops/samsung-galaxy-book4-ultra.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 9,
@@ -3225,7 +3225,7 @@
     "price": 1649,
     "msrp": 1799,
     "releaseDate": "2024-01-17",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/samsung-galaxy-book4-pro-360.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.3,
@@ -3270,7 +3270,7 @@
     "price": 1449,
     "msrp": 1599,
     "releaseDate": "2024-01-17",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/samsung-galaxy-book4-pro.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.3,
@@ -3314,7 +3314,7 @@
     "price": 699,
     "msrp": 749,
     "releaseDate": "2024-01-17",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/samsung-galaxy-chromebook-plus.jpg?v=2",
     "overallScore": 8.1,
     "scores": {
       "performance": 7.8,
@@ -3358,7 +3358,7 @@
     "price": 2499,
     "msrp": 2699,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "image": "/images/laptops/gigabyte-aorus-17x.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 9.4,
@@ -3403,7 +3403,7 @@
     "price": 949,
     "msrp": 1049,
     "releaseDate": "2023-04-01",
-    "image": "https://images.unsplash.com/photo-1600861194942-f883de0dfe96?w=800",
+    "image": "/images/laptops/gigabyte-g5-2023.jpg?v=2",
     "overallScore": 7.9,
     "scores": {
       "performance": 8.2,
@@ -3448,7 +3448,7 @@
     "price": 2199,
     "msrp": 2399,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "image": "/images/laptops/gigabyte-aero-16-2024.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 9,
@@ -3493,7 +3493,7 @@
     "price": 2999,
     "msrp": 3299,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "image": "/images/laptops/alienware-m18-r2.jpg?v=2",
     "overallScore": 9.1,
     "scores": {
       "performance": 9.6,
@@ -3538,7 +3538,7 @@
     "price": 2399,
     "msrp": 2599,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "image": "/images/laptops/alienware-x16-r2.jpg?v=2",
     "overallScore": 8.9,
     "scores": {
       "performance": 9.3,
@@ -3583,7 +3583,7 @@
     "price": 1799,
     "msrp": 1999,
     "releaseDate": "2024-01-08",
-    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800",
+    "image": "/images/laptops/alienware-x14-r2.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.6,
@@ -3628,7 +3628,7 @@
     "price": 3299,
     "msrp": 3699,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "image": "/images/laptops/dell-precision-5680.jpg?v=2",
     "overallScore": 9,
     "scores": {
       "performance": 9.4,
@@ -3673,7 +3673,7 @@
     "price": 2899,
     "msrp": 3299,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "image": "/images/laptops/hp-zbook-studio-g10.jpg?v=2",
     "overallScore": 8.9,
     "scores": {
       "performance": 9.3,
@@ -3718,7 +3718,7 @@
     "price": 2799,
     "msrp": 3199,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800",
+    "image": "/images/laptops/lenovo-thinkpad-p1-gen6.jpg?v=3",
     "overallScore": 8.8,
     "scores": {
       "performance": 9.2,
@@ -3762,7 +3762,7 @@
     "price": 999,
     "msrp": 1099,
     "releaseDate": "2024-03-01",
-    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800",
+    "image": "/images/laptops/dell-vostro-16-5640.jpg?v=2",
     "overallScore": 7.9,
     "scores": {
       "performance": 7.8,
@@ -3806,7 +3806,7 @@
     "price": 1449,
     "msrp": 1599,
     "releaseDate": "2024-06-01",
-    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800",
+    "image": "/images/laptops/lenovo-thinkpad-t14s-gen5.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.3,
@@ -3850,7 +3850,7 @@
     "price": 449,
     "msrp": 499,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/lenovo-chromebook-duet-5.jpg?v=2",
     "overallScore": 7.8,
     "scores": {
       "performance": 7.2,
@@ -3895,7 +3895,7 @@
     "price": 1999,
     "msrp": 2199,
     "releaseDate": "2023-06-01",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/lenovo-yoga-book-9i.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8,
@@ -3940,7 +3940,7 @@
     "price": 749,
     "msrp": 849,
     "releaseDate": "2024-03-01",
-    "image": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?w=800",
+    "image": "/images/laptops/dell-inspiron-14-2in1.jpg?v=2",
     "overallScore": 7.8,
     "scores": {
       "performance": 7.5,
@@ -3984,7 +3984,7 @@
     "price": 3199,
     "msrp": 3199,
     "releaseDate": "2024-11-07",
-    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+    "image": "/images/laptops/apple-macbook-pro-14-m4-max.jpg?v=2",
     "overallScore": 9.5,
     "scores": {
       "performance": 9.8,
@@ -4028,7 +4028,7 @@
     "price": 2499,
     "msrp": 2499,
     "releaseDate": "2024-11-07",
-    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "image": "/images/laptops/apple-macbook-pro-16-m4-pro.jpg?v=2",
     "overallScore": 9.3,
     "scores": {
       "performance": 9.5,
@@ -4072,7 +4072,7 @@
     "price": 1599,
     "msrp": 1699,
     "releaseDate": "2024-06-01",
-    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800",
+    "image": "/images/laptops/acer-predator-triton-14.jpg?v=2",
     "overallScore": 8.6,
     "scores": {
       "performance": 8.8,
@@ -4116,7 +4116,7 @@
     "price": 899,
     "msrp": 999,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=800",
+    "image": "/images/laptops/msi-claw-8-ai-plus.jpg?v=2",
     "overallScore": 7.8,
     "scores": {
       "performance": 8,
@@ -4161,7 +4161,7 @@
     "price": 1399,
     "msrp": 1499,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800",
+    "image": "/images/laptops/samsung-galaxy-book5-pro.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 8.3,
@@ -4205,7 +4205,7 @@
     "price": 1299,
     "msrp": 1399,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "image": "/images/laptops/lg-gram-14-2025.jpg?v=2",
     "overallScore": 8.4,
     "scores": {
       "performance": 8,
@@ -4249,7 +4249,7 @@
     "price": 2199,
     "msrp": 2399,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800",
+    "image": "/images/laptops/dell-xps-16-2025.jpg?v=2",
     "overallScore": 8.8,
     "scores": {
       "performance": 9,
@@ -4294,7 +4294,7 @@
     "price": 1699,
     "msrp": 1899,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
+    "image": "/images/laptops/hp-omen-16-2025.jpg?v=2",
     "overallScore": 8.7,
     "scores": {
       "performance": 9,
@@ -4339,7 +4339,7 @@
     "price": 799,
     "msrp": 899,
     "releaseDate": "2025-01-06",
-    "image": "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800",
+    "image": "/images/laptops/lenovo-legion-go-2.jpg?v=2",
     "overallScore": 7.9,
     "scores": {
       "performance": 8,
@@ -4383,7 +4383,7 @@
     "price": 899,
     "msrp": 999,
     "releaseDate": "2025-03-01",
-    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=800",
+    "image": "/images/laptops/asus-zenbook-a14-2025.jpg?v=2",
     "overallScore": 8.5,
     "scores": {
       "performance": 8.2,
@@ -4428,7 +4428,7 @@
     "price": 1099,
     "msrp": 1099,
     "releaseDate": "2025-03-12",
-    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800",
+    "image": "/images/laptops/apple-macbook-air-m4.jpg?v=2",
     "overallScore": 9.2,
     "scores": {
       "performance": 8.8,
