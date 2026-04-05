@@ -77,7 +77,7 @@ export function RecentlyReviewed() {
                           <div className="min-w-0 flex-1">
                             <p className="truncate font-display text-lg font-bold tracking-tight">{item.name}</p>
                             <p className="mt-1 text-sm font-black text-muted-foreground/50">
-                              {'price_inr' in item ? formatPrice(item.price_inr, (item as any).price_usd) : `$${(item as any).price.toLocaleString()}`}
+                              {formatPrice((item as any).price_inr || ((item as any).price * 83), (item as any).price_usd || (item as any).price)}
                             </p>
                           </div>
                           <div className="shrink-0 transition-transform group-hover:scale-110">

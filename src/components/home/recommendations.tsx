@@ -124,7 +124,7 @@ export function Recommendations() {
                       <div>
                         <p className="text-[10px] font-black uppercase tracking-widest text-muted-foreground/30">Target Value</p>
                         <p className="mt-1 font-display text-3xl font-black">
-                          {'price' in item ? `$${item.price.toLocaleString()}` : formatPrice(item.price_inr, item.price_usd)}
+                          {formatPrice(item.price_inr || (item.price * 83), item.price_usd || item.price)}
                         </p>
                       </div>
                       <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-white/5 border border-white/10 text-white/40 transition-all group-hover:bg-yellow-500 group-hover:text-black group-hover:border-yellow-500 group-hover:rotate-45">

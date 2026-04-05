@@ -12,16 +12,26 @@ import { useSpecWise } from "@/lib/specwise-context"
 import { cn } from "@/lib/utils"
 import laptopsData from "@/data/laptops.json"
 
-const budgetFilters = [
-  { label: "All", value: "all" },
-  { label: "Under $1000", value: "under-1000" },
-  { label: "Under $1500", value: "under-1500" },
-  { label: "$2000+", value: "over-2000" },
-]
+const getBudgetFilters = (currency: string) => {
+  if (currency === "INR") {
+    return [
+      { label: "All", value: "all" },
+      { label: "Under ₹83,000", value: "under-1000" },
+      { label: "Under ₹1,25,000", value: "under-1500" },
+      { label: "₹1,66,000+", value: "over-2000" },
+    ]
+  }
+  return [
+    { label: "All", value: "all" },
+    { label: "Under $1000", value: "under-1000" },
+    { label: "Under $1500", value: "under-1500" },
+    { label: "$2000+", value: "over-2000" },
+  ]
+}
 
 export function TopPicks() {
   const [activeFilter, setActiveFilter] = useState("all")
-  const { currency } = useSpecWise()
+  const { currency, formatPrice } = useSpecWise()
 
   const filteredLaptops = laptopsData
     .filter((laptop) => {
@@ -81,7 +91,7 @@ export function TopPicks() {
           viewport={{ once: true }}
           className="mb-12 flex flex-wrap gap-3"
         >
-          {budgetFilters.map((filter) => (
+          {getBudgetFilters(currency).map((filter) => (
             <button
               key={filter.value}
               onClick={() => setActiveFilter(filter.value)}
@@ -134,7 +144,7 @@ export function TopPicks() {
                         <div>
                           <p className="text-xs font-bold uppercase tracking-widest text-muted-foreground/60">Starting At</p>
                           <p className="font-display text-3xl font-black tracking-tighter">
-                            ${laptop.price.toLocaleString()}
+                            {formatPrice(laptop.price_inr, laptop.price_usd)}
                           </p>
                         </div>
                         <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-primary/10 text-primary backdrop-blur-md transition-all group-hover:bg-primary group-hover:text-primary-foreground">
