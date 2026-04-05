@@ -5,6 +5,7 @@ import { WhySpecWise } from "@/components/home/why-specwise"
 import { RecentlyReviewed } from "@/components/home/recently-reviewed"
 import { Recommendations } from "@/components/home/recommendations"
 import { LiveTechDeals } from "@/components/home/live-tech-deals"
+import { GlassFooter } from "@/components/home/glass-footer"
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <LiveTechDeals />
       <WhySpecWise />
       <RecentlyReviewed />
+      <GlassFooter />
     </>
   )
 }
