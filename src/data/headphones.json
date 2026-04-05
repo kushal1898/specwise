@@ -74,7 +74,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone1",
-    "image": "/images/headphones/moondrop-aria-2.jpg",
+    "image": "/images/headphones/moondrop-aria-2.jpg?v=2",
     "verdict": "An excellent entry-level IEM with refined tuning and premium build quality.",
     "pros": [
       "Great tuning",
@@ -163,7 +163,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone2",
-    "image": "/images/headphones/moondrop-kato.jpg",
+    "image": "/images/headphones/moondrop-kato.jpg?v=2",
     "verdict": "A step up from Aria with better technicalities and swappable nozzles.",
     "pros": [
       "Excellent detail",
@@ -252,7 +252,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone3",
-    "image": "/images/headphones/7hz-salnotes-zero.jpg",
+    "image": "/images/headphones/7hz-salnotes-zero.jpg?v=2",
     "verdict": "The budget king that punches way above its price point with excellent tuning.",
     "pros": [
       "Incredible value",
@@ -341,7 +341,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone4",
-    "image": "/images/headphones/truthear-hexa.jpg",
+    "image": "/images/headphones/truthear-hexa.jpg?v=2",
     "verdict": "A hybrid IEM with excellent bass response and energetic sound signature.",
     "pros": [
       "Great bass",
@@ -430,7 +430,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone5",
-    "image": "/images/headphones/letshuoer-s12-pro.jpg",
+    "image": "/images/headphones/letshuoer-s12-pro.jpg?v=2",
     "verdict": "A planar magnetic IEM with incredible detail retrieval and lightning-fast transients.",
     "pros": [
       "Planar speed",
@@ -519,7 +519,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone6",
-    "image": "/images/headphones/sony-wh-1000xm5.jpg",
+    "image": "/images/headphones/sony-wh-1000xm5.jpg?v=2",
     "verdict": "The gold standard for wireless ANC headphones with exceptional comfort and sound.",
     "pros": [
       "Best-in-class ANC",
@@ -610,7 +610,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone7",
-    "image": "/images/headphones/bose-qc45.jpg",
+    "image": "/images/headphones/bose-qc45.jpg?v=2",
     "verdict": "Legendary Bose comfort with excellent noise cancellation and balanced sound.",
     "pros": [
       "Incredible comfort",
@@ -700,7 +700,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone8",
-    "image": "/images/headphones/sennheiser-hd-560s.jpg",
+    "image": "/images/headphones/sennheiser-hd-560s.jpg?v=2",
     "verdict": "A reference-grade open-back headphone perfect for critical listening and mixing.",
     "pros": [
       "Neutral tuning",
@@ -791,7 +791,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone9",
-    "image": "/images/headphones/apple-airpods-pro-2.jpg",
+    "image": "/images/headphones/apple-airpods-pro-2.jpg?v=2",
     "verdict": "The best TWS for Apple users with excellent ANC, transparency, and seamless integration.",
     "pros": [
       "Excellent ANC",
@@ -882,7 +882,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone10",
-    "image": "/images/headphones/nothing-ear-2.jpg",
+    "image": "/images/headphones/nothing-ear-2.jpg?v=2",
     "verdict": "Stylish TWS with unique design, good ANC, and customizable sound profiles.",
     "pros": [
       "Unique design",
@@ -973,7 +973,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone11",
-    "image": "/images/headphones/hifiman-sundara.jpg",
+    "image": "/images/headphones/hifiman-sundara.jpg?v=2",
     "verdict": "The entry into planar magnetic bliss with exceptional clarity and speed.",
     "pros": [
       "Planar detail",
@@ -1064,7 +1064,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone12",
-    "image": "/images/headphones/beyerdynamic-dt-900-pro-x.jpg",
+    "image": "/images/headphones/beyerdynamic-dt-900-pro-x.jpg?v=2",
     "verdict": "Professional studio headphones with detailed sound and legendary Beyerdynamic build.",
     "pros": [
       "Detailed sound",
@@ -1155,7 +1155,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone13",
-    "image": "/images/headphones/kz-zs10-pro.jpg",
+    "image": "/images/headphones/kz-zs10-pro.jpg?v=2",
     "verdict": "A budget hybrid IEM with lots of bass and treble energy for bass heads.",
     "pros": [
       "Lots of bass",
@@ -1246,7 +1246,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone14",
-    "image": "/images/headphones/fiio-fh5s.jpg",
+    "image": "/images/headphones/fiio-fh5s.jpg?v=2",
     "verdict": "A premium hybrid IEM with excellent tuning switches and audiophile-grade sound.",
     "pros": [
       "Tuning switches",
@@ -1337,7 +1337,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=headphone15",
-    "image": "/images/headphones/sennheiser-ie-600.jpg",
+    "image": "/images/headphones/sennheiser-ie-600.jpg?v=2",
     "verdict": "Sennheiser's flagship single-dynamic IEM with exceptional resolution and natural timbre.",
     "pros": [
       "Exceptional detail",
@@ -1428,7 +1428,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=moondrop-blessing-3",
-    "image": "/images/headphones/moondrop-blessing-3.jpg",
+    "image": "/images/headphones/moondrop-blessing-3.jpg?v=2",
     "verdict": "A flagship IEM from Moondrop with neutral tuning and hybrid driver technology.",
     "pros": [
       "Accurate sound",
@@ -1517,7 +1517,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=moondrop-chu-2",
-    "image": "/images/headphones/moondrop-chu-2.jpg",
+    "image": "/images/headphones/moondrop-chu-2.jpg?v=2",
     "verdict": "A budget IEM from Moondrop with neutral-warm tuning and dynamic driver technology.",
     "pros": [
       "Smooth",
@@ -1606,7 +1606,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=truthear-zero-red",
-    "image": "/images/headphones/truthear-zero-red.jpg",
+    "image": "/images/headphones/truthear-zero-red.jpg?v=2",
     "verdict": "A mid-tier IEM from Truthear with neutral-warm tuning and hybrid driver technology.",
     "pros": [
       "Smooth",
@@ -1695,7 +1695,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=truthear-nova",
-    "image": "/images/headphones/truthear-nova.jpg",
+    "image": "/images/headphones/truthear-nova.jpg?v=2",
     "verdict": "A flagship IEM from Truthear with neutral tuning and hybrid driver technology.",
     "pros": [
       "Balanced response",
@@ -1784,7 +1784,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=7hz-timeless-ae",
-    "image": "/images/headphones/7hz-timeless-ae.jpg",
+    "image": "/images/headphones/7hz-timeless-ae.jpg?v=2",
     "verdict": "A mid-tier IEM from 7Hz with neutral tuning and planar driver technology.",
     "pros": [
       "Great for mixing",
@@ -1873,7 +1873,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=simgot-ea500lm",
-    "image": "/images/headphones/simgot-ea500lm.jpg",
+    "image": "/images/headphones/simgot-ea500lm.jpg?v=2",
     "verdict": "A mid-tier IEM from Simgot with warm tuning and dynamic driver technology.",
     "pros": [
       "Non-fatiguing",
@@ -1962,7 +1962,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=tangzu-wan-er",
-    "image": "/images/headphones/tangzu-wan-er.jpg",
+    "image": "/images/headphones/tangzu-wan-er.jpg?v=2",
     "verdict": "A budget IEM from Tangzu with neutral-warm tuning and dynamic driver technology.",
     "pros": [
       "Versatile",
@@ -2051,7 +2051,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=kz-zst-x",
-    "image": "/images/headphones/kz-zst-x.jpg",
+    "image": "/images/headphones/kz-zst-x.jpg?v=2",
     "verdict": "A budget IEM from KZ with v-shaped tuning and hybrid driver technology.",
     "pros": [
       "Exciting sound",
@@ -2140,7 +2140,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-ie-200",
-    "image": "/images/headphones/sennheiser-ie-200.jpg",
+    "image": "/images/headphones/sennheiser-ie-200.jpg?v=2",
     "verdict": "A mid-tier IEM from Sennheiser with neutral tuning and dynamic driver technology.",
     "pros": [
       "Natural timbre",
@@ -2229,7 +2229,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-ie-300",
-    "image": "/images/headphones/sennheiser-ie-300.jpg",
+    "image": "/images/headphones/sennheiser-ie-300.jpg?v=2",
     "verdict": "A flagship IEM from Sennheiser with neutral-warm tuning and dynamic driver technology.",
     "pros": [
       "Natural sound",
@@ -2318,7 +2318,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=shure-se846",
-    "image": "/images/headphones/shure-se846.jpg",
+    "image": "/images/headphones/shure-se846.jpg?v=2",
     "verdict": "A flagship IEM from Shure with warm tuning and balanced armature driver technology.",
     "pros": [
       "Musical sound",
@@ -2407,7 +2407,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=shure-se215",
-    "image": "/images/headphones/shure-se215.jpg",
+    "image": "/images/headphones/shure-se215.jpg?v=2",
     "verdict": "A mid-tier IEM from Shure with warm tuning and dynamic driver technology.",
     "pros": [
       "Musical sound",
@@ -2496,7 +2496,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=shure-aonic-5",
-    "image": "/images/headphones/shure-aonic-5.jpg",
+    "image": "/images/headphones/shure-aonic-5.jpg?v=2",
     "verdict": "A mid-tier IEM from Shure with neutral tuning and balanced armature driver technology.",
     "pros": [
       "Versatile",
@@ -2585,7 +2585,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=campfire-andromeda-2023",
-    "image": "/images/headphones/campfire-andromeda-2023.jpg",
+    "image": "/images/headphones/campfire-andromeda-2023.jpg?v=2",
     "verdict": "A flagship IEM from Campfire Audio with bright tuning and balanced armature driver technology.",
     "pros": [
       "Airy sound",
@@ -2674,7 +2674,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=campfire-honeydew",
-    "image": "/images/headphones/campfire-honeydew.jpg",
+    "image": "/images/headphones/campfire-honeydew.jpg?v=2",
     "verdict": "A mid-tier IEM from Campfire Audio with warm tuning and dynamic driver technology.",
     "pros": [
       "Smooth treble",
@@ -2763,7 +2763,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=dunu-vulkan",
-    "image": "/images/headphones/dunu-vulkan.jpg",
+    "image": "/images/headphones/dunu-vulkan.jpg?v=2",
     "verdict": "A flagship IEM from Dunu with neutral-warm tuning and hybrid driver technology.",
     "pros": [
       "Natural sound",
@@ -2852,7 +2852,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=tin-hifi-t3-plus",
-    "image": "/images/headphones/tin-hifi-t3-plus.jpg",
+    "image": "/images/headphones/tin-hifi-t3-plus.jpg?v=2",
     "verdict": "A mid-tier IEM from Tin HiFi with neutral-warm tuning and dynamic driver technology.",
     "pros": [
       "Non-fatiguing",
@@ -2941,7 +2941,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=etymotic-er2xr",
-    "image": "/images/headphones/etymotic-er2xr.jpg",
+    "image": "/images/headphones/etymotic-er2xr.jpg?v=2",
     "verdict": "A mid-tier IEM from Etymotic with neutral-warm tuning and dynamic driver technology.",
     "pros": [
       "Non-fatiguing",
@@ -3030,7 +3030,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=etymotic-er4xr",
-    "image": "/images/headphones/etymotic-er4xr.jpg",
+    "image": "/images/headphones/etymotic-er4xr.jpg?v=2",
     "verdict": "A flagship IEM from Etymotic with neutral tuning and balanced armature driver technology.",
     "pros": [
       "Versatile",
@@ -3119,7 +3119,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=fiio-fd5",
-    "image": "/images/headphones/fiio-fd5.jpg",
+    "image": "/images/headphones/fiio-fd5.jpg?v=2",
     "verdict": "A mid-tier IEM from FiiO with v-shaped tuning and dynamic driver technology.",
     "pros": [
       "Crisp treble",
@@ -3208,7 +3208,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=final-a4000",
-    "image": "/images/headphones/final-a4000.jpg",
+    "image": "/images/headphones/final-a4000.jpg?v=2",
     "verdict": "A mid-tier IEM from Final with bright tuning and dynamic driver technology.",
     "pros": [
       "Analytical",
@@ -3297,7 +3297,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=thieaudio-monarch-mk3",
-    "image": "/images/headphones/thieaudio-monarch-mk3.jpg",
+    "image": "/images/headphones/thieaudio-monarch-mk3.jpg?v=2",
     "verdict": "A flagship IEM from ThieAudio with neutral tuning and hybrid driver technology.",
     "pros": [
       "Balanced response",
@@ -3386,7 +3386,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=yanyin-canon-2",
-    "image": "/images/headphones/yanyin-canon-2.jpg",
+    "image": "/images/headphones/yanyin-canon-2.jpg?v=2",
     "verdict": "A mid-tier IEM from Yanyin with v-shaped tuning and hybrid driver technology.",
     "pros": [
       "Punchy bass",
@@ -3475,7 +3475,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-600",
-    "image": "/images/headphones/sennheiser-hd-600.jpg",
+    "image": "/images/headphones/sennheiser-hd-600.jpg?v=2",
     "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Natural timbre",
@@ -3564,7 +3564,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-650",
-    "image": "/images/headphones/sennheiser-hd-650.jpg",
+    "image": "/images/headphones/sennheiser-hd-650.jpg?v=2",
     "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Great timbre",
@@ -3653,7 +3653,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-660s2",
-    "image": "/images/headphones/sennheiser-hd-660s2.jpg",
+    "image": "/images/headphones/sennheiser-hd-660s2.jpg?v=2",
     "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Accurate sound",
@@ -3742,7 +3742,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-hd-800s",
-    "image": "/images/headphones/sennheiser-hd-800s.jpg",
+    "image": "/images/headphones/sennheiser-hd-800s.jpg?v=2",
     "verdict": "Sennheiser's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Natural timbre",
@@ -3831,7 +3831,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-momentum-4",
-    "image": "/images/headphones/sennheiser-momentum-4.jpg",
+    "image": "/images/headphones/sennheiser-momentum-4.jpg?v=2",
     "verdict": "Sennheiser's solid over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Non-fatiguing",
@@ -3920,7 +3920,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=beyerdynamic-dt-770-pro",
-    "image": "/images/headphones/beyerdynamic-dt-770-pro.jpg",
+    "image": "/images/headphones/beyerdynamic-dt-770-pro.jpg?v=2",
     "verdict": "Beyerdynamic's solid over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Crisp treble",
@@ -4009,7 +4009,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=beyerdynamic-dt-990-pro",
-    "image": "/images/headphones/beyerdynamic-dt-990-pro.jpg",
+    "image": "/images/headphones/beyerdynamic-dt-990-pro.jpg?v=2",
     "verdict": "Beyerdynamic's solid over-ear headphone offering bright sound signature.",
     "pros": [
       "Great resolution",
@@ -4098,7 +4098,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=audio-technica-m50x",
-    "image": "/images/headphones/audio-technica-m50x.jpg",
+    "image": "/images/headphones/audio-technica-m50x.jpg?v=2",
     "verdict": "Audio-Technica's solid over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Exciting sound",
@@ -4187,7 +4187,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=audio-technica-r70x",
-    "image": "/images/headphones/audio-technica-r70x.jpg",
+    "image": "/images/headphones/audio-technica-r70x.jpg?v=2",
     "verdict": "Audio-Technica's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Natural timbre",
@@ -4276,7 +4276,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=audio-technica-adx5000",
-    "image": "/images/headphones/audio-technica-adx5000.jpg",
+    "image": "/images/headphones/audio-technica-adx5000.jpg?v=2",
     "verdict": "Audio-Technica's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Balanced response",
@@ -4365,7 +4365,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=akg-k712-pro",
-    "image": "/images/headphones/akg-k712-pro.jpg",
+    "image": "/images/headphones/akg-k712-pro.jpg?v=2",
     "verdict": "AKG's solid over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Smooth",
@@ -4454,7 +4454,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=akg-k371",
-    "image": "/images/headphones/akg-k371.jpg",
+    "image": "/images/headphones/akg-k371.jpg?v=2",
     "verdict": "AKG's solid over-ear headphone offering neutral sound signature.",
     "pros": [
       "Natural timbre",
@@ -4543,7 +4543,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=akg-k240-studio",
-    "image": "/images/headphones/akg-k240-studio.jpg",
+    "image": "/images/headphones/akg-k240-studio.jpg?v=2",
     "verdict": "AKG's entry-level over-ear headphone offering neutral sound signature.",
     "pros": [
       "Versatile",
@@ -4632,7 +4632,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=hifiman-edition-xs",
-    "image": "/images/headphones/hifiman-edition-xs.jpg",
+    "image": "/images/headphones/hifiman-edition-xs.jpg?v=2",
     "verdict": "HiFiMAN's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Versatile",
@@ -4721,7 +4721,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=hifiman-ananda",
-    "image": "/images/headphones/hifiman-ananda.jpg",
+    "image": "/images/headphones/hifiman-ananda.jpg?v=2",
     "verdict": "HiFiMAN's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Accurate sound",
@@ -4810,7 +4810,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=hifiman-he400se",
-    "image": "/images/headphones/hifiman-he400se.jpg",
+    "image": "/images/headphones/hifiman-he400se.jpg?v=2",
     "verdict": "HiFiMAN's solid over-ear headphone offering neutral sound signature.",
     "pros": [
       "Natural timbre",
@@ -4899,7 +4899,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=hifiman-arya-stealth",
-    "image": "/images/headphones/hifiman-arya-stealth.jpg",
+    "image": "/images/headphones/hifiman-arya-stealth.jpg?v=2",
     "verdict": "HiFiMAN's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Accurate sound",
@@ -4988,7 +4988,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=focal-clear-mg",
-    "image": "/images/headphones/focal-clear-mg.jpg",
+    "image": "/images/headphones/focal-clear-mg.jpg?v=2",
     "verdict": "Focal's reference-grade over-ear headphone offering neutral sound signature.",
     "pros": [
       "Balanced response",
@@ -5077,7 +5077,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=focal-celestee",
-    "image": "/images/headphones/focal-celestee.jpg",
+    "image": "/images/headphones/focal-celestee.jpg?v=2",
     "verdict": "Focal's reference-grade over-ear headphone offering warm sound signature.",
     "pros": [
       "Smooth treble",
@@ -5166,7 +5166,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=focal-elegia",
-    "image": "/images/headphones/focal-elegia.jpg",
+    "image": "/images/headphones/focal-elegia.jpg?v=2",
     "verdict": "Focal's solid over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Non-fatiguing",
@@ -5255,7 +5255,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=dan-clark-aeon-2-noire",
-    "image": "/images/headphones/dan-clark-aeon-2-noire.jpg",
+    "image": "/images/headphones/dan-clark-aeon-2-noire.jpg?v=2",
     "verdict": "Dan Clark Audio's reference-grade over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Great timbre",
@@ -5344,7 +5344,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=meze-109-pro",
-    "image": "/images/headphones/meze-109-pro.jpg",
+    "image": "/images/headphones/meze-109-pro.jpg?v=2",
     "verdict": "Meze's reference-grade over-ear headphone offering warm sound signature.",
     "pros": [
       "Rich bass",
@@ -5433,7 +5433,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=meze-99-classics",
-    "image": "/images/headphones/meze-99-classics.jpg",
+    "image": "/images/headphones/meze-99-classics.jpg?v=2",
     "verdict": "Meze's solid over-ear headphone offering warm sound signature.",
     "pros": [
       "Musical sound",
@@ -5522,7 +5522,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=grado-sr325x",
-    "image": "/images/headphones/grado-sr325x.jpg",
+    "image": "/images/headphones/grado-sr325x.jpg?v=2",
     "verdict": "Grado's solid over-ear headphone offering bright sound signature.",
     "pros": [
       "Wide soundstage",
@@ -5611,7 +5611,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=grado-sr80x",
-    "image": "/images/headphones/grado-sr80x.jpg",
+    "image": "/images/headphones/grado-sr80x.jpg?v=2",
     "verdict": "Grado's solid over-ear headphone offering bright sound signature.",
     "pros": [
       "Great resolution",
@@ -5700,7 +5700,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=philips-shp9500",
-    "image": "/images/headphones/philips-shp9500.jpg",
+    "image": "/images/headphones/philips-shp9500.jpg?v=2",
     "verdict": "Philips's solid over-ear headphone offering neutral sound signature.",
     "pros": [
       "Balanced response",
@@ -5789,7 +5789,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sony-wh-1000xm4",
-    "image": "/images/headphones/sony-wh-1000xm4.jpg",
+    "image": "/images/headphones/sony-wh-1000xm4.jpg?v=2",
     "verdict": "Sony's solid over-ear headphone offering warm sound signature.",
     "pros": [
       "Musical sound",
@@ -5878,7 +5878,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sony-mdr-7506",
-    "image": "/images/headphones/sony-mdr-7506.jpg",
+    "image": "/images/headphones/sony-mdr-7506.jpg?v=2",
     "verdict": "Sony's solid over-ear headphone offering neutral sound signature.",
     "pros": [
       "Natural timbre",
@@ -5967,7 +5967,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sony-ult-wear",
-    "image": "/images/headphones/sony-ult-wear.jpg",
+    "image": "/images/headphones/sony-ult-wear.jpg?v=2",
     "verdict": "Sony's solid over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Crisp treble",
@@ -6056,7 +6056,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=bose-qc-ultra",
-    "image": "/images/headphones/bose-qc-ultra.jpg",
+    "image": "/images/headphones/bose-qc-ultra.jpg?v=2",
     "verdict": "Bose's reference-grade over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Non-fatiguing",
@@ -6145,7 +6145,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=marshall-monitor-ii",
-    "image": "/images/headphones/marshall-monitor-ii.jpg",
+    "image": "/images/headphones/marshall-monitor-ii.jpg?v=2",
     "verdict": "Marshall's solid over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Fun to listen to",
@@ -6234,7 +6234,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=apple-airpods-max",
-    "image": "/images/headphones/apple-airpods-max.jpg",
+    "image": "/images/headphones/apple-airpods-max.jpg?v=2",
     "verdict": "Apple's solid over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Non-fatiguing",
@@ -6323,7 +6323,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sony-wf-1000xm5",
-    "image": "/images/headphones/sony-wf-1000xm5.jpg",
+    "image": "/images/headphones/sony-wf-1000xm5.jpg?v=2",
     "verdict": "Sony's premium true wireless earbuds with neutral-warm tuning.",
     "pros": [
       "Versatile",
@@ -6412,7 +6412,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=samsung-galaxy-buds3-pro",
-    "image": "/images/headphones/samsung-galaxy-buds3-pro.jpg",
+    "image": "/images/headphones/samsung-galaxy-buds3-pro.jpg?v=2",
     "verdict": "Samsung's premium true wireless earbuds with neutral tuning.",
     "pros": [
       "Natural timbre",
@@ -6501,7 +6501,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=samsung-galaxy-buds-fe",
-    "image": "/images/headphones/samsung-galaxy-buds-fe.jpg",
+    "image": "/images/headphones/samsung-galaxy-buds-fe.jpg?v=2",
     "verdict": "Samsung's capable true wireless earbuds with neutral-warm tuning.",
     "pros": [
       "Great timbre",
@@ -6590,7 +6590,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=google-pixel-buds-pro-2",
-    "image": "/images/headphones/google-pixel-buds-pro-2.jpg",
+    "image": "/images/headphones/google-pixel-buds-pro-2.jpg?v=2",
     "verdict": "Google's premium true wireless earbuds with neutral tuning.",
     "pros": [
       "Versatile",
@@ -6679,7 +6679,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=jabra-elite-10",
-    "image": "/images/headphones/jabra-elite-10.jpg",
+    "image": "/images/headphones/jabra-elite-10.jpg?v=2",
     "verdict": "Jabra's premium true wireless earbuds with neutral-warm tuning.",
     "pros": [
       "Smooth",
@@ -6768,7 +6768,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=jabra-elite-85t",
-    "image": "/images/headphones/jabra-elite-85t.jpg",
+    "image": "/images/headphones/jabra-elite-85t.jpg?v=2",
     "verdict": "Jabra's capable true wireless earbuds with neutral tuning.",
     "pros": [
       "Balanced response",
@@ -6857,7 +6857,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=jbl-tour-pro-2",
-    "image": "/images/headphones/jbl-tour-pro-2.jpg",
+    "image": "/images/headphones/jbl-tour-pro-2.jpg?v=2",
     "verdict": "JBL's premium true wireless earbuds with v-shaped tuning.",
     "pros": [
       "Good for pop/EDM",
@@ -6946,7 +6946,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=jbl-tune-230nc",
-    "image": "/images/headphones/jbl-tune-230nc.jpg",
+    "image": "/images/headphones/jbl-tune-230nc.jpg?v=2",
     "verdict": "JBL's capable true wireless earbuds with v-shaped tuning.",
     "pros": [
       "Good for pop/EDM",
@@ -7035,7 +7035,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sennheiser-mtw-4",
-    "image": "/images/headphones/sennheiser-mtw-4.jpg",
+    "image": "/images/headphones/sennheiser-mtw-4.jpg?v=2",
     "verdict": "Sennheiser's premium true wireless earbuds with neutral-warm tuning.",
     "pros": [
       "Versatile",
@@ -7124,7 +7124,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=bose-qc-earbuds-ii",
-    "image": "/images/headphones/bose-qc-earbuds-ii.jpg",
+    "image": "/images/headphones/bose-qc-earbuds-ii.jpg?v=2",
     "verdict": "Bose's premium true wireless earbuds with neutral-warm tuning.",
     "pros": [
       "Great timbre",
@@ -7213,7 +7213,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=bose-qc-ultra-earbuds",
-    "image": "/images/headphones/bose-qc-ultra-earbuds.jpg",
+    "image": "/images/headphones/bose-qc-ultra-earbuds.jpg?v=2",
     "verdict": "Bose's premium true wireless earbuds with neutral-warm tuning.",
     "pros": [
       "Smooth",
@@ -7302,7 +7302,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=nothing-ear-open",
-    "image": "/images/headphones/nothing-ear-open.jpg",
+    "image": "/images/headphones/nothing-ear-open.jpg?v=2",
     "verdict": "Nothing's capable true wireless earbuds with neutral tuning.",
     "pros": [
       "Accurate sound",
@@ -7391,7 +7391,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=oneplus-buds-pro-3",
-    "image": "/images/headphones/oneplus-buds-pro-3.jpg",
+    "image": "/images/headphones/oneplus-buds-pro-3.jpg?v=2",
     "verdict": "OnePlus's capable true wireless earbuds with v-shaped tuning.",
     "pros": [
       "Crisp treble",
@@ -7480,7 +7480,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=oppo-enco-x2",
-    "image": "/images/headphones/oppo-enco-x2.jpg",
+    "image": "/images/headphones/oppo-enco-x2.jpg?v=2",
     "verdict": "Oppo's premium true wireless earbuds with neutral tuning.",
     "pros": [
       "Balanced response",
@@ -7569,7 +7569,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=fiio-fw5",
-    "image": "/images/headphones/fiio-fw5.jpg",
+    "image": "/images/headphones/fiio-fw5.jpg?v=2",
     "verdict": "FiiO's capable true wireless earbuds with neutral-warm tuning.",
     "pros": [
       "Non-fatiguing",
@@ -7658,7 +7658,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=soundpeats-opera-05",
-    "image": "/images/headphones/soundpeats-opera-05.jpg",
+    "image": "/images/headphones/soundpeats-opera-05.jpg?v=2",
     "verdict": "SoundPeats's capable true wireless earbuds with v-shaped tuning.",
     "pros": [
       "Exciting sound",
@@ -7747,7 +7747,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=moondrop-space-travel",
-    "image": "/images/headphones/moondrop-space-travel.jpg",
+    "image": "/images/headphones/moondrop-space-travel.jpg?v=2",
     "verdict": "Moondrop's capable true wireless earbuds with neutral tuning.",
     "pros": [
       "Balanced response",
@@ -7836,7 +7836,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=edifier-stax-spirit-s3",
-    "image": "/images/headphones/edifier-stax-spirit-s3.jpg",
+    "image": "/images/headphones/edifier-stax-spirit-s3.jpg?v=2",
     "verdict": "Edifier's solid over-ear headphone offering neutral sound signature.",
     "pros": [
       "Accurate sound",
@@ -7925,7 +7925,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=audeze-lcd-2-classic",
-    "image": "/images/headphones/audeze-lcd-2-classic.jpg",
+    "image": "/images/headphones/audeze-lcd-2-classic.jpg?v=2",
     "verdict": "Audeze's reference-grade over-ear headphone offering warm sound signature.",
     "pros": [
       "Musical sound",
@@ -8014,7 +8014,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=audeze-maxwell",
-    "image": "/images/headphones/audeze-maxwell.jpg",
+    "image": "/images/headphones/audeze-maxwell.jpg?v=2",
     "verdict": "Audeze's solid over-ear headphone offering warm sound signature.",
     "pros": [
       "Rich bass",
@@ -8103,7 +8103,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=zmf-aeolus",
-    "image": "/images/headphones/zmf-aeolus.jpg",
+    "image": "/images/headphones/zmf-aeolus.jpg?v=2",
     "verdict": "ZMF's reference-grade over-ear headphone offering warm sound signature.",
     "pros": [
       "Smooth treble",
@@ -8192,7 +8192,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=fostex-th-900mk2",
-    "image": "/images/headphones/fostex-th-900mk2.jpg",
+    "image": "/images/headphones/fostex-th-900mk2.jpg?v=2",
     "verdict": "Fostex's reference-grade over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Exciting sound",
@@ -8281,7 +8281,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=sivga-sv023",
-    "image": "/images/headphones/sivga-sv023.jpg",
+    "image": "/images/headphones/sivga-sv023.jpg?v=2",
     "verdict": "Sivga's solid over-ear headphone offering warm sound signature.",
     "pros": [
       "Musical sound",
@@ -8370,7 +8370,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=samson-sr850",
-    "image": "/images/headphones/samson-sr850.jpg",
+    "image": "/images/headphones/samson-sr850.jpg?v=2",
     "verdict": "Samson's entry-level over-ear headphone offering bright sound signature.",
     "pros": [
       "Great resolution",
@@ -8459,7 +8459,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=superlux-hd668b",
-    "image": "/images/headphones/superlux-hd668b.jpg",
+    "image": "/images/headphones/superlux-hd668b.jpg?v=2",
     "verdict": "Superlux's entry-level over-ear headphone offering bright sound signature.",
     "pros": [
       "Analytical",
@@ -8548,7 +8548,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=jbl-live-770nc",
-    "image": "/images/headphones/jbl-live-770nc.jpg",
+    "image": "/images/headphones/jbl-live-770nc.jpg?v=2",
     "verdict": "JBL's solid over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Crisp treble",
@@ -8637,7 +8637,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=skullcandy-crusher-evo",
-    "image": "/images/headphones/skullcandy-crusher-evo.jpg",
+    "image": "/images/headphones/skullcandy-crusher-evo.jpg?v=2",
     "verdict": "Skullcandy's entry-level over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Fun to listen to",
@@ -8726,7 +8726,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=anker-soundcore-q45",
-    "image": "/images/headphones/anker-soundcore-q45.jpg",
+    "image": "/images/headphones/anker-soundcore-q45.jpg?v=2",
     "verdict": "Anker's entry-level over-ear headphone offering neutral-warm sound signature.",
     "pros": [
       "Natural sound",
@@ -8815,7 +8815,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=apple-airpods-4-anc",
-    "image": "/images/headphones/apple-airpods-4-anc.jpg",
+    "image": "/images/headphones/apple-airpods-4-anc.jpg?v=2",
     "verdict": "Apple's premium true wireless earbuds with neutral tuning.",
     "pros": [
       "Natural timbre",
@@ -8904,7 +8904,7 @@
       ]
     ],
     "youtube_review_url": "https://youtube.com/watch?v=beats-studio-pro",
-    "image": "/images/headphones/beats-studio-pro.jpg",
+    "image": "/images/headphones/beats-studio-pro.jpg?v=2",
     "verdict": "Beats's solid over-ear headphone offering v-shaped sound signature.",
     "pros": [
       "Fun to listen to",
