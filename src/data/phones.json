@@ -120,7 +120,7 @@
       "5g",
       "compact"
     ],
-    "image": "/images/phones/google-pixel-8a.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Google_Pixel_9_%28Peony%29.png/512px-Google_Pixel_9_%28Peony%29.png",
     "score": 86,
     "processor": "Google Tensor G3",
     "camera_mp": 64,
@@ -229,7 +229,7 @@
       "gaming",
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
     "score": 85,
     "processor": "Snapdragon 8 Gen 3",
     "camera_mp": 50,
@@ -1148,7 +1148,7 @@
       "5g",
       "battery"
     ],
-    "image": "/images/phones/pixel-9a.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Google_Pixel_9_%28Peony%29.png/512px-Google_Pixel_9_%28Peony%29.png",
     "score": 72,
     "processor": "Helio G99 Ultra",
     "camera_mp": 62,
@@ -1184,7 +1184,7 @@
       "camera",
       "5g"
     ],
-    "image": "/images/phones/pixel-8-pro.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Google_Pixel_9_Pro_%28Hazel%29.png/512px-Google_Pixel_9_Pro_%28Hazel%29.png",
     "score": 88,
     "processor": "Snapdragon 8 Elite",
     "camera_mp": 149,
@@ -1220,7 +1220,7 @@
       "5g",
       "battery"
     ],
-    "image": "/images/phones/pixel-8.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Google_Pixel_9_%28Peony%29.png/512px-Google_Pixel_9_%28Peony%29.png",
     "score": 78,
     "processor": "Snapdragon 695",
     "camera_mp": 60,
@@ -1608,7 +1608,7 @@
       "camera",
       "5g"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Redmi_katrina.jpg/960px-Redmi_katrina.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 88,
     "processor": "Exynos 2400",
     "camera_mp": 149,
@@ -1643,7 +1643,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Redmi_katrina.jpg/960px-Redmi_katrina.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 70,
     "processor": "Dimensity 6300",
     "camera_mp": 59,
@@ -1750,7 +1750,7 @@
       "camera",
       "5g"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 90,
     "processor": "Exynos 2400",
     "camera_mp": 122,
@@ -1786,7 +1786,7 @@
       "camera",
       "5g"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg/960px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_shop_%E5%B0%8F%E7%B1%B3%E7%B4%85%E7%B1%B3%E5%95%86%E5%BA%97_Xiaomi_Redmi_Store_May_2024_R12S_06.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 94,
     "processor": "Apple A18",
     "camera_mp": 65,
@@ -1821,7 +1821,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nothing-Design-Event-Tokyo-2024-07-05_018.jpg/960px-Nothing-Design-Event-Tokyo-2024-07-05_018.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nothing_phone_%282%29_%28Booredatwork.com%29_013.png/960px-Nothing_phone_%282%29_%28Booredatwork.com%29_013.png",
     "score": 77,
     "processor": "Snapdragon 695",
     "camera_mp": 60,
@@ -1856,7 +1856,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nothing-Design-Event-Tokyo-2024-07-05_018.jpg/960px-Nothing-Design-Event-Tokyo-2024-07-05_018.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nothing_phone_%282a%29.jpg/960px-Nothing_phone_%282a%29.jpg",
     "score": 68,
     "processor": "Dimensity 6300",
     "camera_mp": 49,
@@ -1891,7 +1891,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Nothing-Design-Event-Tokyo-2024-07-05_018.jpg/960px-Nothing-Design-Event-Tokyo-2024-07-05_018.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nothing_phone_%282a%29.jpg/960px-Nothing_phone_%282a%29.jpg",
     "score": 78,
     "processor": "Snapdragon 6 Gen 1",
     "camera_mp": 63,
@@ -2031,7 +2031,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Merchandise_Mart_080405.jpg/960px-Merchandise_Mart_080405.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Motorola_Edge.png",
     "score": 76,
     "processor": "Snapdragon 6 Gen 1",
     "camera_mp": 55,
@@ -2067,7 +2067,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Merchandise_Mart_080405.jpg/960px-Merchandise_Mart_080405.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Motorola_Edge.png",
     "score": 76,
     "processor": "Helio G99 Ultra",
     "camera_mp": 50,
@@ -2103,7 +2103,7 @@
       "flagship",
       "5g"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Motorola_RAZR_V3i_01.JPG/960px-Motorola_RAZR_V3i_01.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Motorola_Edge.png",
     "score": 91,
     "processor": "Dimensity 9400",
     "camera_mp": 144,
@@ -2138,7 +2138,7 @@
       "flagship",
       "5g"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Motorola_RAZR_V3i_01.JPG/960px-Motorola_RAZR_V3i_01.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Motorola_Edge.png",
     "score": 83,
     "processor": "Snapdragon 8 Elite",
     "camera_mp": 147,
@@ -2635,7 +2635,7 @@
       "camera",
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
     "score": 87,
     "processor": "Snapdragon 8 Gen 3",
     "camera_mp": 135,
@@ -2669,7 +2669,7 @@
     "category": [
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
     "score": 78,
     "processor": "Dimensity 8300 Ultra",
     "camera_mp": 87,
@@ -2704,7 +2704,7 @@
       "camera",
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
     "score": 93,
     "processor": "Exynos 2400",
     "camera_mp": 182,
@@ -2739,7 +2739,7 @@
       "camera",
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
     "score": 94,
     "processor": "Apple A18 Pro",
     "camera_mp": 54,
@@ -2773,7 +2773,7 @@
       "5g",
       "battery"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Star_Grey_Oppo_Find_X8.jpg/960px-Star_Grey_Oppo_Find_X8.jpg",
     "score": 74,
     "processor": "Snapdragon 695",
     "camera_mp": 55,
@@ -2809,7 +2809,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_headquaters_1.jpg/960px-Sony_headquaters_1.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sony_Xperia_1_Mk._V_with_a_White_Case.jpg/960px-Sony_Xperia_1_Mk._V_with_a_White_Case.jpg",
     "score": 70,
     "processor": "Helio G99 Ultra",
     "camera_mp": 63,
@@ -2880,7 +2880,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_headquaters_1.jpg/960px-Sony_headquaters_1.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sony_Xperia_1_Mk._V_with_a_White_Case.jpg/960px-Sony_Xperia_1_Mk._V_with_a_White_Case.jpg",
     "score": 72,
     "processor": "Snapdragon 695",
     "camera_mp": 54,
@@ -3097,7 +3097,7 @@
       "camera",
       "5g"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Honor_headquarter.jpg/960px-Honor_headquarter.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Honor_Magic_6_Pro.jpg/960px-Honor_Magic_6_Pro.jpg",
     "score": 85,
     "processor": "Apple A18 Pro",
     "camera_mp": 84,
@@ -3131,7 +3131,7 @@
     "category": [
       "5g"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Medal_of_Honor_Flag_with_Gold_Fringe.svg/960px-Medal_of_Honor_Flag_with_Gold_Fringe.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Honor_Magic_6_Pro.jpg/960px-Honor_Magic_6_Pro.jpg",
     "score": 85,
     "processor": "Snapdragon 6 Gen 3",
     "camera_mp": 104,
@@ -3167,7 +3167,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Medal_of_Honor_Flag_with_Gold_Fringe.svg/960px-Medal_of_Honor_Flag_with_Gold_Fringe.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Honor_Magic_6_Pro.jpg/960px-Honor_Magic_6_Pro.jpg",
     "score": 72,
     "processor": "Helio G99 Ultra",
     "camera_mp": 53,
@@ -3202,7 +3202,7 @@
       "gaming",
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_front_of_the_unreleased_vivo_X300_Pro.jpg/960px-The_front_of_the_unreleased_vivo_X300_Pro.jpg",
     "score": 89,
     "processor": "Snapdragon 8 Elite",
     "camera_mp": 50,
@@ -3274,7 +3274,7 @@
       "gaming",
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 85,
     "processor": "Snapdragon 8 Gen 3",
     "camera_mp": 50,
@@ -3310,7 +3310,7 @@
       "5g",
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lava_company_head_office.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 72,
     "processor": "Dimensity 7300",
     "camera_mp": 50,
@@ -3346,7 +3346,7 @@
       "gaming",
       "5g"
     ],
-    "image": "/images/phones/placeholder.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 75,
     "processor": "Dimensity 8200",
     "camera_mp": 108,
@@ -3381,7 +3381,7 @@
     "category": [
       "battery"
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/960px-Emblem_of_India.svg.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/23116PN5BC.jpg/960px-23116PN5BC.jpg",
     "score": 62,
     "processor": "Unisoc T612",
     "camera_mp": 13,
