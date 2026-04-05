@@ -48,22 +48,13 @@ export function ProductImage({
     return `https://images.unsplash.com/photo-${photoId}?q=80&w=800&auto=format&fit=crop`
   }
 
-  // If local file is specified but we assume it might not exist (i.e. starts with /images)
-  // we jump straight to unsplash to avoid 404 errors and broken icons
-  const isLocalMissing = src.startsWith("/images/") && !src.includes("placeholder")
-  const [imgSrc, setImgSrc] = useState(isLocalMissing ? buildUnsplashUrl() : (src || buildUnsplashUrl()))
+  const [imgSrc, setImgSrc] = useState(src || buildUnsplashUrl())
 
   // Sync if src changes
   useEffect(() => {
     if (src) {
-      const isLocalMissingNow = src.startsWith("/images/") && !src.includes("placeholder")
-      if (isLocalMissingNow) {
-        setImgSrc(buildUnsplashUrl())
-        setError(false)
-      } else {
-        setImgSrc(src)
-        setError(false)
-      }
+      setImgSrc(src)
+      setError(false)
     } else if (fallbackStrategy === "unsplash") {
       setImgSrc(buildUnsplashUrl())
     }
