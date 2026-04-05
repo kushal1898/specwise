@@ -4,13 +4,14 @@ import { useEffect, useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import { ExternalLink, Wifi, ShoppingCart, Tag } from "lucide-react"
 import { Card } from "@/components/ui/card"
+import { ProductImage } from "@/components/product-image"
 import { useSpecWise } from "@/lib/specwise-context"
 import phonesData from "@/data/phones.json"
 
 const PLATFORMS = [
-  { name: "Amazon", color: "text-orange-500", bg: "bg-orange-500/10", border: "border-orange-500/20" },
-  { name: "eBay", color: "text-blue-400", bg: "bg-blue-400/10", border: "border-blue-400/20" },
-  { name: "OLX", color: "text-green-500", bg: "bg-green-500/10", border: "border-green-500/20" },
+  { name: "Amazon", color: "text-orange-500", bg: "bg-orange-500/10", border: "border-orange-500/20", getUrl: (q: string) => `https://www.amazon.com/s?k=${encodeURIComponent(q)}` },
+  { name: "eBay", color: "text-blue-400", bg: "bg-blue-400/10", border: "border-blue-400/20", getUrl: (q: string) => `https://www.ebay.com/sch/i.html?_nkw=${encodeURIComponent(q)}` },
+  { name: "OLX", color: "text-green-500", bg: "bg-green-500/10", border: "border-green-500/20", getUrl: (q: string) => `https://www.olx.in/items/q-${encodeURIComponent(q)}` },
 ]
 
 export function LiveTechDeals() {
@@ -45,6 +46,7 @@ export function LiveTechDeals() {
           priceInr: discountedInr,
           discountPercentage: discount,
           platform: platform,
+          platformUrl: platform.getUrl(randomPhone.name),
           condition: Math.random() > 0.5 ? "New" : "Refurbished",
         }
       })
@@ -109,10 +111,12 @@ export function LiveTechDeals() {
 
                     <div className="relative h-48 overflow-hidden border-b border-white/5 bg-white/[0.02] shrink-0">
                       <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent z-10" />
-                      <img 
+                      <ProductImage 
                         src={deal.image} 
                         alt={deal.title} 
-                        className="absolute inset-0 h-full w-full object-contain p-8 transition-transform duration-700 group-hover:scale-110" 
+                        category="phone"
+                        seed={deal.id}
+                        className="absolute inset-0 h-full w-full [&_img]:object-contain [&_img]:p-6 transition-transform duration-700 group-hover:scale-110" 
                       />
                       <div className="absolute bottom-4 left-4 right-4 z-20 flex items-center justify-between">
                          <span className="text-xs font-black uppercase tracking-[0.2em] text-white/60">
@@ -144,7 +148,9 @@ export function LiveTechDeals() {
                            <ShoppingCart className="h-3 w-3" /> Buy Now
                         </div>
                         <a 
-                          href={`/phones/${deal.parentPhoneId}`} 
+                          href={deal.platformUrl} 
+                          target="_blank"
+                          rel="noopener noreferrer"
                           className="group/btn relative flex h-10 w-10 items-center justify-center rounded-xl bg-white/5 text-white/40 border border-white/10 backdrop-blur-md transition-all hover:bg-blue-500 hover:text-white hover:border-blue-500"
                           title="View on Platform"
                         >
