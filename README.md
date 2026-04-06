@@ -2,7 +2,6 @@
 
 **SpecWise** is a modern, data-driven tech comparison platform built for enthusiasts who care about specifications. Compare laptops, phones, and headphones with a focus on performance, value, and precise technical data.
 
-![SpecWise Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1200&h=400)
 
 ## 🚀 Features
 
